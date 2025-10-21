@@ -1,1 +1,4 @@
-dataset/*
+dataset/Codatta___mm-food-100_k
+dataset/*.lock
+
+
