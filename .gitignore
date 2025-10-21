@@ -1,4 +1,7 @@
 dataset/Codatta___mm-food-100_k
 dataset/*.lock
+dataset/ingredient_graph.npz 
+**/__pycache__/
 
 
+dataset/__pycache__

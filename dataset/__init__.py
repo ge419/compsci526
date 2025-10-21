@@ -31,6 +31,3 @@ def download_mm_food_100k(streaming=False, cache_dir=None):
     )
     return dataset
 
-
-# You can also expose the dataset directly
-# dataset = load_dataset("Codatta/MM-Food-100K", cache_dir=DATASET_DIR)

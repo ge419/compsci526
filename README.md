@@ -1,7 +1,6 @@
-# compsci526
+#  DisHinge 
 
-
-Setup 
+Setup
 ```
 pip install torch huggingface numpy matplotlib seaborn pandas datasets
 pip install debugpy ipython
@@ -27,6 +26,10 @@ $$
 $$
 
 2. Choose the dish based off of ingredients. Use a classical graph algorithm or approximate algorithm to do this. 
+
+Do EDA. 
+
+====
 
 Then add a constraint where you give the app what ingredients you already have. So constrained optimization is trivial. 
 
