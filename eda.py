@@ -176,15 +176,41 @@ def nutritional_analysis(df):
         if profile is None or (isinstance(profile, float) and np.isnan(profile)):
             continue
 
-        # Handle dict format
-        if isinstance(profile, dict):
-            nutritional_data['calories'].append(profile.get('calories', np.nan))
-            nutritional_data['protein'].append(profile.get('protein', np.nan))
-            nutritional_data['carbohydrates'].append(profile.get('carbohydrates', profile.get('carbs', np.nan)))
-            nutritional_data['fat'].append(profile.get('fat', np.nan))
-            nutritional_data['fiber'].append(profile.get('fiber', np.nan))
-            nutritional_data['sugar'].append(profile.get('sugar', np.nan))
-            nutritional_data['sodium'].append(profile.get('sodium', np.nan))
+        # Parse JSON string to dict
+        profile_dict = None
+        if isinstance(profile, str):
+            try:
+                profile_dict = json.loads(profile)
+            except json.JSONDecodeError:
+                continue
+        elif isinstance(profile, dict):
+            profile_dict = profile
+        else:
+            continue
+
+        # Extract nutritional values (handle various key formats)
+        if profile_dict:
+            nutritional_data['calories'].append(
+                profile_dict.get('calories', profile_dict.get('calories_kcal', np.nan))
+            )
+            nutritional_data['protein'].append(
+                profile_dict.get('protein', profile_dict.get('protein_g', np.nan))
+            )
+            nutritional_data['carbohydrates'].append(
+                profile_dict.get('carbohydrates', profile_dict.get('carbohydrate_g', profile_dict.get('carbs', np.nan)))
+            )
+            nutritional_data['fat'].append(
+                profile_dict.get('fat', profile_dict.get('fat_g', np.nan))
+            )
+            nutritional_data['fiber'].append(
+                profile_dict.get('fiber', profile_dict.get('fiber_g', np.nan))
+            )
+            nutritional_data['sugar'].append(
+                profile_dict.get('sugar', profile_dict.get('sugar_g', np.nan))
+            )
+            nutritional_data['sodium'].append(
+                profile_dict.get('sodium', profile_dict.get('sodium_mg', np.nan))
+            )
 
     # Create DataFrame for easier analysis
     nutrition_df = pd.DataFrame(nutritional_data)
