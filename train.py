@@ -290,7 +290,18 @@ def main(args):
     config_path = f'{run_dir}/config.json'
     with open(config_path, 'w') as f:
         json.dump(config, f, indent=2)
-    print(f"\nConfiguration saved to {config_path}")
+    print(f"Configuration saved to {config_path}")
+
+    # Save training history as JSON
+    history_dict = {
+        'train_loss': [float(x) for x in history['train_loss']],
+        'val_loss': [float(x) for x in history['val_loss']] if history['val_loss'] else None,
+        'epochs': list(range(1, len(history['train_loss']) + 1))
+    }
+    history_path = f'{run_dir}/training_history.json'
+    with open(history_path, 'w') as f:
+        json.dump(history_dict, f, indent=2)
+    print(f"Training history saved to {history_path}")
 
     # Test generation
     if args.test_generation:
@@ -313,6 +324,7 @@ def main(args):
     print(f"\nSaved files:")
     print(f"  - Model: {model_path}")
     print(f"  - Training plot: {plot_path}")
+    print(f"  - Training history (JSON): {history_path}")
     print(f"  - Configuration: {config_path}")
     print(f"\nTo load this model:")
     print(f"  from model.rbm import BernoulliRBM")
