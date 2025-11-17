@@ -1,0 +1,18 @@
+{
+  "run_id": "dwma",
+  "n_visible": 430,
+  "n_hidden": 200,
+  "n_epochs": 3,
+  "batch_size": 128,
+  "learning_rate": 0.01,
+  "cd_steps": 1,
+  "min_ingredient_count": 50,
+  "test_loss": 0.007387517775751226,
+  "final_train_loss": 0.007399411554752041,
+  "final_val_loss": 0.007382608399538263,
+  "n_ingredients": 430,
+  "n_train_samples": 80000,
+  "n_val_samples": 10000,
+  "n_test_samples": 10000,
+  "random_seed": 42
+}
