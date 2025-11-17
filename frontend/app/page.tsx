@@ -24,6 +24,9 @@ export default function Page() {
   );
   const [current, setCurrent] = useState<Recipe | null>(null);
   const [queue, setQueue] = useState<Recipe[]>([]);
+  const [dragX, setDragX] = useState(0);
+  const [dragging, setDragging] = useState(false);
+  const startXRef = useRef<number | null>(null);
   const esRef = useRef<EventSource | null>(null);
 
   useEffect(() => {
@@ -75,6 +78,9 @@ export default function Page() {
       const nq = [...q];
       const next = nq.shift() || null;
       setCurrent(next);
+      // reset any drag state when showing next
+      setDragX(0);
+      setDragging(false);
       return nq;
     });
   }
@@ -104,6 +110,62 @@ export default function Page() {
     showNext();
   }
 
+  // Pointer / touch handlers for swipe
+  function handlePointerDown(e: React.PointerEvent) {
+    // only left mouse / touch
+    (e.target as Element).setPointerCapture?.(e.pointerId);
+    startXRef.current = e.clientX;
+    setDragging(true);
+  }
+
+  function handlePointerMove(e: React.PointerEvent) {
+    if (!dragging || startXRef.current === null) return;
+    const delta = e.clientX - startXRef.current;
+    setDragX(delta);
+  }
+
+  function handlePointerUp(e: React.PointerEvent) {
+    if (!dragging) return;
+    // attempt to release pointer capture if possible
+    try {
+      (e.target as Element).releasePointerCapture?.(e.pointerId);
+    } catch {
+      // ignore
+    }
+    const delta = dragX;
+    const threshold = 120; // px
+    setDragging(false);
+    startXRef.current = null;
+
+    const winW = typeof window !== "undefined" ? window.innerWidth : 800;
+    if (delta > threshold) {
+      // swipe right => accept
+      onAccept();
+      setDragX(winW); // animate out
+      setTimeout(() => setDragX(0), 300);
+    } else if (delta < -threshold) {
+      // swipe left => reject
+      onReject();
+      setDragX(-winW);
+      setTimeout(() => setDragX(0), 300);
+    } else {
+      // reset
+      setDragX(0);
+    }
+  }
+
+  // card transform style applied to the whole article
+  const cardTransformStyle = {
+    transform: `translateX(${dragX}px) rotate(${dragX / 20}deg)`,
+    transition: dragging ? "none" : "transform 200ms ease, opacity 200ms ease",
+    opacity: Math.max(
+      0.25,
+      1 -
+        Math.abs(dragX) /
+          ((typeof window !== "undefined" ? window.innerWidth : 800) * 0.6)
+    ),
+  } as React.CSSProperties;
+
   return (
     <main style={{ maxWidth: 900, margin: "2rem auto", padding: 16 }}>
       <header style={{ marginBottom: 18 }}>
@@ -128,12 +190,18 @@ export default function Page() {
 
       {current && (
         <article
+          onPointerDown={handlePointerDown}
+          onPointerMove={handlePointerMove}
+          onPointerUp={handlePointerUp}
+          onPointerCancel={handlePointerUp}
           style={{
             padding: 16,
             borderRadius: 8,
             background: "#fff",
             boxShadow: "0 6px 18px rgba(0,0,0,0.06)",
             color: "#000",
+            touchAction: "pan-y",
+            ...cardTransformStyle,
           }}
         >
           <div style={{ display: "flex", gap: 12 }}>
