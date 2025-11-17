@@ -12,6 +12,9 @@ from pathlib import Path
 from model.rbm import BernoulliRBM
 from dataset import download_mm_food_100k
 from model.ingredient_graph import parse_ingredients
+import sys
+import time
+from datetime import datetime
 
 
 class DishMatcher:
@@ -93,6 +96,87 @@ def display_dish(dish, ingredient_names):
     print(f"{'='*80}")
 
 
+
+def emit_dish_json(dish: dict, ingredient_names: list, seq: int, model_version: str = "local-1.0", human_readable: bool = True):
+    """
+    Emit a JSON line describing the dish to stdout (JSONL).
+    Also optionally print human-readable block to stderr for terminal users.
+    """
+    # Build structured object
+    obj = {
+        "seq": seq,
+        "recipe_id": dish.get("dish_id") or f"gen-{seq}-{int(time.time())}",
+        "model_version": model_version,
+        "title": dish.get("dish_name"),
+        "food_type": dish.get("food_type"),
+        "cooking_method": dish.get("cooking_method"),
+        "score": dish.get("score"),
+        "ingredients": dish.get("ingredients") or [],
+        "matching": list(set(ingredient_names) & set(dish.get("ingredients", []))),
+        "nutrition": None,
+        "image_url": dish.get("image_url"),
+        "raw_text": None,
+        "timestamp": datetime.utcnow().isoformat() + "Z",
+    }
+
+    try:
+        nut = dish.get("nutritional_profile")
+        if isinstance(nut, str) and nut.strip():
+            parsed = json.loads(nut)
+            obj["nutrition"] = parsed
+        else:
+            obj["nutrition"] = nut or {}
+    except Exception:
+        obj["nutrition"] = None
+
+    # Optionally include a raw textual block for debugging
+    try:
+        raw_lines = []
+        raw_lines.append("="*40)
+        raw_lines.append("RECOMMENDED DISH (raw)")
+        raw_lines.append(f"Name: {obj['title']}")
+        raw_lines.append(f"Score: {obj['score']}")
+        raw_lines.append("Ingredients: " + ", ".join(obj["ingredients"]))
+        raw_lines.append("Image: " + str(obj["image_url"]))
+        raw_lines.append("="*40)
+        obj["raw_text"] = "\n".join(raw_lines)
+    except Exception:
+        obj["raw_text"] = None
+
+    sys.stdout.write(json.dumps(obj, ensure_ascii=False) + "\n")
+    sys.stdout.flush()
+
+    if human_readable:
+        try:
+            print("\n" + "="*80, file=sys.stderr)
+            print("RECOMMENDED DISH", file=sys.stderr)
+            print("="*80, file=sys.stderr)
+            print(f"Name: {obj['title']}", file=sys.stderr)
+            if obj.get("food_type"):
+                print(f"Type: {obj['food_type']}", file=sys.stderr)
+            if obj.get("cooking_method"):
+                print(f"Cooking: {obj['cooking_method']}", file=sys.stderr)
+            if obj.get("score") is not None:
+                print(f"Match Score: {obj['score']:.3f}", file=sys.stderr)
+            print("\nIngredients: " + ", ".join(obj["ingredients"]), file=sys.stderr)
+            if obj["matching"]:
+                print("Matching: " + ", ".join(sorted(obj["matching"])), file=sys.stderr)
+            if obj["nutrition"]:
+                try:
+                    cal = obj["nutrition"].get("calories_kcal", obj["nutrition"].get("calories", "N/A"))
+                    protein = obj["nutrition"].get("protein_g", obj["nutrition"].get("protein", "N/A"))
+                    carbs = obj["nutrition"].get("carbohydrate_g", obj["nutrition"].get("carbohydrates", "N/A"))
+                    fat = obj["nutrition"].get("fat_g", obj["nutrition"].get("fat", "N/A"))
+                    print(f"\nNutrition: {cal} kcal | Protein: {protein}g | Carbs: {carbs}g | Fat: {fat}g", file=sys.stderr)
+                except Exception:
+                    pass
+            if obj.get("image_url"):
+                print(f"\nImage: {obj['image_url']}", file=sys.stderr)
+            print("="*80 + "\n", file=sys.stderr)
+            sys.stderr.flush()
+        except Exception:
+            pass
+
 def main(args):
     # Load model
     model_path = f'saved/{args.run_id}/model.npz'
@@ -122,6 +206,8 @@ def main(args):
     iteration = 0
     accepted = 0
     rejected = 0
+    # Sequence counter for emitted recommendations
+    seq = 0
 
     # Main loop
     while True:
@@ -152,7 +238,18 @@ def main(args):
 
         # Show top dish
         top_dish = matches[0]
-        display_dish(top_dish, ingredient_names)
+
+        seq += 1
+        if args.json_output:
+            emit_dish_json(
+                top_dish,
+                ingredient_names,
+                seq=seq,
+                model_version="local-1.0",
+                human_readable=True
+            )
+        else:
+            display_dish(top_dish, ingredient_names)
 
         # Get feedback
         while True:
@@ -215,6 +312,7 @@ if __name__ == "__main__":
                        help='Learning rate for preference updates (default: 0.1)')
     parser.add_argument('--n-gibbs', type=int, default=1000,
                        help='Gibbs sampling steps (default: 1000)')
+    parser.add_argument('--json-output', action='store_true', help='emit JSONL for each recommended dish to stdout')
 
     args = parser.parse_args()
     main(args)

@@ -1,0 +1,20 @@
+# Node dependencies
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Generated logs and runtime artifacts
+generated.jsonl
+feedback.jsonl
+*.log
+*.pid
+
+# OS files
+.DS_Store
+
+# Optional: editor/temp
+*.swp
+*.swo
