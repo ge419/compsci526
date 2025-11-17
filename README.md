@@ -1,4 +1,24 @@
-#  DisHinge 
+# DisHinge - Food Recommendation System with Preference Learning
+
+A personalized dish recommendation system using a Restricted Boltzmann Machine (RBM) with adaptive user preference learning.
+
+## Quick Start
+
+### 1. Train a Model
+```bash
+python train.py --n-epochs 20 --n-hidden 500
+```
+
+### 2. Run Interactive Recommendations
+```bash
+python main.py --run-id dwma
+```
+- Enter `1` to accept / `0` to reject / `q` to quit
+- System adapts to your preferences in real-time!
+
+---
+
+## Original Project Plan
 
 Setup
 ```

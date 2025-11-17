@@ -280,6 +280,107 @@ class BernoulliRBM:
 
         return active_ingredients
 
+    def init_user_preference(self, latent_dim: int = 50) -> np.ndarray:
+        """
+        Initialize a user preference vector.
+
+        Args:
+            latent_dim: Dimension of the user preference vector
+
+        Returns:
+            Initialized user preference vector (latent_dim,)
+        """
+        # Initialize to zeros (neutral preferences)
+        return np.zeros(latent_dim)
+
+    def generate_with_preference(self, user_pref: np.ndarray, n_samples: int = 1,
+                                 n_gibbs: int = 1000, alpha: float = 0.5) -> np.ndarray:
+        """
+        Generate ingredient combinations conditioned on user preferences.
+
+        The user preference vector modulates the visible bias to shift the
+        generation distribution toward user preferences.
+
+        Args:
+            user_pref: User preference vector (latent_dim,)
+            n_samples: Number of samples to generate
+            n_gibbs: Number of Gibbs sampling steps
+            alpha: Strength of preference conditioning (0 = no effect, 1 = full effect)
+
+        Returns:
+            Generated samples (n_samples, n_visible)
+        """
+        # Create preference projection matrix if not exists
+        if not hasattr(self, 'W_pref'):
+            latent_dim = len(user_pref)
+            # Random projection from preference space to visible space
+            self.W_pref = np.random.randn(self.n_visible, latent_dim) * 0.01
+
+        # Compute preference-modulated bias
+        pref_bias = np.dot(self.W_pref, user_pref)
+
+        # Save original bias
+        original_vbias = self.vbias.copy()
+
+        # Temporarily modify visible bias with user preferences
+        self.vbias = self.vbias + alpha * pref_bias
+
+        # Generate using modified bias
+        v = (np.random.rand(n_samples, self.n_visible) < 0.1).astype(np.float32)
+        for _ in range(n_gibbs):
+            h_probs, h_samples = self.sample_hidden(v)
+            v_probs, v = self.sample_visible(h_samples)
+
+        # Restore original bias
+        self.vbias = original_vbias
+
+        return v
+
+    def update_user_preference(self, user_pref: np.ndarray, ingredients: List[str],
+                               feedback: str, learning_rate: float = 0.1) -> np.ndarray:
+        """
+        Update user preference vector based on accept/reject feedback.
+
+        Args:
+            user_pref: Current user preference vector (latent_dim,)
+            ingredients: List of ingredient names in the shown sample
+            feedback: 'accept' or 'reject'
+            learning_rate: Learning rate for preference update
+
+        Returns:
+            Updated user preference vector
+        """
+        # Create ingredient vector
+        ingredient_vec = np.zeros(self.n_visible)
+        for ing in ingredients:
+            if ing in self.ingredient_to_idx:
+                idx = self.ingredient_to_idx[ing]
+                ingredient_vec[idx] = 1.0
+
+        # Create preference projection matrix if not exists
+        if not hasattr(self, 'W_pref'):
+            latent_dim = len(user_pref)
+            self.W_pref = np.random.randn(self.n_visible, latent_dim) * 0.01
+
+        # Compute gradient: how should we update preferences to increase/decrease
+        # probability of this ingredient combination?
+
+        # Project ingredient vector to preference space
+        gradient = np.dot(self.W_pref.T, ingredient_vec - 0.5)  # Center around 0.5
+
+        # Update based on feedback
+        if feedback == 'accept':
+            # Move preferences toward this combination
+            user_pref = user_pref + learning_rate * gradient
+        elif feedback == 'reject':
+            # Move preferences away from this combination
+            user_pref = user_pref - learning_rate * gradient
+
+        # Optional: L2 regularization to prevent preference vector from growing too large
+        user_pref = user_pref * 0.99
+
+        return user_pref
+
     def save(self, filepath: str):
         """
         Save the RBM model to a file.
