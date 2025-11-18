@@ -1,0 +1,3166 @@
+{
+  "bananas": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "durian": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "french fries": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "lemon": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "lettuce": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "mango": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "mangosteen": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "milk": {
+    "restricted_for": [
+      "vegan"
+    ],
+    "is_meat": false,
+    "is_dairy": true,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "oysters": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "pineapple": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "sugar": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "vegetables": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "water": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "almonds": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "apple": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "apples": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "apricots": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "arugula": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "asparagus": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "avocado": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "bacon": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "bagel": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "baking powder": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "bamboo leaves": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "bamboo shoots": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "banana": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "barbecue sauce": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "basil": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "batter": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "bean sprouts": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "beans": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "beef": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "beef patty": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "beef steak": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "bell pepper": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "bell peppers": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "berries": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "bitter melon": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "black beans": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "black fungus": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "black pepper": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "black rice": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "blackberries": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "blueberries": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "boiled egg": {
+    "restricted_for": [
+      "vegan"
+    ],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": true,
+    "is_animal_product": false
+  },
+  "boiled eggs": {
+    "restricted_for": [
+      "vegan"
+    ],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": true,
+    "is_animal_product": false
+  },
+  "bok choy": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "bread": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "bread crumbs": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "breadcrumbs": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "breading": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "broccoli": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "broth": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "bun": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "buns": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "burger": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "burger bun": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "burger patty": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "butter": {
+    "restricted_for": [
+      "vegan"
+    ],
+    "is_meat": false,
+    "is_dairy": true,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "cabbage": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "cake": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "cake base": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "cake layers": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "caramel": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "carbonated water": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "carrot": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "carrots": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "cashews": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "cauliflower": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "celery": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "cheddar cheese": {
+    "restricted_for": [
+      "vegan"
+    ],
+    "is_meat": false,
+    "is_dairy": true,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "cheese": {
+    "restricted_for": [
+      "vegan"
+    ],
+    "is_meat": false,
+    "is_dairy": true,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "cheese sauce": {
+    "restricted_for": [
+      "vegan"
+    ],
+    "is_meat": false,
+    "is_dairy": true,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "cherries": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "cherry tomatoes": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "chestnuts": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "chicken": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "chicken feet": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "chicken wings": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "chickpeas": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "chili": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "chili oil": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "chili peppers": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "chili sauce": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "chives": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "chocolate": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "chocolate cake": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "chocolate chips": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "chocolate sauce": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "chocolate syrup": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "cilantro": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "clams": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "cocoa": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "cocoa powder": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "coconut": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "coconut milk": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "coffee": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "coloring": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "cookies": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "coriander": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "corn": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "cornmeal": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "crab": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "crabs": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "crackers": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "crawfish": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "cream": {
+    "restricted_for": [
+      "vegan"
+    ],
+    "is_meat": false,
+    "is_dairy": true,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "cream cheese": {
+    "restricted_for": [
+      "vegan"
+    ],
+    "is_meat": false,
+    "is_dairy": true,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "cream filling": {
+    "restricted_for": [
+      "vegan"
+    ],
+    "is_meat": false,
+    "is_dairy": true,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "cream sauce": {
+    "restricted_for": [
+      "vegan"
+    ],
+    "is_meat": false,
+    "is_dairy": true,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "croissant": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "croutons": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "cucumber": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "cucumbers": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "curry sauce": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "custard": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "daikon": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "dates": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "decorations": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "dessert": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "dill": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "dipping sauce": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "dough": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "dragon fruit": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "dressing": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "dried chili": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "dried chili peppers": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "dried chilies": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "dried fruit": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "dried fruits": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "dried meat": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "dried red chilies": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "dried red peppers": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "duck": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "dumpling dough": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "dumpling skin": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "dumpling wrapper": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "dumpling wrappers": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "dumplings": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "edamame": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "egg": {
+    "restricted_for": [
+      "vegan"
+    ],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": true,
+    "is_animal_product": false
+  },
+  "egg yolk": {
+    "restricted_for": [
+      "vegan"
+    ],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": true,
+    "is_animal_product": false
+  },
+  "eggplant": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "eggs": {
+    "restricted_for": [
+      "vegan"
+    ],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": true,
+    "is_animal_product": false
+  },
+  "enoki mushrooms": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "fat": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "feta cheese": {
+    "restricted_for": [
+      "vegan"
+    ],
+    "is_meat": false,
+    "is_dairy": true,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "filling": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "filling (meat/vegetables)": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "fish": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "fish balls": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "fish roe": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "flatbread": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "flavoring": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "flour": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "food coloring": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "fried chicken": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "fried dough": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "fried egg": {
+    "restricted_for": [
+      "vegan"
+    ],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": true,
+    "is_animal_product": false
+  },
+  "fried fish": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "fried items": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "fried meat": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "fried onions": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "fried potatoes": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "fried rice": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "fried shallots": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "fried snacks": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "fried tofu": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "fries": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "frosting": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "fruit": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "fruit filling": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "fruit flavoring": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "fruit juice": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "fruit puree": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "fruit toppings": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "fruits": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "garlic": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "garnish": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "gelatin": {
+    "restricted_for": [
+      "vegan"
+    ],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": true
+  },
+  "ginger": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "glaze": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "glutinous rice": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "glutinous rice flour": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "goji berries": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "grains": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "granola": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "grapefruit": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "grapes": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "green apple": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "green apples": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "green beans": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "green bell pepper": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "green bell peppers": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "green chili": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "green chilies": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "green grapes": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "green onion": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "green onions": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "green peas": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "green pepper": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "green peppers": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "green tea": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "green vegetables": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "greens": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "grilled chicken": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "grilled eel": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "grilled fish": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "grilled meat": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "ground beef": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "ground meat": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "ham": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "herbs": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "honey": {
+    "restricted_for": [
+      "vegan"
+    ],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": true
+  },
+  "hot dog": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "ice": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "ice cream": {
+    "restricted_for": [
+      "vegan"
+    ],
+    "is_meat": false,
+    "is_dairy": true,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "instant noodles": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "jackfruit": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "jam": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "jelly": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "ketchup": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "kimchi": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "kiwi": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "lamb": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "leafy greens": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "lemongrass": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "lentils": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "lime": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "lobster": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "lotus root": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "lychee": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "mashed potatoes": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "matcha": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "mayonnaise": {
+    "restricted_for": [
+      "vegan"
+    ],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": true,
+    "is_animal_product": false
+  },
+  "meat": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "meat (optional)": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "meat filling": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "meat sauce": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "meat skewers": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "meatballs": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "melon": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "milk powder": {
+    "restricted_for": [
+      "vegan"
+    ],
+    "is_meat": false,
+    "is_dairy": true,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "minced meat": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "mint": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "mixed greens": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "mixed vegetables": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "mozzarella cheese": {
+    "restricted_for": [
+      "vegan"
+    ],
+    "is_meat": false,
+    "is_dairy": true,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "mushrooms": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "mussels": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "mustard": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "noodles": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "nori": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "nuts": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "oats": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "octopus": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "oil": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "okra": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "olive oil": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "olives": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "onion": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "onion rings": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "onions": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "orange": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "oranges": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "pancake": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "pancakes": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "papaya": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "parmesan cheese": {
+    "restricted_for": [
+      "vegan"
+    ],
+    "is_meat": false,
+    "is_dairy": true,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "parsley": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "pasta": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "pastry": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "pastry dough": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "peach": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "peaches": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "peanut sauce": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "peanuts": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "pear": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "peas": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "pepper": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "pepperoni": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "peppers": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "pickled vegetables": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "pickles": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "pistachios": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "pizza": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "pizza crust": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "pizza dough": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "plantains": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "plum": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "plums": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "pomegranate": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "pork": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "pork belly": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "pork ribs": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "pork trotters": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "potato": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "potatoes": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "preservatives": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "processed meat": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "protein": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "puff pastry": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "pumpkin": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "pumpkin seeds": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "quail eggs": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian",
+      "vegan"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": true,
+    "is_animal_product": false
+  },
+  "quinoa": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "radish": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "raisins": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "raspberries": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "red bean paste": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "red beans": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "red bell pepper": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "red chili": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "red chili peppers": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "red pepper": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "red peppers": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "rice": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "rice cakes": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "rice flour": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "rice noodles": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "rice paper": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "roasted chicken": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "rosemary": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "salad": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "salad greens": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "salmon": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "salsa": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "salt": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "sambal": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "sauce": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "sauces": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "sausage": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "sausages": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "scallions": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "scallops": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "seafood": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "seasoning": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "seasonings": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "seaweed": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "seeds": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "sesame": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "sesame bun": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "sesame oil": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "sesame seeds": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "shellfish": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "short ribs": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "shrimp": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "skewered meat": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "sliced meat": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "snails": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "snap peas": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "soda": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "soft drink": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "soft serve ice cream": {
+    "restricted_for": [
+      "vegan"
+    ],
+    "is_meat": false,
+    "is_dairy": true,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "soup": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "soup base": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "soup broth": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "sour cream": {
+    "restricted_for": [
+      "vegan"
+    ],
+    "is_meat": false,
+    "is_dairy": true,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "soy sauce": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "soybeans": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "spaghetti": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "spices": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "spicy broth": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "spicy sauce": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "spinach": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "spring roll wrapper": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "spring rolls": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "sprinkles": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "squash": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "squid": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "starch": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "steak": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "steamed buns": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "sticky rice": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "strawberries": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "strawberry": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "sunflower seeds": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "sushi": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "sushi rice": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "sweet and sour sauce": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "sweet glaze": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "sweet potato": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "sweet potatoes": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "sweet sauce": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "syrup": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "tapioca pearls": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "tea": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "thyme": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "toast": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "tofu": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "tomato": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "tomato sauce": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "tomatoes": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "toppings": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "tortilla": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "tuna": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "vanilla": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "various meats": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "various vegetables": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "vegetable filling": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "vegetable oil": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "vinegar": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "wafer": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "wafer cone": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "waffle cone": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "walnuts": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "wasabi": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "watermelon": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "wheat flour": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "whipped cream": {
+    "restricted_for": [
+      "vegan"
+    ],
+    "is_meat": false,
+    "is_dairy": true,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "white rice": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "whole chicken": {
+    "restricted_for": [
+      "vegan",
+      "vegetarian"
+    ],
+    "is_meat": true,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "whole grain bread": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "whole grain flour": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "wrap": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "yeast": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "yogurt": {
+    "restricted_for": [
+      "vegan"
+    ],
+    "is_meat": false,
+    "is_dairy": true,
+    "is_egg": false,
+    "is_animal_product": false
+  },
+  "zucchini": {
+    "restricted_for": [],
+    "is_meat": false,
+    "is_dairy": false,
+    "is_egg": false,
+    "is_animal_product": false
+  }
+}

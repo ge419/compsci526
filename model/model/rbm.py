@@ -294,7 +294,9 @@ class BernoulliRBM:
         return np.zeros(latent_dim)
 
     def generate_with_preference(self, user_pref: np.ndarray, n_samples: int = 1,
-                                 n_gibbs: int = 1000, alpha: float = 0.5) -> np.ndarray:
+                                 n_gibbs: int = 1000, alpha: float = 0.5,
+                                 ingredient_mask: Optional[np.ndarray] = None,
+                                 seed_ingredients: Optional[List[str]] = None) -> np.ndarray:
         """
         Generate ingredient combinations conditioned on user preferences.
 
@@ -306,6 +308,8 @@ class BernoulliRBM:
             n_samples: Number of samples to generate
             n_gibbs: Number of Gibbs sampling steps
             alpha: Strength of preference conditioning (0 = no effect, 1 = full effect)
+            ingredient_mask: Optional binary mask (n_visible,) where 0 = forbidden, 1 = allowed
+            seed_ingredients: Optional list of ingredient names to start generation with
 
         Returns:
             Generated samples (n_samples, n_visible)
@@ -325,11 +329,43 @@ class BernoulliRBM:
         # Temporarily modify visible bias with user preferences
         self.vbias = self.vbias + alpha * pref_bias
 
-        # Generate using modified bias
-        v = (np.random.rand(n_samples, self.n_visible) < 0.1).astype(np.float32)
+        # Initialize visible units with seed ingredients if provided
+        seed_mask = None
+        if seed_ingredients is not None and self.ingredients is not None:
+            v = np.zeros((n_samples, self.n_visible), dtype=np.float32)
+            seed_mask = np.zeros(self.n_visible, dtype=np.float32)
+
+            for ing in seed_ingredients:
+                ing_lower = ing.lower()
+                # Try exact match first
+                if ing_lower in self.ingredient_to_idx:
+                    idx = self.ingredient_to_idx[ing_lower]
+                    v[:, idx] = 1.0
+                    seed_mask[idx] = 1.0  # Mark as seed ingredient
+                else:
+                    # Try case-insensitive match
+                    for model_ing, idx in self.ingredient_to_idx.items():
+                        if model_ing.lower() == ing_lower:
+                            v[:, idx] = 1.0
+                            seed_mask[idx] = 1.0  # Mark as seed ingredient
+                            break
+        else:
+            # Random initialization
+            v = (np.random.rand(n_samples, self.n_visible) < 0.1).astype(np.float32)
+
+        # Gibbs sampling
         for _ in range(n_gibbs):
             h_probs, h_samples = self.sample_hidden(v)
             v_probs, v = self.sample_visible(h_samples)
+
+            # Apply ingredient mask to forbid certain ingredients
+            if ingredient_mask is not None:
+                v = v * ingredient_mask  # Zero out forbidden ingredients
+
+            # Pin seed ingredients (keep them active)
+            if seed_mask is not None:
+                v = v + seed_mask  # Add seed ingredients back
+                v = np.clip(v, 0, 1)  # Ensure values stay in [0, 1]
 
         # Restore original bias
         self.vbias = original_vbias
@@ -418,7 +454,8 @@ class BernoulliRBM:
             self.ingredients = list(ingredients_array)
             self.ingredient_to_idx = {ing: idx for idx, ing in enumerate(self.ingredients)}
 
-        print(f"Model loaded from {filepath}")
+        import sys
+        print(f"Model loaded from {filepath}", file=sys.stderr)
         return self
 
     @classmethod
@@ -456,10 +493,11 @@ class BernoulliRBM:
         rbm.vbias = data['vbias']
         rbm.hbias = data['hbias']
 
-        print(f"Model loaded from {filepath}")
-        print(f"  n_visible={n_visible}, n_hidden={n_hidden}")
+        import sys
+        print(f"Model loaded from {filepath}", file=sys.stderr)
+        print(f"  n_visible={n_visible}, n_hidden={n_hidden}", file=sys.stderr)
         if ingredients:
-            print(f"  {len(ingredients)} ingredient names loaded")
+            print(f"  {len(ingredients)} ingredient names loaded", file=sys.stderr)
 
         return rbm
 

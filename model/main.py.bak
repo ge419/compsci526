@@ -61,8 +61,8 @@ class DishMatcher:
         filtered_count = len(self.filtered_df)
         excluded_count = original_count - filtered_count
 
-        print(f"Filtered dishes for {self.dietary_restriction}: {filtered_count:,} allowed, {excluded_count:,} excluded", file=sys.stderr)
-        print(f"  ({excluded_count/original_count*100:.1f}% of dishes excluded)\n", file=sys.stderr)
+        print(f"Filtered dishes for {self.dietary_restriction}: {filtered_count:,} allowed, {excluded_count:,} excluded")
+        print(f"  ({excluded_count/original_count*100:.1f}% of dishes excluded)\n")
 
     def jaccard_similarity(self, set1, set2):
         """Compute Jaccard similarity between two sets."""
@@ -359,7 +359,7 @@ def main(args):
                     return
 
                 elif feedback_input == '1':
-                    log(" Accepted")
+                    print(" Accepted")
                     user_pref = rbm.update_user_preference(
                         user_pref,
                         ingredient_names,
@@ -371,7 +371,7 @@ def main(args):
                     break
 
                 elif feedback_input == '0':
-                    log(" Rejected")
+                    print(" Rejected")
                     user_pref = rbm.update_user_preference(
                         user_pref,
                         ingredient_names,

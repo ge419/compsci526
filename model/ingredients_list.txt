@@ -1,0 +1,430 @@
+0: Bananas
+1: Durian
+2: French fries
+3: Lemon
+4: Lettuce
+5: Mango
+6: Mangosteen
+7: Milk
+8: Oysters
+9: Pineapple
+10: Sugar
+11: Vegetables
+12: Water
+13: almonds
+14: apple
+15: apples
+16: apricots
+17: arugula
+18: asparagus
+19: avocado
+20: bacon
+21: bagel
+22: baking powder
+23: bamboo leaves
+24: bamboo shoots
+25: banana
+26: bananas
+27: barbecue sauce
+28: basil
+29: batter
+30: bean sprouts
+31: beans
+32: beef
+33: beef patty
+34: beef steak
+35: bell pepper
+36: bell peppers
+37: berries
+38: bitter melon
+39: black beans
+40: black fungus
+41: black pepper
+42: black rice
+43: blackberries
+44: blueberries
+45: boiled egg
+46: boiled eggs
+47: bok choy
+48: bread
+49: bread crumbs
+50: breadcrumbs
+51: breading
+52: broccoli
+53: broth
+54: bun
+55: buns
+56: burger
+57: burger bun
+58: burger patty
+59: butter
+60: cabbage
+61: cake
+62: cake base
+63: cake layers
+64: caramel
+65: carbonated water
+66: carrot
+67: carrots
+68: cashews
+69: cauliflower
+70: celery
+71: cheddar cheese
+72: cheese
+73: cheese sauce
+74: cherries
+75: cherry tomatoes
+76: chestnuts
+77: chicken
+78: chicken feet
+79: chicken wings
+80: chickpeas
+81: chili
+82: chili oil
+83: chili peppers
+84: chili sauce
+85: chives
+86: chocolate
+87: chocolate cake
+88: chocolate chips
+89: chocolate sauce
+90: chocolate syrup
+91: cilantro
+92: clams
+93: cocoa
+94: cocoa powder
+95: coconut
+96: coconut milk
+97: coffee
+98: coloring
+99: cookies
+100: coriander
+101: corn
+102: cornmeal
+103: crab
+104: crabs
+105: crackers
+106: crawfish
+107: cream
+108: cream cheese
+109: cream filling
+110: cream sauce
+111: croissant
+112: croutons
+113: cucumber
+114: cucumbers
+115: curry sauce
+116: custard
+117: daikon
+118: dates
+119: decorations
+120: dessert
+121: dill
+122: dipping sauce
+123: dough
+124: dragon fruit
+125: dressing
+126: dried chili
+127: dried chili peppers
+128: dried chilies
+129: dried fruit
+130: dried fruits
+131: dried meat
+132: dried red chilies
+133: dried red peppers
+134: duck
+135: dumpling dough
+136: dumpling skin
+137: dumpling wrapper
+138: dumpling wrappers
+139: dumplings
+140: durian
+141: edamame
+142: egg
+143: egg yolk
+144: eggplant
+145: eggs
+146: enoki mushrooms
+147: fat
+148: feta cheese
+149: filling
+150: filling (meat/vegetables)
+151: fish
+152: fish balls
+153: fish roe
+154: flatbread
+155: flavoring
+156: flour
+157: food coloring
+158: french fries
+159: fried chicken
+160: fried dough
+161: fried egg
+162: fried fish
+163: fried items
+164: fried meat
+165: fried onions
+166: fried potatoes
+167: fried rice
+168: fried shallots
+169: fried snacks
+170: fried tofu
+171: fries
+172: frosting
+173: fruit
+174: fruit filling
+175: fruit flavoring
+176: fruit juice
+177: fruit puree
+178: fruit toppings
+179: fruits
+180: garlic
+181: garnish
+182: gelatin
+183: ginger
+184: glaze
+185: glutinous rice
+186: glutinous rice flour
+187: goji berries
+188: grains
+189: granola
+190: grapefruit
+191: grapes
+192: green apple
+193: green apples
+194: green beans
+195: green bell pepper
+196: green bell peppers
+197: green chili
+198: green chilies
+199: green grapes
+200: green onion
+201: green onions
+202: green peas
+203: green pepper
+204: green peppers
+205: green tea
+206: green vegetables
+207: greens
+208: grilled chicken
+209: grilled eel
+210: grilled fish
+211: grilled meat
+212: ground beef
+213: ground meat
+214: ham
+215: herbs
+216: honey
+217: hot dog
+218: ice
+219: ice cream
+220: instant noodles
+221: jackfruit
+222: jam
+223: jelly
+224: ketchup
+225: kimchi
+226: kiwi
+227: lamb
+228: leafy greens
+229: lemon
+230: lemongrass
+231: lentils
+232: lettuce
+233: lime
+234: lobster
+235: lotus root
+236: lychee
+237: mango
+238: mashed potatoes
+239: matcha
+240: mayonnaise
+241: meat
+242: meat (optional)
+243: meat filling
+244: meat sauce
+245: meat skewers
+246: meatballs
+247: melon
+248: milk
+249: milk powder
+250: minced meat
+251: mint
+252: mixed greens
+253: mixed vegetables
+254: mozzarella cheese
+255: mushrooms
+256: mussels
+257: mustard
+258: noodles
+259: nori
+260: nuts
+261: oats
+262: octopus
+263: oil
+264: okra
+265: olive oil
+266: olives
+267: onion
+268: onion rings
+269: onions
+270: orange
+271: oranges
+272: oysters
+273: pancake
+274: pancakes
+275: papaya
+276: parmesan cheese
+277: parsley
+278: pasta
+279: pastry
+280: pastry dough
+281: peach
+282: peaches
+283: peanut sauce
+284: peanuts
+285: pear
+286: peas
+287: pepper
+288: pepperoni
+289: peppers
+290: pickled vegetables
+291: pickles
+292: pineapple
+293: pistachios
+294: pizza
+295: pizza crust
+296: pizza dough
+297: plantains
+298: plum
+299: plums
+300: pomegranate
+301: pork
+302: pork belly
+303: pork ribs
+304: pork trotters
+305: potato
+306: potatoes
+307: preservatives
+308: processed meat
+309: protein
+310: puff pastry
+311: pumpkin
+312: pumpkin seeds
+313: quail eggs
+314: quinoa
+315: radish
+316: raisins
+317: raspberries
+318: red bean paste
+319: red beans
+320: red bell pepper
+321: red chili
+322: red chili peppers
+323: red pepper
+324: red peppers
+325: rice
+326: rice cakes
+327: rice flour
+328: rice noodles
+329: rice paper
+330: roasted chicken
+331: rosemary
+332: salad
+333: salad greens
+334: salmon
+335: salsa
+336: salt
+337: sambal
+338: sauce
+339: sauces
+340: sausage
+341: sausages
+342: scallions
+343: scallops
+344: seafood
+345: seasoning
+346: seasonings
+347: seaweed
+348: seeds
+349: sesame
+350: sesame bun
+351: sesame oil
+352: sesame seeds
+353: shellfish
+354: short ribs
+355: shrimp
+356: skewered meat
+357: sliced meat
+358: snails
+359: snap peas
+360: soda
+361: soft drink
+362: soft serve ice cream
+363: soup
+364: soup base
+365: soup broth
+366: sour cream
+367: soy sauce
+368: soybeans
+369: spaghetti
+370: spices
+371: spicy broth
+372: spicy sauce
+373: spinach
+374: spring roll wrapper
+375: spring rolls
+376: sprinkles
+377: squash
+378: squid
+379: starch
+380: steak
+381: steamed buns
+382: sticky rice
+383: strawberries
+384: strawberry
+385: sugar
+386: sunflower seeds
+387: sushi
+388: sushi rice
+389: sweet and sour sauce
+390: sweet glaze
+391: sweet potato
+392: sweet potatoes
+393: sweet sauce
+394: syrup
+395: tapioca pearls
+396: tea
+397: thyme
+398: toast
+399: tofu
+400: tomato
+401: tomato sauce
+402: tomatoes
+403: toppings
+404: tortilla
+405: tuna
+406: vanilla
+407: various meats
+408: various vegetables
+409: vegetable filling
+410: vegetable oil
+411: vegetables
+412: vinegar
+413: wafer
+414: wafer cone
+415: waffle cone
+416: walnuts
+417: wasabi
+418: water
+419: watermelon
+420: wheat flour
+421: whipped cream
+422: white rice
+423: whole chicken
+424: whole grain bread
+425: whole grain flour
+426: wrap
+427: yeast
+428: yogurt
+429: zucchini

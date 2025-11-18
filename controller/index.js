@@ -19,6 +19,17 @@ const MODEL_PY =
 const MODEL_RUN_ID = process.env.MODEL_RUN_ID || "gtcz";
 const PYTHON_EXE = process.env.PYTHON_EXE || "python"; // or full path to python
 
+// Dietary restriction (can be changed at runtime)
+let DIETARY_RESTRICTION = process.env.DIETARY_RESTRICTION || "none";
+
+// Seed ingredients (can be changed at runtime)
+let SEED_INGREDIENTS = process.env.SEED_INGREDIENTS || "";
+
+// Minimum ingredients filter
+const MIN_INGREDIENTS = process.env.MIN_INGREDIENTS
+  ? Number(process.env.MIN_INGREDIENTS)
+  : 3;
+
 const GENERATED_LOG = path.resolve(__dirname, "generated.jsonl");
 const FEEDBACK_LOG = path.resolve(__dirname, "feedback.jsonl");
 
@@ -49,23 +60,28 @@ let stdinQueue = [];
 let processingStdinQueue = false;
 
 function spawnModel() {
-  console.log(
-    "Spawning model process:",
-    PYTHON_EXE,
+  const args = [
     "-u",
     MODEL_PY,
     "--run-id",
     MODEL_RUN_ID,
-    "--json-output"
-  );
-  modelProc = spawn(
-    PYTHON_EXE,
-    ["-u", MODEL_PY, "--run-id", MODEL_RUN_ID, "--json-output"],
-    {
-      cwd: path.dirname(MODEL_PY),
-      stdio: ["pipe", "pipe", "pipe"],
-    }
-  );
+    "--json-output",
+    "--dietary-restriction",
+    DIETARY_RESTRICTION,
+    "--min-ingredients",
+    String(MIN_INGREDIENTS),
+  ];
+
+  // Add seed ingredients if provided
+  if (SEED_INGREDIENTS && SEED_INGREDIENTS.trim()) {
+    args.push("--seed-ingredients", SEED_INGREDIENTS);
+  }
+
+  console.log("Spawning model process:", PYTHON_EXE, ...args);
+  modelProc = spawn(PYTHON_EXE, args, {
+    cwd: path.dirname(MODEL_PY),
+    stdio: ["pipe", "pipe", "pipe"],
+  });
 
   // read stdout line by line
   const rl = readline.createInterface({ input: modelProc.stdout });
@@ -197,7 +213,70 @@ app.get("/health", (req, res) => {
     modelProc.pid &&
     modelProc.exitCode === null
   );
-  res.json({ ok: true, model_running: modelRunning });
+  res.json({
+    ok: true,
+    model_running: modelRunning,
+    dietary_restriction: DIETARY_RESTRICTION,
+    seed_ingredients: SEED_INGREDIENTS,
+  });
+});
+
+// Set dietary restriction endpoint
+app.post("/set-dietary-restriction", (req, res) => {
+  const { restriction } = req.body || {};
+  if (!restriction)
+    return res.status(400).json({ error: "restriction required" });
+
+  const validRestrictions = ["none", "vegetarian", "vegan"];
+  if (!validRestrictions.includes(restriction)) {
+    return res
+      .status(400)
+      .json({
+        error: `invalid restriction. Must be one of: ${validRestrictions.join(", ")}`,
+      });
+  }
+
+  console.log(
+    `Setting dietary restriction from "${DIETARY_RESTRICTION}" to "${restriction}"`
+  );
+  DIETARY_RESTRICTION = restriction;
+
+  // Kill current model process if running
+  if (modelProc && modelProc.pid && modelProc.exitCode === null) {
+    console.log("Killing current model process to restart with new restriction");
+    modelProc.kill();
+    // The 'exit' handler will automatically restart it with new restriction
+  } else {
+    // No model running, start one now
+    spawnModel();
+  }
+
+  res.json({ status: "ok", dietary_restriction: DIETARY_RESTRICTION });
+});
+
+// Set seed ingredients endpoint
+app.post("/set-seed-ingredients", (req, res) => {
+  const { ingredients } = req.body || {};
+  if (typeof ingredients !== "string") {
+    return res.status(400).json({ error: "ingredients must be a string (comma-separated)" });
+  }
+
+  console.log(
+    `Setting seed ingredients from "${SEED_INGREDIENTS}" to "${ingredients}"`
+  );
+  SEED_INGREDIENTS = ingredients;
+
+  // Kill current model process if running
+  if (modelProc && modelProc.pid && modelProc.exitCode === null) {
+    console.log("Killing current model process to restart with new seed ingredients");
+    modelProc.kill();
+    // The 'exit' handler will automatically restart it with new seed ingredients
+  } else {
+    // No model running, start one now
+    spawnModel();
+  }
+
+  res.json({ status: "ok", seed_ingredients: SEED_INGREDIENTS });
 });
 
 // stdin queue processor
