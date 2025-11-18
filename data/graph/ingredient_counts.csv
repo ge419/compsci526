@@ -1,0 +1,6277 @@
+ingredient,count
+"""vegetables""",9343
+"[""noodles""",9024
+"""sauce""]",9015
+"""green onions""",7826
+"""spices""]",7581
+"[""chicken""",6838
+"""sugar""",5585
+"[""rice""",5328
+"""vegetables""]",5300
+"""spices""",4614
+"[""beef""",4444
+"""meat""",4360
+"[""flour""",4155
+"""egg""",4052
+"[""meat""",4032
+"""broth""",3907
+"""garlic""",3889
+"""seasoning""]",3819
+"""soy sauce""",3738
+"""carrots""",3703
+"""bell peppers""",3646
+"""green onions""]",3590
+"[""shrimp""",3578
+"""chicken""",3423
+"""rice""",3198
+"""soy sauce""]",3161
+"""onions""",3014
+"""lettuce""",2997
+"""oil""]",2963
+"""sauce""",2775
+"""beef""",2678
+"""broth""]",2607
+"[""fish""",2529
+"""oil""",2500
+"""pork""",2344
+"""cheese""",2323
+"""water""",2293
+"""noodles""",2265
+"[""pork""",2094
+"""eggs""",1986
+"""butter""",1929
+"""shrimp""",1876
+"""sugar""]",1860
+"""cream""",1741
+"""cilantro""",1719
+"""garlic""]",1716
+"""tomato""",1703
+"""green peppers""",1649
+"""tomatoes""",1628
+"""potatoes""",1584
+"""broccoli""",1429
+"""cabbage""",1425
+"""salt""]",1384
+"""corn""",1353
+"[""fried chicken""",1351
+"""sesame seeds""]",1349
+"""sesame seeds""",1321
+"""cucumber""",1276
+"""herbs""]",1266
+"""mushrooms""",1259
+"[""tofu""",1240
+"[""bread""",1187
+"""egg""]",1177
+"""green beans""",1116
+"""cilantro""]",1113
+"[""eggs""",1111
+"""ground meat""",1088
+"""yeast""",1047
+"[""crawfish""",1040
+"[""potatoes""",1038
+"""tomato sauce""",1033
+"""ginger""",1008
+"""meat""]",1003
+"""tofu""",992
+"""flour""",984
+"[""watermelon""]",946
+"""peanuts""",939
+"""milk""",931
+"""chili peppers""",931
+"""chili""",927
+"""seaweed""",917
+"""chili""]",908
+"[""dumplings""",860
+"""onions""]",860
+"""onion""",857
+"""spicy sauce""",851
+"[""apple""]",836
+"""spinach""",801
+"[""pizza dough""",789
+"[""pasta""",787
+"""water""]",783
+"""salt""",776
+"[""chicken wings""",746
+"""red peppers""",737
+"""rice""]",734
+"[""steak""",704
+"""bok choy""",674
+"""butter""]",672
+"""cucumbers""",666
+"""fish""",638
+"[""pork belly""",636
+"""strawberries""",621
+"[""dough""",621
+"""fries""",612
+"[""salmon""",605
+"[""sugar""",584
+"[""cheese""",584
+"[""lychee""]",575
+"""bean sprouts""",567
+"[""crab""",565
+"""eggs""]",562
+"[""pastry""",560
+"""cream""]",549
+"""lettuce""]",547
+"""flavoring""]",545
+"""ham""",530
+"[""dumpling wrappers""",528
+"""bread""",519
+"""red chili""",514
+"""mixed vegetables""",511
+"""sausage""",509
+"[""beef patty""",509
+"""lemon""",502
+"[""milk""",499
+"""blueberries""",498
+"[""vegetables""",492
+"""herbs""",490
+"""meat filling""",483
+"[""cake""",479
+"""ginger""]",459
+"""bell pepper""",449
+"[""cabbage""",445
+"""tomato""]",443
+"""lemon""]",441
+"[""green beans""",441
+"[""strawberries""]",430
+"""peas""",429
+"""olive oil""",422
+"""spicy sauce""]",410
+"[""peach""]",401
+"""onion""]",393
+"[""lettuce""",392
+"""avocado""",391
+"[""pork ribs""",384
+"""milk""]",381
+"[""grapes""]",379
+"""carrots""]",378
+"[""chicken feet""",377
+"""dipping sauce""]",372
+"""zucchini""",372
+"""seaweed""]",368
+"[""durian""]",368
+"""soup""]",359
+"""ketchup""]",355
+"""cherry tomatoes""",355
+"[""egg""",353
+"""mushrooms""]",352
+"""breading""",350
+"""bun""",348
+"""bread""]",345
+"[""duck""",343
+"""lime""",341
+"[""spaghetti""",339
+"""sauces""]",339
+"[""chocolate""",338
+"""tomatoes""]",336
+"""meatballs""",335
+"""pepperoni""",334
+"""green bell pepper""",334
+"""pineapple""",325
+"[""seafood""",324
+"""dressing""]",318
+"[""white rice""]",313
+"[""corn""]",312
+"""asparagus""",308
+"""cheese""]",308
+"""mango""",307
+"[""mango""]",307
+"""carrot""",305
+"[""instant noodles""",302
+"[""lobster""",300
+"""clams""",300
+"[""oysters""",299
+"[""ice cream""",298
+"""nuts""",296
+"""noodles""]",295
+"""tomato sauce""]",294
+"""lime""]",294
+"[""eggplant""",292
+"[""egg""]",292
+"""green vegetables""",289
+"""red chili""]",288
+"[""corn""",288
+"""fried chicken""",287
+"[""orange""]",285
+"[""beef""]",285
+"[""bananas""]",281
+"""chili peppers""]",280
+"""green onion""",280
+"""cucumber""]",278
+"""bacon""",277
+"""parsley""]",275
+"""basil""]",273
+"""dumplings""",273
+"""beans""",273
+"[""eggs""]",272
+"""tuna""",271
+"""seasoning""",268
+"[""coffee""",266
+"""mayonnaise""]",260
+"""salad""",259
+"""burger bun""",256
+"""mayonnaise""",255
+"[""broccoli""",255
+"[""cherries""]",252
+"[""milk""]",251
+"[""apples""]",251
+"""green onion""]",250
+"[""cream""",249
+"""salmon""",246
+"""batter""",245
+"""celery""",245
+"""cheddar cheese""",241
+"""yeast""]",240
+"[""potato""",240
+"""grapes""",239
+"""sweet sauce""",238
+"[""leafy greens""",234
+"[""grilled meat""",233
+"""peanuts""]",231
+"[""meatballs""",230
+"[""clams""",229
+"""squid""",227
+"""red bell pepper""",226
+"""syrup""]",224
+"[""banana""]",224
+"[""cucumbers""",223
+"[""bok choy""",222
+"""olive oil""]",221
+"""salad greens""",221
+"""kimchi""",220
+"""nuts""]",219
+"""greens""",219
+"""crab""",218
+"""corn""]",215
+"""chocolate""",215
+"""filling""]",214
+"""wasabi""",211
+"[""mushrooms""",210
+"[""rice flour""",207
+"[""green peppers""",206
+"""rosemary""]",204
+"[""strawberries""",204
+"""bread crumbs""",204
+"""seafood""",202
+"""fries""]",201
+"""bell peppers""]",201
+"""scallions""",198
+"""dried chili""",195
+"""seasonings""]",195
+"""pasta""",193
+"[""greens""",192
+"""mint""]",190
+"[""peanuts""",190
+"[""sushi rice""",190
+"[""rice noodles""",189
+"""coconut milk""",186
+"[""cake base""",186
+"[""ground meat""",184
+"[""squid""",184
+"[""watermelon""",182
+"[""mango""",182
+"""mixed vegetables""]",181
+"""whipped cream""",180
+"""black fungus""",180
+"""lotus root""",179
+"""cabbage""]",176
+"""chicken""]",174
+"""raspberries""",174
+"[""shrimp""]",174
+"[""carrots""",173
+"""soup""",170
+"""coriander""",168
+"[""grilled chicken""",167
+"[""flatbread""",166
+"""yogurt""",165
+"""kiwi""",165
+"""chocolate""]",165
+"[""fried dough""",164
+"""potatoes""]",164
+"""sesame bun""",163
+"[""pancakes""",163
+"""green pepper""",161
+"""parsley""",161
+"""sausages""",161
+"""blueberries""]",160
+"""flour""]",159
+"""mint""",157
+"""pickles""]",153
+"""banana""",153
+"[""green vegetables""",153
+"""watermelon""",153
+"[""broth""",152
+"""bean sprouts""]",151
+"""peppers""",151
+"[""yogurt""",150
+"""basil""",147
+"""mozzarella cheese""",147
+"""syrup""",147
+"""cherry tomatoes""]",146
+"""oysters""",146
+"[""bell peppers""",146
+"""dessert""]",144
+"[""cauliflower""",142
+"[""fish""]",142
+"""tofu""]",142
+"[""tomatoes""",140
+"""pepper""]",140
+"[""tomatoes""]",139
+"""vegetable oil""]",139
+"[""burger patty""",138
+"""cauliflower""",138
+"[""cucumber""]",138
+"[""cucumber""",137
+"""ketchup""",136
+"""red pepper""",135
+"""greens""]",135
+"""pumpkin""",135
+"""preservatives""]",134
+"""salad""]",134
+"[""chicken""]",133
+"[""dumpling dough""",132
+"""decorations""]",132
+"""fruit""]",132
+"""grilled meat""",131
+"""honey""",130
+"[""tomato""]",130
+"""green peppers""]",130
+"""pickled vegetables""]",130
+"""curry sauce""",130
+"[""sausages""",129
+"""pineapple""]",128
+"""olives""",128
+"""frosting""",128
+"""gelatin""]",128
+"[""pear""]",127
+"""cocoa powder""",124
+"[""seaweed""",124
+"[""lotus root""",124
+"[""fries""",124
+"""gelatin""",123
+"""ice""]",123
+"[""dragon fruit""]",123
+"[""wheat flour""",123
+"""sausage""]",122
+"[""peanuts""]",121
+"[""bun""",121
+"[""spinach""",121
+"""food coloring""]",121
+"""frosting""]",120
+"[""snails""",120
+"""vinegar""",119
+"""arugula""",119
+"""eggplant""",119
+"""broccoli""]",118
+"""spinach""]",118
+"""soda""]",117
+"""potato""",116
+"""orange""",116
+"[""meat""]",115
+"""ham""]",114
+"""sweet and sour sauce""",114
+"[""fruit""",114
+"[""crabs""",113
+"""baking powder""]",113
+"""radish""",112
+"[""beef steak""",112
+"[""apple""",111
+"""coffee""]",110
+"""almonds""",110
+"""apple""",109
+"""pickles""",109
+"[""blueberries""]",109
+"""green beans""]",109
+"""vanilla""]",109
+"""garnish""]",108
+"[""zucchini""",108
+"""mussels""",107
+"""sour cream""",107
+"[""cream cheese""",105
+"""cauliflower""]",105
+"[""roasted chicken""",104
+"[""melon""]",104
+"""wasabi""]",104
+"[""sweet potato""]",103
+"""rice noodles""",103
+"[""pork trotters""",103
+"""strawberries""]",102
+"""cashews""",101
+"[""water""",101
+"""mixed greens""",101
+"""red peppers""]",101
+"[""nuts""",101
+"""carrot""]",100
+"""sushi rice""",99
+"[""various meats""",98
+"""green vegetables""]",97
+"""nori""",96
+"[""strawberry""]",96
+"""orange""]",96
+"""breadcrumbs""",96
+"""batter""]",96
+"[""beans""",96
+"""whipped cream""]",96
+"""tapioca pearls""",94
+"[""peaches""]",94
+"""octopus""",94
+"""pizza dough""]",93
+"""fried egg""",93
+"""dried red chilies""",93
+"""scallops""",92
+"""ice cream""",92
+"""edamame""",92
+"""scallions""]",92
+"""goji berries""",92
+"[""sausage""",92
+"""chives""]",92
+"""chives""",91
+"""grapes""]",91
+"[""fruit juice""",91
+"""bok choy""]",91
+"[""dumpling wrapper""",90
+"""coriander""]",89
+"[""sweet potato""",89
+"""kimchi""]",88
+"""sesame oil""]",88
+"""coffee""",88
+"""fried tofu""",88
+"""breading""]",87
+"""yogurt""]",87
+"""coloring""]",87
+"""flavoring""",87
+"""cucumbers""]",87
+"""fried dough""",87
+"[""crab""]",87
+"""fruit""",87
+"[""plums""]",86
+"[""mixed vegetables""",86
+"[""pumpkin""",86
+"""dried chili peppers""",86
+"""snap peas""]",85
+"""almonds""]",85
+"""beef patty""",85
+"""melon""",84
+"[""tuna""",84
+"[""glutinous rice flour""",84
+"""pork""]",84
+"[""tortilla""",84
+"""fried onions""",83
+"""sprinkles""]",82
+"""leafy greens""",82
+"[""pineapple""]",82
+"[""croissant""",82
+"""rosemary""",81
+"""chickpeas""",81
+"[""spices""",80
+"[""sliced meat""",80
+"""dough""",80
+"[""short ribs""",79
+"""barbecue sauce""]",79
+"""red beans""",79
+"""dill""]",79
+"[""banana""",79
+"""green chili""",79
+"[""fried fish""",78
+"[""oats""",78
+"""cream cheese""",77
+"[""rice paper""",77
+"[""potatoes""]",77
+"""bell pepper""]",77
+"""sauces""",77
+"[""fried rice""",77
+"[""grains""",77
+"""pizza dough""",76
+"""vinegar""]",75
+"""chili sauce""]",75
+"""curry sauce""]",75
+"""mango""]",74
+"[""bagel""",74
+"""black beans""",74
+"""fruits""",74
+"[""red beans""",73
+"""dried chili""]",73
+"[""mangosteen""]",73
+"""fried onions""]",73
+"[""hot dog""",72
+"""green bell peppers""",72
+"[""lentils""",72
+"""french fries""",71
+"""glaze""]",71
+"""dragon fruit""",71
+"""coconut""",71
+"""tea""]",70
+"""sweet and sour sauce""]",70
+"""fish roe""]",70
+"[""gelatin""",70
+"""black pepper""]",69
+"""soup broth""]",69
+"[""soft serve ice cream""",69
+"""pickled vegetables""",68
+"[""oranges""]",68
+"""daikon""",68
+"[""octopus""",68
+"""waffle cone""]",67
+"""sesame oil""",67
+"""red pepper""]",67
+"""cheese sauce""",67
+"[""green tea""",67
+"""honey""]",66
+"[""shellfish""",66
+"[""pizza crust""",66
+"""jelly""",66
+"""fried rice""",66
+"[""scallops""",65
+"""beef""]",65
+"[""rice cakes""",65
+"""watermelon""]",64
+"""lobster""",64
+"""toppings""]",64
+"""peas""]",64
+"""ground beef""",64
+"""boiled eggs""",64
+"""strawberry""",63
+"[""lamb""",63
+"""spring rolls""",63
+"""sweet glaze""",63
+"""dill""",63
+"""wafer cone""]",63
+"""fried fish""",62
+"[""glutinous rice""",62
+"[""bread""]",62
+"""shrimp""]",62
+"[""pastry dough""",62
+"[""kiwi""]",62
+"""zucchini""]",62
+"""mashed potatoes""",61
+"""okra""",61
+"""sushi""",61
+"""dried fruits""",61
+"""bun""]",60
+"""pepper""",60
+"[""lemon""]",60
+"""coconut milk""]",59
+"""flatbread""",59
+"""various vegetables""]",59
+"""sweet potato""",59
+"""fruits""]",59
+"""cherries""",59
+"""red chili peppers""",59
+"[""fried meat""",59
+"""soup base""]",59
+"[""green onions""",59
+"[""avocado""]",58
+"[""green bell pepper""",58
+"[""cake layers""",58
+"""avocado""]",58
+"""cake""",58
+"""barbecue sauce""",58
+"""parmesan cheese""",58
+"""chocolate chips""]",58
+"""bagel""",57
+"[""green apple""]",57
+"""dried red peppers""",57
+"""berries""",57
+"[""whole chicken""",57
+"""snap peas""",57
+"[""fruit""]",57
+"""mustard""]",57
+"""celery""]",56
+"""black fungus""]",56
+"[""cucumbers""]",56
+"""sweet sauce""]",56
+"""sour cream""]",55
+"""dough""]",55
+"""fat""",54
+"""dried chilies""",54
+"[""edamame""",54
+"[""grilled fish""",54
+"""peppers""]",54
+"""apple""]",54
+"[""apples""",53
+"""ice cream""]",53
+"""bamboo leaves""]",52
+"[""okra""",52
+"""cherries""]",52
+"""green pepper""]",52
+"""croutons""",52
+"""fat""]",52
+"""wrap""",52
+"""goji berries""]",52
+"""fried dough""]",51
+"[""tea""",51
+"""dried fruits""]",51
+"""soft drink""]",51
+"""green chilies""",51
+"[""bitter melon""",51
+"""cookies""]",51
+"[""whole grain flour""",51
+"[""grilled eel""",50
+"[""sesame seeds""",50
+"""french fries""]",50
+"[""matcha""",50
+"[""spring roll wrapper""",50
+"""fish""]",50
+"""chicken wings""",50
+"""toast""",50
+"[""coconut""",50
+"[""cornmeal""",50
+"""soup base""",50
+"[""sushi""",49
+"[""grapes""",49
+"""onion rings""]",49
+"""beans""]",49
+"""salad greens""]",49
+"""melon""]",49
+"""sesame""",49
+"[""burger""",48
+"""coconut""]",48
+"""cream filling""]",48
+"""grilled chicken""",48
+"[""french fries""",48
+"""raisins""",48
+"[""chocolate cake""",48
+"""meat sauce""",48
+"[""wrap""",48
+"""dumplings""]",47
+"[""whole fish""",47
+"""lotus seed paste""",47
+"[""lettuce""]",47
+"""fried chicken""]",47
+"""salad dressing""]",47
+"[""coffee""]",47
+"""chestnuts""",46
+"[""coconut milk""",46
+"[""dumpling skin""",46
+"[""rice""]",46
+"""meat (optional)""",45
+"""bamboo shoots""",45
+"""blackberries""",45
+"[""pork hock""",45
+"""cookies""",45
+"""enoki mushrooms""",45
+"""raisins""]",45
+"""mustard""",45
+"""tortilla""",44
+"""chocolate chips""",44
+"[""pork belly""]",44
+"[""almonds""",44
+"""fruit filling""]",44
+"[""burger bun""",44
+"""wafer cone""",44
+"""pancakes""",44
+"""drink""]",44
+"[""wafer""",44
+"""rice paper""",44
+"[""puff pastry""",44
+"""wrap""]",43
+"""vanilla""",43
+"""walnuts""",43
+"[""whole grain bread""",43
+"[""bacon""",43
+"""chili oil""]",43
+"""corn syrup""",43
+"[""green beans""]",43
+"[""steamed buns""",43
+"[""jelly""",43
+"""parmesan cheese""]",43
+"[""potato""]",42
+"[""sunflower seeds""]",42
+"[""mascarpone cheese""",42
+"[""pizza""",42
+"""dumpling wrapper""",42
+"[""sticky rice""",42
+"[""jackfruit""]",42
+"""arugula""]",42
+"""egg yolk""]",42
+"""tapioca pearls""]",42
+"[""skewered meat""",42
+"""jam""]",41
+"""processed meat""]",41
+"[""black rice""",41
+"""banana""]",41
+"""wafer""]",41
+"[""orange""",41
+"""tea""",41
+"""crawfish""",41
+"[""cherry tomatoes""]",41
+"""dates""",41
+"""leafy greens""]",41
+"[""fruit puree""",41
+"[""eggplant""]",41
+"[""plum""]",40
+"""ground meat""]",40
+"""raspberries""]",40
+"""green bell pepper""]",40
+"[""lychee""",40
+"""peanut sauce""",40
+"""protein""]",40
+"[""spring roll wrappers""",40
+"""kiwi""]",40
+"[""coconut water""]",40
+"""cream sauce""",40
+"""crackers""]",40
+"""sweetener""]",40
+"""meatballs""]",40
+"""feta cheese""",40
+"""meat filling""]",39
+"""pumpkin""]",39
+"""glaze""",39
+"[""pork""]",39
+"[""melon""",39
+"""oranges""",39
+"""vegetable oil""",39
+"[""pomegranate""]",39
+"""olives""]",39
+"""lemongrass""",39
+"[""pears""]",39
+"""chili sauce""",38
+"""dried red chili""",38
+"[""squash""]",38
+"""fish balls""",38
+"""fried potatoes""",38
+"""radish""]",38
+"""pistachios""",38
+"""dressing""",38
+"[""leafy greens""]",38
+"[""soybeans""",38
+"""oranges""]",38
+"[""butter""",38
+"""green peas""",37
+"[""tapioca pearls""",37
+"""wafer""",37
+"""cocoa""",37
+"""ladyfingers""",37
+"[""pineapple""",37
+"[""fried chicken""]",37
+"""spicy broth""]",37
+"[""dates""]",37
+"[""carbonated water""",37
+"""flatbread""]",37
+"""rice flour""",37
+"""quail eggs""",37
+"""fruit toppings""]",37
+"[""blueberries""",37
+"""filling (meat/vegetables)""]",37
+"[""apricots""]",37
+"""egg yolk""",37
+"""chocolate sauce""]",37
+"[""crayfish""",37
+"[""yogurt""]",36
+"[""bean sprouts""",36
+"""grains""",36
+"""berries""]",36
+"[""celery""",36
+"""cake""]",36
+"""dipping sauce""",36
+"[""sauce""",36
+"""green chili""]",36
+"""salsa""",36
+"""ice""",36
+"[""tomato""",35
+"[""salmon""]",35
+"""buns""",35
+"""stabilizers""]",35
+"[""radish""",35
+"""edible flowers""]",35
+"[""noodles""]",35
+"[""oatmeal""",35
+"""filling (meat or vegetables)""]",34
+"[""liver""",34
+"""snacks""]",34
+"""red bean paste""",34
+"[""quinoa""",34
+"""prosciutto""",34
+"[""cantaloupe""]",34
+"""boiled egg""",34
+"[""pumpkin""]",34
+"[""pancake""",34
+"[""tart crust""",34
+"""seafood""]",34
+"""skewered meat""",34
+"[""crackers""",34
+"""stir-fried vegetables""",34
+"[""carrots""]",34
+"[""avocado""",34
+"""custard""]",34
+"""peanut sauce""]",34
+"[""beets""",34
+"""jelly""]",33
+"""milk powder""]",33
+"[""chicken patty""",33
+"[""mushrooms""]",33
+"[""abalone""",33
+"""pastry""]",33
+"""bananas""",33
+"""powdered sugar""]",33
+"""spaghetti""",33
+"[""raspberries""",33
+"[""dried meat""",33
+"""pistachios""]",33
+"""red bell pepper""]",32
+"""beer""]",32
+"""soup broth""",32
+"[""cheese""]",32
+"""napa cabbage""",32
+"""chili oil""",32
+"""lentils""",32
+"""cake base""",32
+"""strawberry""]",32
+"[""soba noodles""",32
+"""potato""]",32
+"[""duck""]",32
+"""thyme""]",32
+"[""shaved ice""",32
+"[""meat skewers""",32
+"""kale""",31
+"""baby corn""",31
+"""sesame seed bun""",31
+"""sashimi""",31
+"""lychee""",31
+"[""processed meat""",31
+"""marinade""]",30
+"""sambal""]",30
+"""duck""",30
+"""sausages""]",30
+"""steak""",30
+"""fried shallots""]",30
+"""chocolate syrup""",30
+"""vegetable filling""",30
+"[""green apples""]",30
+"""black sesame seeds""]",30
+"[""broccoli""]",30
+"[""braised meat""",30
+"""fruit flavoring""]",30
+"""black rice""",30
+"[""green grapes""]",30
+"[""soup""",30
+"""quinoa""",30
+"[""onions""",30
+"""dragon fruit""]",30
+"""minced meat""",29
+"[""soy sauce""",29
+"[""salad greens""",29
+"""seeds""]",29
+"[""lime""]",29
+"[""chickpeas""",29
+"""crust""]",29
+"[""ground beef""",29
+"""salami""",29
+"""roasted chicken""",29
+"[""papaya""]",29
+"""crackers""",28
+"""bay leaves""",28
+"""pepperoni""]",28
+"[""waffle""",28
+"""burger""",28
+"[""lobster""]",28
+"[""oil""",28
+"""sambal""",28
+"""peach""]",28
+"[""whole wheat flour""",28
+"[""zucchini""]",28
+"""plantains""",28
+"[""whipped cream""",28
+"""turmeric""",28
+"[""cereal""",28
+"""peach""",28
+"[""cabbage""]",28
+"[""green pepper""]",28
+"[""longan""]",28
+"[""chicken breast""",28
+"[""ribeye steak""",27
+"""pomegranate""",27
+"""sea urchin""",27
+"""graham cracker crust""",27
+"[""almond flour""",27
+"""spicy broth""",27
+"""cashews""]",27
+"""bacon""]",27
+"[""chili peppers""",27
+"[""sausages""]",27
+"""red bell peppers""",27
+"""asparagus""]",27
+"[""oyster""",27
+"""granola""",27
+"[""grapefruit""]",27
+"""bitter melon""",27
+"[""sweet potatoes""",27
+"[""snap peas""",26
+"""fried shallots""",26
+"""fried items""",26
+"[""popcorn""",26
+"[""soup base""",26
+"""curry""",26
+"""wood ear mushrooms""",26
+"""starch""]",26
+"[""roasted duck""",26
+"""shiitake mushrooms""",26
+"[""dried fruit""]",26
+"""blackberries""]",26
+"[""pastry crust""",26
+"[""chips""",26
+"[""garlic""]",26
+"""chocolate sauce""",26
+"""apples""",26
+"[""green bell peppers""",26
+"[""dried meat""]",26
+"[""chocolate ice cream""",26
+"[""chicken skewers""",26
+"[""ramen noodles""",26
+"[""tofu""]",26
+"[""espresso""",26
+"[""black beans""",25
+"[""mixed greens""",25
+"""caramel""]",25
+"[""loquats""]",25
+"""fried garlic""]",25
+"""fish roe""",25
+"""salsa""]",25
+"""chili flakes""]",25
+"""gravy""]",25
+"[""coconut""]",25
+"""cinnamon""",25
+"[""fruits""]",25
+"""decorative icing""]",25
+"""milk powder""",25
+"""processed meat""",24
+"""fruit flavoring""",24
+"[""beef steak""]",24
+"[""spring rolls""",24
+"""guacamole""",24
+"""whole grain bread""",24
+"""shellfish""",24
+"""radishes""",24
+"""pastry""",24
+"""various vegetables""",24
+"[""whole milk""]",24
+"""sesame""]",24
+"[""snack ingredients""]",24
+"[""dragon fruit""",24
+"""red bean paste""]",24
+"""egg whites""",24
+"""beef flavoring""",24
+"""nori""]",24
+"[""porridge""",24
+"""lychee""]",24
+"[""ham""",23
+"""dates""]",23
+"""rice cakes""",23
+"[""eel""",23
+"""cream frosting""",23
+"""caviar""",23
+"""fried items""]",23
+"""glucose syrup""",23
+"""fried snacks""",23
+"""eggplant""]",23
+"""mixed salad""",23
+"[""plantains""",23
+"""chicken nuggets""",23
+"[""sunflower seeds""",23
+"""raw fish""",23
+"[""crabs""]",23
+"[""corn flour""",23
+"""fried vegetables""",23
+"""cocoa powder""]",23
+"""fried snacks""]",23
+"""black olives""",23
+"[""insects""",23
+"""dessert""",22
+"[""roast meat""",22
+"[""buns""",22
+"[""mung beans""",22
+"[""green vegetables""]",22
+"""chicken feet""",22
+"""roast duck""",22
+"""meat skewers""",22
+"""pumpkin seeds""",22
+"""black pepper""",22
+"""purple cabbage""",22
+"""figs""",22
+"""hoisin sauce""]",22
+"""decorative elements""]",22
+"""citric acid""",22
+"""scrambled eggs""",22
+"[""frog legs""",22
+"""chocolate coating""",22
+"[""bananas""",22
+"""chocolate syrup""]",22
+"""omelette""",22
+"[""chili""",21
+"""sliced meat""",21
+"[""chestnuts""]",21
+"""lamb""",21
+"""grains""]",21
+"""cake base""]",21
+"""various meats""",21
+"""boiled eggs""]",21
+"[""green peppers""]",21
+"""cream cheese""]",21
+"[""pork hocks""",21
+"[""mussels""",21
+"[""green onions""]",21
+"""chili flakes""",21
+"""cone""]",21
+"[""dumpling""",21
+"[""white flour""",21
+"[""cookies""",21
+"""cooking oil""]",21
+"[""fried items""",21
+"[""mixed fruits""",21
+"[""papaya""",21
+"""burger bun""]",21
+"[""shredded chicken""",21
+"[""oysters""]",21
+"[""ribs""",21
+"""green sauce""]",21
+"""fried meat""",21
+"""buns""]",21
+"[""roast duck""",21
+"""granola""]",21
+"""pesto""",21
+"[""bell pepper""",21
+"[""green peas""",21
+"""red cabbage""",21
+"""oysters""]",21
+"""bamboo shoots""]",21
+"""caramel""",21
+"[""durian""",20
+"""black beans""]",20
+"""dried fruit""]",20
+"""thyme""",20
+"""microgreens""]",20
+"[""batter""",20
+"""plums""]",20
+"[""green plums""]",20
+"""eel""",20
+"[""pasta""]",20
+"[""sea urchin""",20
+"""snack""]",20
+"""crab sticks""",20
+"""spring rolls""]",20
+"""banana leaves""]",20
+"""baked beans""",20
+"""brown rice""",20
+"""sweet potato""]",20
+"""grilled fish""",20
+"[""fried snacks""",20
+"""cocoa butter""",20
+"""patty""",20
+"[""asparagus""",20
+"[""guava""]",20
+"[""couscous""",20
+"""beef skewers""",20
+"[""raspberries""]",20
+"""fried batter""]",20
+"""graham cracker crust""]",19
+"""glaze sauce""]",19
+"[""kiwi""",19
+"""naan""",19
+"""starch""",19
+"[""buckwheat""",19
+"""strawberry flavor""",19
+"[""beef ribs""",19
+"""gravy""",19
+"[""minced meat""",19
+"""fried tofu""]",19
+"""green chilies""]",19
+"""filling (meat/vegetables)""",19
+"""cookie""]",19
+"""sweet potatoes""",19
+"""feta cheese""]",19
+"[""carrot""]",19
+"""meat or tofu""]",19
+"[""chives""",19
+"""leeks""",19
+"[""bok choy""]",19
+"""white rice""",19
+"""sushi rice""]",19
+"""black bean sauce""",19
+"""fried toppings""",19
+"""cinnamon""]",19
+"[""peaches""",19
+"""cocoa""]",18
+"[""berries""",18
+"""filling (optional)""]",18
+"""potato fries""",18
+"[""sausage""]",18
+"""fried egg""]",18
+"[""dried fish""",18
+"""vegetable filling""]",18
+"""edamame""]",18
+"""sesame bun""]",18
+"""hops""",18
+"[""peach""",18
+"""red dates""",18
+"[""beetroot""",18
+"[""fried item""",18
+"[""matcha powder""",18
+"[""orange juice""]",18
+"[""tortilla chips""",18
+"""black olives""]",18
+"""pizza""",18
+"""oats""",18
+"""soda""",18
+"[""various snacks""]",18
+"""peaches""]",18
+"[""cake flour""",18
+"""seasonings""",18
+"[""toast""",18
+"""chicken skewers""",18
+"""hoisin sauce""",18
+"""rose petals""]",18
+"[""fufu""",18
+"""walnuts""]",18
+"""fish cake""",18
+"[""dried fish""]",18
+"""meat (optional)""]",17
+"""dipping sauces""]",17
+"[""naan""",17
+"""pine nuts""]",17
+"""cream filling""",17
+"""saffron""]",17
+"[""cherries""",17
+"[""cured meat""]",17
+"""red beans""]",17
+"[""bitter melon""]",17
+"[""century eggs""",17
+"""lotus root""]",17
+"""protein (e.g.",17
+"""fried bread""",17
+"""sticky rice""",17
+"[""lemon""",17
+"[""waffles""",17
+"""cherry""]",17
+"""meatball""",17
+"""flavorings""]",17
+"[""white bread""]",17
+"[""strawberry flavor""",17
+"[""whole pig""",17
+"[""coffee beans""]",16
+"[""milk powder""",16
+"""sweet glaze""]",16
+"""cream sauce""]",16
+"""sauerkraut""",16
+"[""squash""",16
+"""coleslaw""]",16
+"[""strawberry""",16
+"[""quail""",16
+"[""glass noodles""",16
+"[""kiwifruit""]",16
+"""sweetener""",16
+"""croissant""",16
+"""black sauce""]",16
+"""grilled pork""",16
+"[""pork chop""",16
+"""coleslaw""",16
+"[""passion fruit""]",16
+"[""spinach""]",16
+"""fried shrimp""",16
+"""cake layers""",16
+"[""boiled eggs""",16
+"""matcha""",16
+"""juice""]",16
+"""fruit topping""]",16
+"[""beef patties""",16
+"[""nuts""]",16
+"""creamer""]",16
+"[""baguette""",16
+"[""orange juice""",16
+"[""bamboo shoots""",16
+"""other vegetables""]",16
+"[""pizza base""",16
+"[""puri""",15
+"""potato wedges""",15
+"""egg tart""]",15
+"[""small fruits""]",15
+"""raspberry""",15
+"[""cashew nuts""]",15
+"""grilled vegetables""]",15
+"""peaches""",15
+"""candy""",15
+"""okra""]",15
+"""fruit filling""",15
+"[""small fish""",15
+"""meat patty""",15
+"""pickled ginger""]",15
+"""side dish""]",15
+"""hot dog""",15
+"[""blackberries""]",15
+"[""honey""]",15
+"""green grapes""]",15
+"""citric acid""]",15
+"[""fruits""",15
+"[""gnocchi""",15
+"""fruit puree""",15
+"[""green fruits""]",15
+"[""ginger""]",15
+"""tempura""",15
+"""blueberry""]",15
+"""steamed bun""]",15
+"""protein source""]",15
+"[""french toast""",15
+"[""honey""",15
+"""red onion""",15
+"[""apricot""]",15
+"""apples""]",15
+"""meat or vegetables""]",15
+"""seeds""",15
+"""sweet syrup""]",15
+"""vegetable broth""]",15
+"""sweet filling""]",15
+"""carbonated water""",15
+"""fruit juice""]",15
+"""food coloring""",15
+"[""pomelo""]",15
+"""quinoa""]",15
+"[""pistachios""]",15
+"[""okra""]",15
+"""shredded meat""",15
+"""pulled meat""",15
+"[""green bell pepper""]",15
+"""squid""]",15
+"[""curry sauce""",14
+"""sweet syrup""",14
+"""blueberry""",14
+"""jam""",14
+"""daikon""]",14
+"[""phyllo dough""",14
+"""soybeans""",14
+"[""walnuts""]",14
+"[""black sesame""",14
+"[""roasted meat""",14
+"""clams""]",14
+"""steamed buns""]",14
+"[""taco shell""",14
+"""drinks""]",14
+"[""potato chips""",14
+"""wheat flour""",14
+"""spice mix""]",14
+"[""wagyu beef""",14
+"""skewered meat""]",14
+"""chocolate filling""]",14
+"""onion rings""",14
+"""puff pastry""",14
+"""decorative toppings""]",14
+"""bbq sauce""]",14
+"[""dried fruit""",14
+"[""dried vegetables""]",14
+"[""fried tofu""",14
+"""fried potatoes""]",14
+"[""curry""",14
+"""vegetable soup""",14
+"[""napa cabbage""",14
+"[""dosa""",14
+"""green herbs""]",14
+"""smoked salmon""",14
+"[""edamame""]",14
+"[""coconut water""",14
+"[""fried vegetables""",14
+"""mushroom""",14
+"""white fish""",14
+"""skewers""]",14
+"[""herbs""",14
+"[""semolina""",14
+"[""green tea powder""",14
+"""sprinkles""",14
+"""green peas""]",14
+"""coconut flakes""]",13
+"[""water spinach""",13
+"""espresso""]",13
+"""fruit toppings""",13
+"[""instant coffee""",13
+"[""onion""]",13
+"""potato chips""",13
+"[""lamb chops""",13
+"""legumes""",13
+"""chicken or tofu""]",13
+"[""dried fruits""]",13
+"""hazelnuts""",13
+"""steamed buns""",13
+"""sides""]",13
+"""pine nuts""",13
+"""filling""",13
+"""fufu""]",13
+"[""pickled vegetables""",13
+"""pasta""]",13
+"[""pepperoni""",13
+"[""pumpkin seeds""]",13
+"""poached egg""",13
+"""sweet chili sauce""]",13
+"""cheese sauce""]",13
+"""fried item""]",13
+"""orange juice""]",13
+"""pear""]",13
+"""bay leaves""]",13
+"""cranberries""",13
+"""green sauce""",13
+"""lemongrass""]",13
+"[""crepes""",13
+"""spicy seasoning""]",13
+"""purple cabbage""]",13
+"[""pulled pork""",13
+"[""white rice""",13
+"""boiled egg""]",13
+"""burger patty""",13
+"[""roti""",13
+"""soup ingredients""]",13
+"""protein""",13
+"""barley""",13
+"""candy""]",13
+"[""raw fish""",13
+"""red chili peppers""]",13
+"""custard""",13
+"""filling (e.g.",13
+"""mixed fruits""",13
+"""quail eggs""]",13
+"""ghee""",13
+"""chestnuts""]",12
+"""jalapeños""",12
+"""vegetable curry""",12
+"""mushroom""]",12
+"[""goji berries""",12
+"""pomegranate""]",12
+"""snacks""",12
+"[""peas""",12
+"""vanilla ice cream""",12
+"""grilled vegetables""",12
+"""snails""",12
+"[""pancake batter""",12
+"[""puffed rice""",12
+"""vegetable broth""",12
+"[""cassava""",12
+"[""sashimi""",12
+"""pastries""",12
+"""fish cake""]",12
+"[""berries""]",12
+"""green tea""",12
+"""bagel""]",12
+"[""figs""]",12
+"""beetroot""",12
+"""dumpling""",12
+"[""red fruits""]",12
+"[""oranges""",12
+"""cheese powder""",12
+"""braised meat""",12
+"""cookie""",12
+"[""meat patty""",12
+"""grapefruit""]",12
+"""snack base""]",12
+"""cantaloupe""",12
+"""green apples""",12
+"""maple syrup""]",12
+"""red chilies""",12
+"""glass noodles""",12
+"""pumpkin seeds""]",12
+"""probiotics""]",12
+"[""rice rolls""",12
+"[""pie crust""",12
+"[""starch""",12
+"""bamboo leaves""",12
+"""sambar""",11
+"[""starfruit""]",11
+"[""hot dog sausage""",11
+"""vitamins""]",11
+"""vitamins""",11
+"""coloring""",11
+"""pesto""]",11
+"[""mixed beans""",11
+"""minerals""]",11
+"""chocolate cake""",11
+"[""green grapes""",11
+"""black sesame seeds""",11
+"[""jujube""]",11
+"""black garlic""",11
+"""other fruits""]",11
+"[""shellfish""]",11
+"""chickpeas""]",11
+"""shaved ice""",11
+"[""wontons""",11
+"""marshmallows""]",11
+"""bbq sauce""",11
+"[""grape leaves""",11
+"""sweeteners""]",11
+"""leaves""]",11
+"[""snack mix""",11
+"""glaze sauce""",11
+"[""potato starch""",11
+"""red cabbage""]",11
+"""pickled radish""]",11
+"""yellow bell pepper""",11
+"[""pork cutlet""",11
+"[""tortillas""",11
+"""peanut butter""",11
+"""side item""]",11
+"""green apple""]",11
+"""toast""]",11
+"""dumpling wrapper""]",11
+"""stir-fried vegetables""]",11
+"[""chocolate coating""",11
+"""bonito flakes""",11
+"""cherry""",11
+"""sunflower seeds""",11
+"[""kale""",11
+"""chips""]",11
+"""fruit syrup""",11
+"""green tea powder""",11
+"""roast meat""",11
+"""crispy toppings""]",11
+"""potato chips""]",11
+"[""gourd""]",11
+"[""wagyu beef""]",11
+"[""tea leaves""",11
+"""passion fruit""]",11
+"[""tea leaves""]",11
+"""cooking oil""",11
+"""mixed fruits""]",11
+"[""breaded chicken""",11
+"[""fruit extract""",11
+"[""paneer""",11
+"""tapioca""",11
+"""fried item""",11
+"""sunflower seeds""]",11
+"[""meatball""",11
+"""mixed greens""]",11
+"""steamed bun""",11
+"""kidney beans""",10
+"[""mashed potatoes""",10
+"[""radishes""]",10
+"""chocolate coating""]",10
+"[""oyster""]",10
+"[""crepe""",10
+"""yellow bell pepper""]",10
+"""fried vegetables""]",10
+"""hot dogs""",10
+"[""mulberries""]",10
+"""soy milk""]",10
+"""fried rolls""",10
+"""seasoning packet""]",10
+"[""red dates""]",10
+"[""clams""]",10
+"[""pork knuckle""",10
+"[""sweet potatoes""]",10
+"[""snack1""",10
+"""peppercorns""",10
+"""passion fruit""",10
+"[""granola""",10
+"""dal""",10
+"[""salami""",10
+"""fish balls""]",10
+"""fondant""]",10
+"""pancake""]",10
+"[""pork sausage""",10
+"[""fried balls""",10
+"""green cake""",10
+"""sweet beans""",10
+"[""bulgur""",10
+"""whole milk""]",10
+"[""fried noodles""",10
+"[""passion fruit""",10
+"""five-spice powder""]",10
+"""tortillas""",10
+"""sweet bean paste""",10
+"""flavoring agents""]",10
+"""fresh herbs""",10
+"""miso soup""",10
+"""caffeine""",10
+"[""green chili peppers""]",10
+"""porridge""]",10
+"""fruit flavor""",10
+"""grapefruit""",10
+"""oats""]",10
+"[""bean curd""",10
+"""soft-boiled eggs""",10
+"""chicken or tofu""",10
+"""pork filling""",10
+"""pastry dough""",10
+"""cornstarch""]",10
+"[""chicken nuggets""",10
+"[""greens""]",10
+"""enoki mushrooms""]",10
+"""black sesame""]",10
+"""chocolate ice cream""",10
+"""crispy topping""]",10
+"""hot sauce""",10
+"""peppercorns""]",10
+"""black grapes""]",10
+"[""preserved egg""]",10
+"[""grilled pork""",10
+"""whole grain bread""]",10
+"""breadcrumbs""]",10
+"[""butter""]",10
+"[""various vegetables""",10
+"""liver""",10
+"""clam""",10
+"""tortilla""]",10
+"[""vanilla ice cream""",10
+"""desserts""]",10
+"[""polenta""",10
+"""braised pork""",10
+"[""sea cucumber""",10
+"""coloring agents""]",10
+"[""soy milk""",10
+"""mixed nuts""]",10
+"[""fried seafood""",10
+"[""dates""",10
+"""fruit puree""]",10
+"[""purple rice""",10
+"[""red grapes""",9
+"[""shredded meat""",9
+"[""fish balls""",9
+"[""buckwheat""]",9
+"""soy milk""",9
+"[""cauliflower""]",9
+"""tempura vegetables""",9
+"""sandwich bun""",9
+"""pulled pork""",9
+"""chicken wings""]",9
+"[""preserved eggs""",9
+"[""purple yam""",9
+"""pancakes""]",9
+"""fish cakes""",9
+"[""kimchi""",9
+"[""strawberry ice cream""",9
+"""oreo cookies""",9
+"""cornstarch""",9
+"[""cherry tomatoes""",9
+"""edible flowers""",9
+"[""penne pasta""",9
+"""white rice""]",9
+"[""cilantro""]",9
+"""fried plantains""",9
+"""dried chilies""]",9
+"[""fried rolls""",9
+"""lotus seeds""",9
+"""sugar (optional)""]",9
+"""glutinous rice balls""",9
+"""tortilla chips""",9
+"[""celery""]",9
+"""shredded chicken""",9
+"[""green chilies""]",9
+"[""ribeye steak""]",9
+"[""snack sticks""",9
+"""roti""",9
+"""roasted meat""",9
+"[""brisket""",9
+"""pastry dough""]",9
+"""omelet""",9
+"[""bread dough""",9
+"""papaya""",9
+"[""vegetable broth""",9
+"""soft-boiled egg""",9
+"[""steamed bun""",9
+"[""green noodles""",9
+"""potato starch""",9
+"[""cottage cheese""",9
+"[""goji berries""]",9
+"""crab""]",9
+"""purple yam""",9
+"[""scrambled eggs""",9
+"""meat toppings""",9
+"""fried garlic""",9
+"[""macadamia nuts""]",9
+"[""processed meat""]",9
+"""condiments""]",9
+"[""daikon""",9
+"[""mochi""",9
+"""lime juice""",9
+"""sweet potatoes""]",9
+"[""fermented milk""",9
+"""various sauces""]",9
+"[""green papaya""",9
+"""hummus""",9
+"""pecans""]",9
+"""black mushrooms""",9
+"""pancake""",9
+"[""mango puree""",9
+"""soybeans""]",9
+"""meat sauce""]",9
+"[""green apples""",9
+"[""flat rice noodles""",9
+"""chia seeds""",9
+"""mozzarella""",9
+"[""yellow tomatoes""]",9
+"[""rice cake""",9
+"[""fried bread""",9
+"""creamy sauce""",9
+"[""duck feet""",9
+"""sandwich""",9
+"""star anise""]",9
+"""sesame filling""]",9
+"""chicken nuggets""]",9
+"""soba noodles""",8
+"""lemon juice""]",8
+"[""ginger""",8
+"[""whole animal""",8
+"[""agar""",8
+"""pandan extract""]",8
+"""vanilla ice cream""]",8
+"""longan""]",8
+"""snack2""]",8
+"""dried cranberries""",8
+"[""romaine lettuce""",8
+"""tartar sauce""",8
+"""black sesame paste""",8
+"[""protein""",8
+"[""citrus fruit""]",8
+"""bread roll""]",8
+"""leavening agents""]",8
+"""chocolate crust""]",8
+"[""popcorn kernels""",8
+"""olive""",8
+"""meat floss""",8
+"""fried plantains""]",8
+"""fruit juice""",8
+"[""beef skewers""",8
+"[""pastries""",8
+"""fruit topping""",8
+"""roe""",8
+"""sweet potato fries""",8
+"""snack items""]",8
+"""dumpling skin""",8
+"""spring onions""",8
+"""bananas""]",8
+"""olive""]",8
+"""miso""",8
+"""baby corn""]",8
+"""lemon flavor""]",8
+"""chocolate frosting""]",8
+"""rice paper""]",8
+"""fried meat""]",8
+"[""mint ice cream""",8
+"""mung beans""",8
+"[""green peas""]",8
+"[""soybeans""]",8
+"""char siu""",8
+"[""cherimoya""]",8
+"[""walnuts""",8
+"""pita bread""",8
+"[""lotus seeds""",8
+"""anchovies""]",8
+"[""enoki mushrooms""",8
+"""pie crust""]",8
+"""taco shells""",8
+"[""radish""]",8
+"[""crab meat""",8
+"[""rambutan""]",8
+"""candies""]",8
+"[""napa cabbage""]",8
+"""jalapeños""]",8
+"[""black beans""]",8
+"[""tapioca""",8
+"[""pistachios""",8
+"""garnish""",8
+"""side vegetables""]",8
+"[""milk powder""]",8
+"""porridge""",8
+"""mashed potatoes""]",8
+"""buckwheat""",8
+"[""fruit syrup""",8
+"""tortilla chips""]",8
+"[""udon noodles""",8
+"[""milk chocolate""",8
+"""scallop""",8
+"[""sponge cake""",8
+"""chocolate frosting""",8
+"""crushed cookies""]",8
+"[""yellow squash""]",8
+"""brussels sprouts""",8
+"[""sesame""",8
+"[""almonds""]",8
+"""fruit jelly""",8
+"""beets""",8
+"""pretzels""]",8
+"[""legumes""",8
+"""cardamom""]",8
+"[""cilantro""",8
+"[""garlic""",8
+"[""bamboo shoots""]",8
+"""abalone""",8
+"""cucumber flavoring""",8
+"[""meringue""",8
+"""fried fish""]",8
+"[""dried fruits""",8
+"[""sauce base""",8
+"""pectin""]",8
+"""milk solids""]",8
+"[""custard""",8
+"""bonito flakes""]",8
+"[""century egg""",8
+"[""roast chicken""",8
+"""fried noodles""",7
+"""fried dumplings""",7
+"""stew""",7
+"""fruit pieces""]",7
+"""salmon roe""",7
+"""green tea""]",7
+"[""fried pork""",7
+"[""pig's feet""",7
+"""spicy seasoning""",7
+"""leeks""]",7
+"[""carrot""",7
+"[""calamari""",7
+"""caramel sauce""",7
+"""sun-dried tomatoes""",7
+"[""fettuccine""",7
+"""kale""]",7
+"[""brown rice""",7
+"[""glutinous rice balls""",7
+"""mochi""",7
+"""wontons""",7
+"""apricot""]",7
+"""glucose""",7
+"""lemon juice""",7
+"""ladyfingers""]",7
+"[""mung beans""]",7
+"""tahini""",7
+"""potato fries""]",7
+"""red onion""]",7
+"""oreo cookies""]",7
+"[""apricots""",7
+"""fish cakes""]",7
+"""fried bread""]",7
+"[""turkey""",7
+"""couscous""",7
+"""cookie crumbs""]",7
+"[""white beans""",7
+"""bay leaf""]",7
+"[""cherry""]",7
+"[""chocolate""]",7
+"""chocolate sprinkles""]",7
+"""bread crumbs""]",7
+"""dried red chilies""]",7
+"[""fried batter""",7
+"[""white bread""",7
+"[""cashews""",7
+"""meat or tofu""",7
+"""corn syrup""]",7
+"""plantains""]",7
+"""tapioca""]",7
+"[""bacon""]",7
+"""natural flavors""]",7
+"[""beef meatballs""",7
+"""cone""",7
+"""shiitake mushrooms""]",7
+"""coconut cream""",7
+"""malt""",7
+"""pandan leaves""]",7
+"[""rice porridge""",7
+"[""tomato concentrate""",7
+"[""main ingredient""",7
+"[""cooked meat""",7
+"""orange slices""]",7
+"""spice""]",7
+"""mangosteen""]",7
+"""hollandaise sauce""",7
+"[""shredded vegetables""",7
+"""caviar""]",7
+"""peanut butter""]",7
+"""tempura batter""]",7
+"""lime juice""]",7
+"""matcha powder""",7
+"""squash""",7
+"chicken or tofu)""",7
+"""fruit syrup""]",7
+"""green grapes""",7
+"""decorative flowers""]",7
+"[""chicken feet""]",7
+"""coconut flakes""",7
+"[""fruit flavoring""",7
+"""chocolate shavings""]",7
+"[""jollof rice""",7
+"[""roast pork""",7
+"""mochi""]",7
+"""caramel sauce""]",7
+"[""kebabs""",7
+"""mixed salad greens""",7
+"""sago""",7
+"""fig""",7
+"[""wood ear mushrooms""",7
+"""hash browns""",7
+"[""nectarine""]",7
+"[""cheesecake""",7
+"[""birds""",7
+"[""limes""]",7
+"""cooked meat""",7
+"""tempura batter""",7
+"""mustard sauce""",7
+"""tea extract""",7
+"""figs""]",7
+"""marshmallows""",7
+"[""sweet bun""",7
+"""citrus""]",7
+"[""pomegranate seeds""]",7
+"""cured meat""",7
+"[""ice""",7
+"[""snack base""",7
+"[""pancake mix""",7
+"""fried protein""]",7
+"""smoked salmon""]",7
+"""red dates""]",7
+"""hot sauce""]",7
+"[""mozzarella cheese""",7
+"""yellowtail""",7
+"[""chicken breast""]",7
+"[""omelet""",7
+"[""pear""",7
+"""fried eggs""",7
+"""plums""",7
+"""lemons""",7
+"""black sesame""",7
+"""turkey""",7
+"[""red bean paste""",7
+"[""tempeh""",6
+"""citrus fruits""]",6
+"""toppings""",6
+"""apricots""]",6
+"[""sea cucumber""]",6
+"""fried dough sticks""]",6
+"[""snack""",6
+"""rice flour""]",6
+"[""hawthorn""",6
+"""flowers""]",6
+"""jalapeño""",6
+"[""black sesame seeds""]",6
+"""curry leaves""",6
+"[""fried dough balls""",6
+"""creamy sauce""]",6
+"""rice cakes""]",6
+"""dried chili peppers""]",6
+"""kidney beans""]",6
+"[""fermented soybeans""",6
+"""anchovies""",6
+"[""walnut""]",6
+"""yogurt sauce""",6
+"""fiber""]",6
+"""salami""]",6
+"[""green pepper""",6
+"""miso soup""]",6
+"[""sesame seeds""]",6
+"""custard filling""]",6
+"[""pumpkin seeds""",6
+"""chicken patty""",6
+"""chicken curry""",6
+"""brown rice""]",6
+"""century egg""",6
+"[""whole pig""]",6
+"""dumpling wrappers""",6
+"[""hot dog bun""",6
+"""iced tea""]",6
+"""lemons""]",6
+"[""red bell pepper""",6
+"""black sesame filling""",6
+"""green leaves""]",6
+"[""mixed nuts""",6
+"[""chicken drumsticks""",6
+"[""onions""]",6
+"""lime flavoring""",6
+"""shiso leaves""]",6
+"""cereal""]",6
+"""egg wash""]",6
+"""coconut meat""]",6
+"[""crab sticks""",6
+"[""beef tripe""",6
+"""raspberry""]",6
+"""mint leaves""",6
+"""watermelon flavor""",6
+"""salmon""]",6
+"""egg yolks""",6
+"""sweet toppings""]",6
+"""apricots""",6
+"""vegetable oils""",6
+"[""tuna""]",6
+"""cottage cheese""",6
+"""onion powder""",6
+"""sliced meat""]",6
+"""burger""]",6
+"""natural flavors""",6
+"[""seeds""]",6
+"""waffle""",6
+"[""bean paste""",6
+"[""meat patties""",6
+"[""green tea ice cream""",6
+"[""fish skin""",6
+"[""breaded meat""",6
+"""pistachio""",6
+"""vegetable sauce""]",6
+"""dried red chili""]",6
+"""beverage""]",6
+"[""hamburger bun""",6
+"""berry sauce""]",6
+"""artificial flavors""",6
+"""citrus""",6
+"""naan""]",6
+"[""instant coffee""]",6
+"""chutney""",6
+"""taco shell""",6
+"""pear""",6
+"""fried batter""",6
+"""garlic bread""",6
+"""dried apricots""",6
+"[""soft-serve ice cream""",6
+"""baked potato""",6
+"""glucose syrup""]",6
+"""biscuit""]",6
+"""croutons""]",6
+"""snack sticks""]",6
+"[""sugarcane""]",6
+"[""green apple""",6
+"""red pepper flakes""]",6
+"""egg tart""",6
+"[""spicy sauce""",6
+"""baking soda""",6
+"[""donut""",6
+"""crab flavoring""",6
+"""glass noodles""]",6
+"[""grain""",6
+"[""sesame bun""",6
+"""hazelnuts""]",6
+"""capers""",6
+"""abalone""]",6
+"""donut""",6
+"""uni""",6
+"""peach flavor""",6
+"""garlic bread""]",6
+"[""seasoning""",6
+"[""red velvet cake""",6
+"[""plums""",6
+"[""skewers""",6
+"""pork sausage""",6
+"""lemon flavor""",6
+"[""pistachio""",6
+"""mustard seeds""",6
+"[""mixed nuts""]",6
+"[""chicken leg""",6
+"""croissant""]",6
+"""steamed milk""]",6
+"""green filling""]",6
+"""b vitamins""]",6
+"""vegetable fritters""",6
+"""taurine""",6
+"""red onions""",6
+"""fried protein""",6
+"""chia seeds""]",6
+"""snow peas""",6
+"""cake layers""]",6
+"[""chili peppers""]",6
+"""crisps""]",6
+"""roast pork""",6
+"[""taro""",6
+"[""crust""",6
+"[""crispy noodles""",6
+"""sesame seed bun""]",6
+"[""dried apples""]",6
+"[""omelette""",6
+"""cherry tomato""]",6
+"""dumpling wrappers""]",6
+"""coconut chutney""]",6
+"""fried rice""]",6
+"[""rice noodles""]",6
+"""papaya""]",6
+"""potato filling""",6
+"[""nectarine""",5
+"""vegetable""]",5
+"""soft drinks""]",5
+"""fruit extract""",5
+"[""beef brisket""]",5
+"[""fried shrimp""",5
+"""orange flavor""",5
+"""bread roll""",5
+"""protein source""",5
+"""durian""]",5
+"[""brownie""",5
+"""snack""",5
+"[""preserved meat""",5
+"[""raisins""",5
+"""scallops""]",5
+"""yellow fruits""]",5
+"[""edible insects""]",5
+"[""root vegetables""]",5
+"[""small round fruits""]",5
+"""prosciutto""]",5
+"[""grains""]",5
+"[""grape juice""",5
+"[""iced tea""",5
+"""palm oil""",5
+"""crab meat""",5
+"[""ground meat""]",5
+"[""brown egg""",5
+"""yam""",5
+"""green tea powder""]",5
+"[""spicy seasoning""",5
+"[""sweet dough""",5
+"""fufu""",5
+"""matcha""]",5
+"[""crustaceans""",5
+"""dairy""",5
+"""tempura flakes""]",5
+"[""oreo cookie""",5
+"""spring onions""]",5
+"""vegetable sauce""",5
+"""side dishes""]",5
+"""spring roll wrappers""",5
+"""brine""]",5
+"""egg custard""]",5
+"[""seafood""]",5
+"""snack mix""]",5
+"""poached eggs""",5
+"""waffle cone""",5
+"""fruit salad""]",5
+"[""olives""",5
+"""red pepper flakes""",5
+"""seasoning mix""]",5
+"[""root vegetable""]",5
+"[""grape""]",5
+"""crispy onions""]",5
+"""char siu (bbq pork)""",5
+"[""red berries""]",5
+"[""toasted bread""",5
+"[""seasoned meat""",5
+"""grilled tomatoes""",5
+"[""dried mushrooms""]",5
+"""pork ribs""",5
+"""skewers""",5
+"[""fried egg""",5
+"[""smoked salmon""",5
+"""stir-fried meat""",5
+"""desserts""",5
+"""limes""]",5
+"""spicy dipping sauce""]",5
+"[""yellow rice""",5
+"""blue cheese""",5
+"""green jelly""",5
+"""crispy chips""]",5
+"[""flan""",5
+"""sweeteners""",5
+"""sprouts""]",5
+"""scrambled eggs""]",5
+"""vegetable soup""]",5
+"""broccolini""",5
+"""pizza crust""]",5
+"""artificial sweeteners""]",5
+"[""quail eggs""",5
+"""fried wontons""",5
+"[""onion rings""",5
+"[""red dates""",5
+"""strawberry topping""]",5
+"""shellfish""]",5
+"""leaf""]",5
+"[""chives""]",5
+"""hot dogs""]",5
+"""radishes""]",5
+"""green chutney""]",5
+"[""cottage cheese""]",5
+"[""purple sweet potato""",5
+"[""fig""]",5
+"""chocolate spread""]",5
+"""legumes""]",5
+"[""millet""",5
+"""grape""",5
+"""high fructose corn syrup""",5
+"""white beans""",5
+"""crispy pork""",5
+"[""pounded yam""",5
+"""bone""",5
+"""sour cream powder""",5
+"""gochujang sauce""",5
+"""glutinous rice""",5
+"""sweets""",5
+"""red bell peppers""]",5
+"""orange juice""",5
+"[""roasted pig""",5
+"""chocolate bar""]",5
+"""bacon bits""",5
+"[""grass jelly""",5
+"""oreos""",5
+"[""fried chicken patty""",5
+"[""salad""",5
+"[""blackberries""",5
+"""samosas""",5
+"""gochujang""]",5
+"""pickling spices""",5
+"[""rasgulla""",5
+"""sweets""]",5
+"""dried tomatoes""",5
+"""century eggs""",5
+"[""jujube""",5
+"""roasted chicken""]",5
+"[""dried shrimp""]",5
+"[""black fungus""",5
+"[""red apple""",5
+"""coconut jelly""",5
+"chicken or tofu)""]",5
+"[""root vegetable""",5
+"""fried toppings""]",5
+"""patty""]",5
+"""vegetable salad""",5
+"""tuna""]",5
+"""mung beans""]",5
+"""fried noodles""]",5
+"""biscuit""",5
+"""crayfish""",5
+"""yogurt sauce""]",5
+"[""boiled egg""",5
+"[""biscuit""",5
+"""wheat""",5
+"""crab stick""",5
+"[""langsat""]",5
+"""potato wedges""]",5
+"[""sweet dumplings""",5
+"[""coriander""",5
+"""chili powder""]",5
+"""pesto sauce""",5
+"""cheese flavoring""",5
+"""spicy mayo""",5
+"""wood ear mushrooms""]",5
+"[""oats""]",5
+"[""fritters""",5
+"""purple yam""]",5
+"[""enchiladas""",5
+"[""sweet rice flour""",5
+"[""seaweed""]",5
+"""fried dough balls""",5
+"[""persimmons""]",5
+"""edible flower""]",5
+"[""vegetable""]",5
+"""green food coloring""]",5
+"""tempura shrimp""",5
+"""popcorn""]",5
+"""flower garnish""]",5
+"[""green chili pepper""]",5
+"""saffron""",5
+"""candies""",5
+"""meat topping""",5
+"[""grapefruit""",5
+"[""green tea leaves""]",5
+"""mint flavor""",5
+"""plum""]",5
+"""grilled meat""]",5
+"[""dark chocolate""",4
+"""sweet toppings""",4
+"""sandwich""]",4
+"""jalapenos""",4
+"""vanilla extract""]",4
+"""savory filling""]",4
+"[""prosciutto""",4
+"""pastry crust""]",4
+"""stuffing""]",4
+"[""lasagna noodles""",4
+"""tempeh""",4
+"""fried balls""",4
+"[""dessert base""",4
+"""scallion""",4
+"[""dried chili peppers""",4
+"[""tteok (rice cakes)""",4
+"[""fried potatoes""",4
+"""glutinous rice flour""",4
+"[""potato fries""",4
+"""sweetened milk""",4
+"""pounded yam""]",4
+"""spring roll""]",4
+"""yellow squash""",4
+"""hash brown""",4
+"""tea extract""]",4
+"""garnishes""]",4
+"""turmeric""]",4
+"""roast beef""",4
+"[""yellow fruits""",4
+"[""snack mix""]",4
+"[""dried apple""]",4
+"""fried spring rolls""",4
+"""sponge cake""",4
+"""probiotics""",4
+"""kelp""",4
+"""strawberry filling""",4
+"""pretzels""",4
+"[""red bean""",4
+"[""pickled vegetables""]",4
+"""breadsticks""]",4
+"""emulsifier""]",4
+"""sweetened condensed milk""]",4
+"[""cocoa""",4
+"""sweet beverage""]",4
+"""tortillas""]",4
+"""fig""]",4
+"[""lotus root""]",4
+"""tea leaves""]",4
+"[""yam""",4
+"[""cranberries""",4
+"""sesame bread""",4
+"""mint leaves""]",4
+"""sweet filling""",4
+"""sweet dessert""",4
+"""dried red peppers""]",4
+"""burrata""",4
+"[""green melon""]",4
+"""mango puree""",4
+"""pork belly""",4
+"[""chickpea flour""",4
+"""daikon radish""",4
+"[""bird""",4
+"""orange segments""]",4
+"[""chicken fillet""",4
+"""crabs""",4
+"""dessert base""]",4
+"[""bao bun""",4
+"[""asian pear""]",4
+"[""green plum""]",4
+"""sesame balls""]",4
+"""water spinach""]",4
+"""sugar syrup""]",4
+"""dried vegetables""]",4
+"[""crispy snacks""",4
+"""tofu or chicken""",4
+"[""nectarines""]",4
+"[""quince""]",4
+"""oreo cookie""]",4
+"""black sauce""",4
+"[""fried cutlet""",4
+"""green peppercorns""",4
+"""maple syrup""",4
+"""gold leaf""]",4
+"""bitter melon""]",4
+"""seasoning mix""",4
+"[""dark chocolate""]",4
+"""cookie crust""]",4
+"[""sweet beans""",4
+"[""dried red peppers""",4
+"""chocolate crumbs""]",4
+"[""apple juice""]",4
+"[""soybean""",4
+"[""crepe batter""",4
+"""matcha cream""",4
+"""shiso leaf""",4
+"""decorative candies""]",4
+"""mixed nuts""",4
+"""sweet topping""]",4
+"""squid ink""",4
+"""crust""",4
+"[""wrapper""",4
+"[""green jelly""",4
+"""artichokes""",4
+"""cheesecake""",4
+"[""cake roll""",4
+"""grilled eel""",4
+"""dipping sauces""",4
+"""pickled ginger""",4
+"[""tteokbokki""",4
+"""hollandaise sauce""]",4
+"""chocolate sprinkles""",4
+"""various meats""]",4
+"""caesar dressing""",4
+"""starchy side""]",4
+"""cream cheese frosting""",4
+"[""melon seeds""",4
+"[""strawberry coating""",4
+"""purple sweet potato""",4
+"""green bell peppers""]",4
+"""hydrogenated palm kernel oil""",4
+"""other assorted fruits""]",4
+"""steamed milk""",4
+"""cranberries""]",4
+"[""sugar""]",4
+"[""fried pastry""",4
+"[""red chili peppers""]",4
+"""sorbet""",4
+"[""cured meat""",4
+"[""guava""",4
+"""berry sauce""",4
+"""crispy topping""",4
+"[""organic milk""]",4
+"[""roast beef""",4
+"""bay leaf""",4
+"""tteokbokki""",4
+"[""white chocolate""",4
+"""crispy skin""",4
+"[""skewered meats""",4
+"""snails""]",4
+"""plum""",4
+"[""vanilla ice cream""]",4
+"""strawberry jam""]",4
+"""artificial flavoring""]",4
+"[""red bell pepper""]",4
+"""squash""]",4
+"""meat or cheese""]",4
+"[""red beans""]",4
+"""teriyaki sauce""",4
+"[""peanut butter""",4
+"[""fried dough sticks""",4
+"[""flatbreads""",4
+"""peanut powder""]",4
+"[""milk chocolate""]",4
+"""taro""]",4
+"[""fish cakes""",4
+"[""yellow plums""]",4
+"""green herbs""",4
+"""fruit extract""]",4
+"""beverages""]",4
+"""macarons""",4
+"[""yak meat""",4
+"""corn starch""]",4
+"""flaxseeds""",4
+"[""puffed rice""]",4
+"""pears""]",4
+"""pickle""",4
+"""fruit jelly""]",4
+"""roe""]",4
+"""bread rolls""]",4
+"[""chili pepper""]",4
+"""stir-fried noodles""",4
+"""rose petals""",4
+"[""hamburger patty""",4
+"vegetables)""]",4
+"[""cream""]",4
+"[""sliced meat""]",4
+"[""octopus""]",4
+"""grilled beef""",4
+"""spring onion""",4
+"[""crispy cups""",4
+"[""flour""]",4
+"[""green bean paste""",4
+"""gum base""",4
+"[""green melon""",4
+"""udon noodles""",4
+"""sweet balls""",4
+"""spring onion""]",4
+"""graham crackers""",4
+"""paneer""",4
+"[""lime""",4
+"""cereal""",4
+"""red bean""",4
+"""spread""]",4
+"""narutomaki""]",4
+"""mandarins""]",4
+"[""green mango""]",4
+"[""roasted nuts""]",4
+"""fish sauce""]",4
+"[""roasted pork""",4
+"""cornmeal""",4
+"""sucrose""",4
+"""grilled skewers""",4
+"[""millet""]",4
+"""black rice""]",4
+"[""hot dogs""",4
+"""sago""]",4
+"[""chicken thighs""",4
+"[""sweet potato noodles""",4
+"""plantain""",4
+"[""plum""",4
+"[""various meats""]",4
+"[""figs""",4
+"""sweetened milk""]",4
+"""white egg""]",4
+"[""red peppers""",4
+"[""quail eggs""]",4
+"[""tangerine""]",4
+"[""crackers""]",4
+"""miso""]",4
+"[""sliced vegetables""",4
+"""black pasta""",4
+"""chutney""]",4
+"[""patties""",4
+"[""caramel""",4
+"[""onion""",4
+"""chocolate shavings""",4
+"""cured meats""",4
+"""pizza crust""",4
+"[""raw beef""",4
+"""congee""",4
+"[""dried plums""]",4
+"[""mackerel""",4
+"[""starchy base""",4
+"""roasted vegetables""",4
+"""almond""",4
+"""nougat""]",4
+"[""ravioli""",4
+"""fried potato""",4
+"""filling (meat or vegetables)""",4
+"[""whole grain bread""]",4
+"""snack cakes""",4
+"[""various fruits""",4
+"""shrimp flavoring""",4
+"[""yellow fruits""]",4
+"[""crawfish""]",4
+"""preservatives""",4
+"[""nut""]",4
+"[""masa""",4
+"""chocolate filling""",4
+"""waffle fries""",4
+"[""fruit jelly""",4
+"""bulgur""",4
+"""coconut chutney""",4
+"""boiled chicken""",3
+"""waffles""",3
+"[""roasted seeds""]",3
+"[""lemon juice""",3
+"""preserved vegetables""]",3
+"""mackerel""",3
+"[""arugula""",3
+"[""idli""",3
+"""gochujang (korean chili paste)""",3
+"""fried tofu skin""",3
+"""fruit fillings""]",3
+"""leaf garnish""]",3
+"[""cured ham""]",3
+"[""marshmallows""",3
+"""smoking wood""]",3
+"[""jackfruit""",3
+"[""dried noodles""]",3
+"""mangosteen""",3
+"""jalapenos""]",3
+"[""vermicelli""",3
+"""fried shrimp""]",3
+"[""beef ribs""]",3
+"""protein (possibly tofu or meat)""]",3
+"""bone""]",3
+"""yogurt base""",3
+"[""dried mango""]",3
+"[""bell pepper""]",3
+"[""red rice""]",3
+"[""candied fruit""",3
+"[""beet""",3
+"""barbecue seasoning""",3
+"""cream dressing""]",3
+"""hot pot broth""",3
+"[""snow pear""",3
+"[""herbal extract""",3
+"[""red fruits""",3
+"""mung bean""",3
+"""stir-fried greens""",3
+"""fruit drink""]",3
+"""fish flakes""]",3
+"""spread""",3
+"""sichuan peppercorns""",3
+"[""fried snack""",3
+"[""various beans""",3
+"""crab flavoring""]",3
+"[""duck meat""",3
+"""fried wontons""]",3
+"""wrapping dough""]",3
+"""green tea ice cream""",3
+"""sausage meat""",3
+"""grilled protein""",3
+"[""green squash""]",3
+"""pastries""]",3
+"[""strawberry flavoring""",3
+"[""fried sticks""",3
+"""base""]",3
+"[""pork trotters""]",3
+"""chicken broth""",3
+"""milkshake""]",3
+"""various sauces""",3
+"[""herbal leaves""",3
+"[""tart base""",3
+"[""purple cabbage""",3
+"""strawberry sauce""",3
+"""dips""]",3
+"""lemon cream""",3
+"[""baby corn""",3
+"[""spaghetti""]",3
+"""coloring agents""",3
+"""vegetable rolls""",3
+"""shiso leaf""]",3
+"""fried onion rings""",3
+"""fried wonton""]",3
+"""meat or seafood""]",3
+"""almond flakes""]",3
+"[""leeks""",3
+"[""prawns""",3
+"""sprouts""",3
+"[""lotus seeds""]",3
+"[""gooseberries""]",3
+"""coconut cream""]",3
+"""tiramisu""",3
+"[""strawberry cream""",3
+"""pineapple flavor""",3
+"""lime leaves""",3
+"[""chicken drumsticks""]",3
+"""small fish""",3
+"[""shiitake mushrooms""]",3
+"[""fruit1""",3
+"[""kefir""]",3
+"""caesar dressing""]",3
+"""fruit2""]",3
+"[""black-eyed peas""",3
+"""jalapeño""]",3
+"[""blackcurrants""]",3
+"""fried pork""",3
+"""ricotta cheese""",3
+"[""konjac""",3
+"[""fish cake""",3
+"[""mixed grains""",3
+"""relish""]",3
+"""crab roe flavoring""",3
+"""salad vegetables""]",3
+"[""butternut squash""]",3
+"[""bone marrow""",3
+"""glucose""]",3
+"[""chocolate cereal""",3
+"[""chocolate cookies""",3
+"""muffin""",3
+"""chocolate toppings""]",3
+"""potato sticks""",3
+"""green apples""]",3
+"""various toppings""]",3
+"[""roasted meat""]",3
+"""vitamin c""]",3
+"""shaved ice""]",3
+"""mozzarella""]",3
+"""matcha powder""]",3
+"[""vegetable sticks""",3
+"""skewered vegetables""]",3
+"[""preserved vegetables""]",3
+"""diced meat""",3
+"[""chicken gizzards""",3
+"[""meat or vegetables""",3
+"""sea salt""]",3
+"""grape leaves""",3
+"""snack bars""]",3
+"""vegetable skewers""",3
+"""cheese filling""",3
+"""bones""",3
+"[""pomegranate seeds""",3
+"""calcium""]",3
+"""grilled ribs""",3
+"""dried peppers""",3
+"[""hazelnuts""]",3
+"""green tomatoes""]",3
+"""beer""",3
+"""fish sauce""",3
+"""fried balls""]",3
+"[""green tomatoes""]",3
+"""liver""]",3
+"""soup ingredients""",3
+"[""wheat""",3
+"""waffle fries""]",3
+"[""chocolate syrup""",3
+"[""wraps""",3
+"""palm sugar""]",3
+"""taro""",3
+"""purple sweet potato""]",3
+"""protein source (e.g.",3
+"[""grape""",3
+"""roasted pork""",3
+"[""mussels""]",3
+"[""breaded fish""",3
+"[""root vegetables""",3
+"""fried elements""]",3
+"[""croissant dough""",3
+"[""multigrain flour""",3
+"""meatball""]",3
+"""crab sticks""]",3
+"[""mascarpone""",3
+"[""olives""]",3
+"""lentils""]",3
+"""lychees""]",3
+"""apricot""",3
+"[""vegetable flour""",3
+"""chocolate drizzle""]",3
+"""shredded daikon""]",3
+"[""bread roll""",3
+"""crispy toppings""",3
+"""carbohydrates""]",3
+"[""chrysanthemum""",3
+"""crispy snacks""",3
+"[""ice cream""]",3
+"[""dried chili""",3
+"[""various snacks""",3
+"[""dried prunes""]",3
+"[""cream cheese""]",3
+"""honey mustard""]",3
+"""refried beans""",3
+"""phosphoric acid""",3
+"""caramel color""",3
+"""strawberry syrup""",3
+"[""fruit tea""",3
+"""mustard sauce""]",3
+"[""salami""]",3
+"""chestnut""",3
+cheese,3
+"[""dried chicken""",3
+"[""fried skewers""",3
+"[""foie gras""",3
+"""smoothie""]",3
+"""tofu or meat""]",3
+"[""red onion""]",3
+"""iced coffee""]",3
+"[""grilled beef""",3
+"[""tempura""",3
+"[""green fruit""]",3
+"[""duck breast""",3
+"""wheat""]",3
+"""vegetable scraps""",3
+"""sweet soup""",3
+"[""sago""",3
+"""cardamom""",3
+"""oolong tea""",3
+"[""cocoa powder""",3
+"[""matcha ice cream""",3
+"""dashi""",3
+"""hot dog bun""",3
+"[""green onion""]",3
+"[""anchovies""",3
+"[""basmati rice""",3
+"""dessert balls""",3
+"""chocolate decoration""]",3
+"""spicy dressing""]",3
+"[""yellow melon""]",3
+"[""chicken wing""",3
+"""fruit flavor""]",3
+"""fried dough sticks""",3
+"[""sweet bread""",3
+"""fish flakes""",3
+"""fried onion""]",3
+"[""pita bread""",3
+"""fried herbs""]",3
+"""burger buns""",3
+"""century eggs""]",3
+"""black bun""",3
+"""rice cake""]",3
+"[""hummus""",3
+"""kibble""",3
+"""cooked meat""]",3
+"[""green tea extract""",3
+"""strawberry ice cream""",3
+"[""chinese sausage""",3
+"""sweet dessert""]",3
+"[""black currants""]",3
+"""ginkgo nuts""",3
+"""millet""",3
+"[""apple juice""",3
+"""crispy noodles""]",3
+"[""shredded meat""]",3
+"[""gelato""",3
+"[""cheeseburger""",3
+"""omelet""]",3
+"""gnocchi""",3
+"[""chia seeds""",3
+"[""beef liver""",3
+"""fried filling""]",3
+"[""date""]",3
+"[""cured sausage""]",3
+"""wraps""]",3
+"""sliced sausage""]",3
+"""meat floss""]",3
+"[""falafel""",3
+"[""caviar""",3
+"[""beef bones""",3
+"[""cornmeal""]",3
+"[""dried chili peppers""]",3
+"""preserved egg""]",3
+"""caramel syrup""]",3
+"""leek""]",3
+"""biscuits""",3
+"[""milk protein""",3
+"[""fried plantains""",3
+"""fats""",3
+"""chicken flavoring""",3
+"[""dessert""",3
+"""gochujang""",3
+"""beeswax""]",3
+"""purple rice""]",3
+"""red currants""]",3
+"[""organ meat""",3
+"""cherry tomato""",3
+"[""pork ears""",3
+"[""sweet rice""",3
+"""snack balls""]",3
+"""shiso leaves""",3
+"""biscuit stick""]",3
+"[""meat or tofu""",3
+"""yellow sauce""]",3
+"[""rose apple""]",3
+"""various herbs""]",3
+"[""leeks""]",3
+"""cheese dip""]",3
+"""fats""]",3
+"[""pork rinds""",3
+"""candy toppings""]",3
+"""marinara sauce""",3
+"""guava""",3
+"""tomato flavoring""",3
+"""chinese sausage""",3
+"""fried wonton""",3
+"[""green bananas""]",3
+"""sesame sauce""",3
+"""strawberry flavor""]",3
+"""rose petal""]",3
+"""dried cranberries""]",3
+"""orange flavoring""",3
+"[""fried chicken wings""",3
+"[""marbled beef""]",3
+"""black seeds""]",3
+"""green leafy vegetables""]",3
+"""baking powder""",3
+"[""jicama""",3
+"[""rice roll""",3
+"[""egg yolk""",3
+"[""kebab""",3
+"""sweet biscuits""]",3
+"[""chopped vegetables""",3
+"[""pulled meat""",3
+"[""persimmon""]",3
+"""ghee""]",3
+"[""raw milk""",3
+"""macaron""",3
+"""protein (meat or tofu)""]",3
+"[""cupcake""",3
+"[""crustaceans""]",3
+"[""sesame oil""",3
+"""chili pepper""",3
+"""dessert balls""]",3
+"""various fish""",3
+"""cooked vegetables""]",3
+"[""low-fat milk""]",3
+"""danish pastry""",3
+"[""sweet corn""",3
+"[""barley""",3
+"""fish or meat""]",3
+"[""crab legs""]",3
+"""cookie base""",3
+"""yellow squash""]",3
+"[""syrup""",3
+"[""fried eggs""",3
+"""nori (seaweed)""",3
+"[""mandarin orange""]",3
+"[""big mac""",3
+"[""unagi""",3
+"[""asparagus""]",3
+"""cocoa butter""]",3
+"""spam""",3
+"""dried mushrooms""]",3
+"""biscuits""]",3
+"""sweet paste""]",3
+"""durian flavor""",3
+"""mozzarella sticks""",3
+"""custard tarts""",3
+"[""crinkle-cut fries""",3
+"[""caviar""]",3
+"[""roasted beans""]",3
+"""dashi broth""",3
+"""strawberry sauce""]",3
+"[""broad beans""",3
+"""balsamic glaze""]",3
+"""shredded beef""",3
+"[""raisins""]",3
+"""grilled chicken""]",3
+"""tapioca balls""",3
+"[""whole wheat wrap""",3
+"""filling (vegetable or meat)""]",3
+"""sweet red beans""",3
+"""lamb""]",3
+"""almond""]",3
+"""powdered sugar""",3
+"[""seeds""",3
+"""cantaloupe""]",3
+"[""jujubes""]",3
+"""honeydew""",3
+"""risotto""",3
+"""meat slices""",3
+"""chips""",3
+"""tartness""",3
+"[""meat ribs""",3
+"""hummus""]",3
+"""casings""]",3
+"[""scallop""",3
+"[""green leaves""",3
+"""coating""]",3
+"[""chicken wings""]",3
+"""pears""",3
+"""buffalo sauce""",3
+"""pancake batter""",3
+"""roti""]",3
+"[""sesame seed bun""",3
+"""stuffing""",3
+"""crumb topping""]",3
+"[""egg yolk""]",3
+"""bean soup""]",3
+"""egg custard""",3
+"[""fried meat""]",3
+"""chopped chives""",3
+"[""chocolate gelato""",3
+"[""dried vegetables""",3
+"""dried figs""]",3
+"""sweetened beverage""]",3
+"""creamy dressing""]",3
+"[""beans""]",3
+"""curry leaves""]",3
+"[""longan""",3
+"[""black rice""]",3
+"""red onions""]",3
+"""pizza sauce""]",3
+"""black jelly""",3
+"""strawberry bits""]",3
+"""brownie""",3
+"""red currants""",3
+"[""pears""",3
+"""brown sauce""]",3
+"""sweet chili sauce""",3
+"[""sesame bread""",3
+"[""crab legs""",3
+"[""oreo cookies""",3
+"""sugar decorations""]",3
+"""coconut sauce""]",3
+"""jackfruit""",3
+"""protein powder""]",3
+"""topping""]",3
+"""leek""",3
+"[""instant noodles""]",3
+"""crab stick""]",3
+"[""mozzarella""",3
+"""oregano""]",3
+"""fruit sauce""]",3
+"[""duck eggs""",3
+"[""sliced beef""",3
+"""tempura""]",3
+"""seasoning sauce""]",3
+"""purple rice""",3
+"[""cocoa solids""",3
+"""sweet and sour chicken""",3
+"[""chicken skin""",3
+"""dried red chili peppers""",3
+"""snack2""",3
+"""chocolate bar""",3
+"""sauerkraut""]",3
+"""orchid""]",3
+"""fried greens""",3
+"""chickpea flour""",3
+"""soft drink""",3
+"""oreos""]",3
+"""baked goods""]",3
+"""microgreens""",3
+"[""bulgur wheat""",3
+"[""hazelnuts""",3
+"""pizza""]",3
+"[""croquettes""",3
+"""tapioca balls""]",3
+"""pineapple filling""]",3
+"""barley""]",3
+"""almond milk""",3
+"""prunes""]",3
+"""chicken or fish""]",3
+"""cabbage salad""",3
+"[""insects""]",3
+"[""vegetables""]",3
+"""mixed fruit""]",2
+"""orange flavoring""]",2
+"""lotus seeds""]",2
+"""sweet treat""]",2
+"""soft serve ice cream""",2
+"[""blue food coloring""",2
+"""meat patties""",2
+"""pesto sauce""]",2
+"[""gourd""",2
+"""meringue""]",2
+"""blood sausage""",2
+"""mango flavor""",2
+"""mixed berries""",2
+"""hazelnut cream""",2
+"""thickener""]",2
+"[""red pepper""",2
+"""urad dal""",2
+"[""bagels""",2
+"[""soft cheese""]",2
+"""dairy product""]",2
+"""pickled onions""]",2
+"""fruit pieces""",2
+"""oatmeal""",2
+"[""burrata""",2
+"[""shredded cheese""]",2
+"[""parsley""",2
+"[""vegetable filling""",2
+"""scallion""]",2
+"[""shrimp dumplings""",2
+"""black mushrooms""]",2
+"""chocolate cake""]",2
+"""green chili peppers""",2
+"""fried coating""",2
+"""tofu or chicken""]",2
+"[""sweet soup base""",2
+"[""dried jujube""]",2
+"""slider bun""",2
+"[""tea extract""",2
+"[""chocolate cookie""",2
+"""sweet red bean""",2
+"""bagel bun""]",2
+"""salad dressing""",2
+"""soft-boiled eggs""]",2
+"[""sea urchin""]",2
+"""vegetable skewers""]",2
+"[""snow peas""",2
+"""fillings""]",2
+"""snack item""]",2
+"""vegetable stew""",2
+"""green noodles""]",2
+"[""black tea leaves""]",2
+"[""chocolate chips""",2
+"[""sugar alcohols""",2
+"[""sauce ingredients""]",2
+"[""patty""",2
+"[""tempeh""]",2
+"""chocolate pieces""]",2
+"[""macadamia nuts""",2
+"""fried topping""",2
+"""breaded meat""",2
+"[""chicken legs""",2
+"""vegetable patty""]",2
+"""decorative figure""]",2
+"""marshmallow""",2
+"""vegetable stock""",2
+"[""dried leaves""]",2
+"[""various vegetables""]",2
+"""fried cakes""]",2
+"[""lasagna""",2
+"""crispy base""]",2
+"""red apple""]",2
+"[""potato flakes""",2
+"""pork cutlet""",2
+"[""yellow apple""]",2
+"""fondant""",2
+"""flavored syrup""]",2
+"""yellow bell peppers""",2
+"""garnish vegetables""]",2
+"""yellow pepper""",2
+"""sweet bean paste""]",2
+"""lemon flavoring""]",2
+"""cheese flavoring""]",2
+"[""bean sticks""",2
+"""honeycomb""]",2
+"""regular fries""",2
+"[""green fruit""",2
+"[""vegetable stock""",2
+"[""biryani rice""",2
+"""pandan leaves""",2
+"[""sweet soup""",2
+"""tomato paste""",2
+"[""snap peas""]",2
+"[""dairy""",2
+"""fruit garnishes""]",2
+"""shrimp or chicken""",2
+"""chocolate crust""",2
+"""fried plantain""",2
+"""seafood sauce""]",2
+"""pita bread""]",2
+"""croquettes""]",2
+"[""birds""]",2
+"""citrus garnish""]",2
+"""ikura""]",2
+"""green melon""",2
+"""beef steak""",2
+"""seasoned greens""]",2
+"""egg whites""]",2
+"""ube""",2
+"[""protein powder""]",2
+"""capers""]",2
+"""cracker""]",2
+"[""egusi (melon seeds)""",2
+"[""dough balls""",2
+"[""thinly sliced meat""",2
+"[""nachos""",2
+"""milk chocolate""",2
+"""green apple""",2
+"""relish""",2
+"""mascarpone""",2
+"""tonkatsu sauce""]",2
+"""potato cakes""",2
+"""flat rice noodles""",2
+"""chocolate pieces""",2
+"[""citrus fruits""]",2
+"""hot pot broth""]",2
+"""black bread""",2
+"""strawberry cream""",2
+"""sweet rolls""",2
+"[""grape flavoring""",2
+"""sweet bean soup""]",2
+"[""ice cream base""",2
+"""popcorn""",2
+"""hard-boiled eggs""",2
+"[""loquat""]",2
+"""chocolate candies""]",2
+"""vegetable curry""]",2
+"""cinnamon roll""",2
+"[""spring roll pastry""",2
+"[""rice crackers""",2
+"[""sandwich bread""",2
+"""pretzel bun""",2
+"""cotton candy""]",2
+"""vanilla cream""]",2
+"""cookie pieces""",2
+"[""protein (e.g.",2
+"""orange fruits""]",2
+"""chili paste""]",2
+"""creamy dip""]",2
+"""wafer cookies""]",2
+"[""chhena""",2
+"""roast duck""]",2
+"""creamy dish""]",2
+"""savory filling""",2
+"""peach flavoring""]",2
+"[""chicken sandwich""",2
+"[""grape juice""]",2
+"[""sesame paste""",2
+"[""ladyfingers""",2
+"""mascarpone cheese""",2
+"""potato snacks""",2
+"[""dried apples""",2
+"[""lobster tail""",2
+"[""sweet rolls""",2
+"""butter (optional)""]",2
+"[""sweet balls""",2
+"[""peppers""",2
+"""other seeds""]",2
+"""shrimp chips""]",2
+"""spinach curry""",2
+"[""bread crumbs""",2
+"""frying oil""",2
+"""fruit slices""]",2
+"""lime leaves""]",2
+"[""pork chops""",2
+"""vegetable side dish""",2
+"[""eels""]",2
+"""jalebi""]",2
+"[""pork sausage""]",2
+"[""black sapote""",2
+"""pork dumplings""",2
+"[""cream puffs""",2
+"[""cherry""",2
+"""flower petals""]",2
+"""pork belly""]",2
+"[""potato sticks""",2
+"""sliced vegetables""",2
+"""yellow rice""",2
+"""offal""]",2
+"""ramen noodles""",2
+"[""chicken eggs""",2
+"[""various fish""]",2
+"[""lemons""",2
+"""fruit salad""",2
+"[""red currants""",2
+"[""camel milk""",2
+"""cupcake""]",2
+"""dim sum""",2
+"[""prawn""",2
+"""rice crackers""",2
+"""strawberry syrup""]",2
+"""cocktail""]",2
+"""gelatin topping""]",2
+"[""phyllo pastry""",2
+"""pepper sauce""]",2
+"[""green raisins""]",2
+"""coconut jelly""]",2
+"[""fish fillet""",2
+"[""pandan""",2
+"""meat or fish""]",2
+"""colors""]",2
+"""peanut""",2
+"[""codfish""",2
+"""falafel""]",2
+"""spicy topping""",2
+"[""protein source""",2
+"""sun-dried tomatoes""]",2
+"[""almond""",2
+"""patties""]",2
+"""green olives""",2
+"""cheese puffs""",2
+"[""margarine""]",2
+"""cookie crumbs""",2
+"""starfruit""",2
+"""drink""",2
+"[""yellow peaches""",2
+"""sea cucumber""",2
+"""green fruits""]",2
+"""chicken leg""",2
+"[""various nuts""",2
+"[""red berries""",2
+"""mixed fruit""",2
+"[""croissant pastry""",2
+"[""flatbread""]",2
+"""fish maw""",2
+"""egg protein""",2
+"[""green chilies""",2
+"""bones""]",2
+"""vegetable garnish""]",2
+"""filling (vegetables/meat)""",2
+"""ribs""",2
+"[""soda""",2
+"[""pierogi""",2
+"""potato tots""",2
+"[""black noodles""",2
+"""hard-boiled eggs""]",2
+"""truffles""",2
+"[""green tomatoes""",2
+"""sweet soup base""]",2
+"[""drink""",2
+"[""soybean curd""",2
+"[""various fruits""]",2
+"""tripe""",2
+"""mandarin""]",2
+"""sautéed greens""",2
+"""creamy dressing""",2
+"""special sauce""]",2
+"[""arepa""",2
+"""low-fat flour""",2
+"""egg tarts""]",2
+"""meat topping""]",2
+"""catfish""]",2
+"""spicy side dish""]",2
+"""chicken or shrimp""",2
+"""nutella""]",2
+"[""tilapia""",2
+"[""meat rolls""",2
+"[""mango flavor""",2
+"""breaded chicken""]",2
+"""meat or seafood""",2
+"""crickets""",2
+"""fried topping""]",2
+"[""cookie dough""",2
+"""sesame bread""]",2
+"[""meatloaf""",2
+"""pistachio""]",2
+"[""choux pastry""",2
+"""rice porridge""",2
+"""truffle oil""",2
+"""english muffin""]",2
+"[""greek yogurt""]",2
+"""spicy condiment""",2
+"""waffles""]",2
+"""tonkatsu""",2
+"[""plant protein""",2
+"""dried flowers""",2
+"""bean paste""",2
+"""sweetened cream""]",2
+"[""sliced beef""]",2
+"[""sweet dumpling""",2
+"""small fruits""]",2
+"[""cookie""",2
+"[""bitter gourd""]",2
+"[""yellow squash""",2
+"""grape""]",2
+"[""dried apricots""",2
+"""egg yolks""]",2
+"""chopped vegetables""",2
+"""dried figs""",2
+"[""baked potato""",2
+pork,2
+"""tripe""]",2
+"[""purple cabbage""]",2
+"[""churros""",2
+"[""dried chrysanthemum flowers""]",2
+"[""fermented milk""]",2
+"""orange bell pepper""",2
+"""red chili flakes""]",2
+"""chocolate cream""]",2
+"[""beef short ribs""",2
+"[""raw liver""",2
+"""orange zest""]",2
+"""crabs""]",2
+"""corned beef""",2
+"[""water spinach""]",2
+"""lactose""",2
+"""mozzarella cheese""]",2
+"""crispy wontons""",2
+"""stuffed vegetables""",2
+"""pork bits""]",2
+"[""custard""]",2
+"[""filo dough""",2
+"""rice rolls""]",2
+"""starchy vegetables""",2
+"""foam""]",2
+"""starchy item""]",2
+"[""baked goods""",2
+"""jackfruit""]",2
+"[""raw meat""",2
+"[""macaron""",2
+"[""nutritional powder""]",2
+"""buttercream""",2
+"""crab meat""]",2
+"[""meat meal""",2
+"""pappadum""",2
+"""bread rolls""",2
+"""preserved eggs""]",2
+"""wrapper""]",2
+"""black seeds""",2
+"[""bulgur wheat""]",2
+"[""fried dumplings""",2
+"[""samosas""",2
+"""starchy component""]",2
+"""citrus fruits""",2
+"[""mango juice""",2
+"""tacos""",2
+"[""frog meat""",2
+"""yellow tomatoes""",2
+"""chili powder""",2
+"[""chicken katsu""",2
+"[""black corn""]",2
+"""green garnish""]",2
+"""rice wraps""",2
+"""lavash""]",2
+"""dried strawberries""",2
+"""protein filling""]",2
+"""green fruit""]",2
+"[""salted egg yolk""",2
+"""savory topping""]",2
+"""wraps""",2
+"""rice porridge""]",2
+"""vegetable side dish""]",2
+"""pureed vegetables""",2
+"[""pork skin""",2
+"[""pastry shell""",2
+"[""sour cream""]",2
+"""fruit sauce""",2
+"""fried nuggets""",2
+"""cupcakes""",2
+"""chocolate icing""",2
+"""protein (fish or meat)""",2
+"""seasoning sauce""",2
+"[""pig trotters""",2
+"[""dried tangerine peel""",2
+"[""rice balls""",2
+"[""egg waffle""",2
+"""cake batter""",2
+"""roasted potatoes""",2
+"""potato salad""",2
+"[""stuffed vegetables""",2
+"""shredded daikon""",2
+"""cured meats""]",2
+"[""whey protein""",2
+"""sweet drink""]",2
+"[""rye flour""",2
+"""siu mai""",2
+"""bamboo""",2
+"""bread bun""]",2
+"""ginseng""",2
+"""chili pepper""]",2
+"[""donuts""",2
+"[""kale""]",2
+"""beetroot""]",2
+"[""snack balls""]",2
+"""blueberry filling""",2
+"[""corn masa""",2
+"""egg salad""",2
+"[""dried raisins""",2
+"""whole grain bun""",2
+"""mussels""]",2
+"[""sea snails""",2
+"[""roast meat""]",2
+"[""sweet ingredients""",2
+"[""flower buds""]",2
+"""prune extract""",2
+"[""feta cheese""",2
+"""wrappers""",2
+"[""squid""]",2
+"""cheese powder""]",2
+"""red vegetables""]",2
+"[""chicken flavoring""",2
+"[""dried hawthorn""]",2
+"[""agar-agar""",2
+"[""crispy shell""",2
+"""coffee/tea""]",2
+"""octopus""]",2
+"""daikon radish""]",2
+"""red grapes""",2
+"""panko breadcrumbs""",2
+"[""fish or meat""",2
+"[""mozzarella cheese""]",2
+"""candied fruits""",2
+"""barbecue seasoning""]",2
+"""breaded chicken""",2
+"[""rock sugar""",2
+"[""jellyfish""",2
+"[""dried strawberries""",2
+"""root vegetables""]",2
+"""dried apples""",2
+"""cookie base""]",2
+"""vermicelli""",2
+"[""offal""",2
+"[""ube""",2
+"""fish/meat""",2
+"""gummy candies""",2
+"[""dried shrimp""",2
+"cheese)""]",2
+"[""vegetable balls""",2
+"""pickled radish""",2
+"[""escargot""",2
+"""strawberry flavoring""]",2
+"[""black jelly""",2
+"""tofu or meat""",2
+"""chocolate powder""",2
+"""various greens""]",2
+"[""cookie base""",2
+"[""dried grapes""]",2
+"[""miso paste""",2
+"[""peach flavor""",2
+"""diced vegetables""]",2
+"""cheese filling""]",2
+"""red chilies""]",2
+"[""goat milk powder""]",2
+"[""black grapes""]",2
+"""corn dogs""",2
+"""snack chips""]",2
+"""donut""]",2
+"[""uni""",2
+"""lemon grass""",2
+"[""diced fruit""",2
+"""yellow food coloring""]",2
+"""cottage cheese""]",2
+"""chocolate liquor""]",2
+"[""hot chocolate""",2
+"""snack crackers""",2
+"""condensed milk""]",2
+"[""muffin""",2
+"[""shredded vegetables""]",2
+"""pork or chicken""]",2
+"""walnut""]",2
+"[""vegetable""",2
+"[""yellow beans""",2
+"""kiwis""]",2
+"""roasted tomatoes""",2
+"""cream cheese frosting""]",2
+"""puree""",2
+"[""biscuits""",2
+"""banana leaf""]",2
+"[""waffle mix""",2
+"[""vegetable patties""",2
+"[""wrapped food""",2
+"""ramen""",2
+"""rolls""]",2
+"""sliced beef""",2
+"[""buckwheat noodles""",2
+"[""green legumes""",2
+"""various fruits""]",2
+"[""red apples""]",2
+"""rambutan""]",2
+"[""lamb""]",2
+"[""chicken egg""",2
+"""dessert layers""]",2
+"[""acorn squash""]",2
+"""various snacks""]",2
+"""caffeine""]",2
+"""miso paste""",2
+"[""banana flavor""",2
+"[""pork intestines""",2
+"[""cheddar cheese""]",2
+"[""black bun""",2
+"[""dim sum""",2
+"""pineapple juice""]",2
+"""sesame dressing""]",2
+"""minced pork""",2
+"[""probiotics""",2
+"[""dried tea leaves""]",2
+"""various side dishes""]",2
+"[""jelly noodles""",2
+"""mustard dressing""]",2
+"""vegetable sides""",2
+"""tea leaves""",2
+"[""sesame balls""",2
+"""spicy mayo""]",2
+"""sashimi""]",2
+"""sea urchin""]",2
+"""morel mushrooms""",2
+"""fried starch""]",2
+"""chocolate topping""]",2
+"[""morel mushrooms""]",2
+"[""rolled oats""]",2
+"[""whole roasted animal""",2
+"[""yellow fruit""]",2
+"[""various ingredients typical in canned food""]",2
+"""potato sides""]",2
+"""corn dog""",2
+"""baking soda""]",2
+"[""dried chilies""",2
+"""unbleached enriched flour""",2
+"""birthday cake""]",2
+"""sesame sauce""]",2
+"[""chocolate cream""",2
+"""potato filling""]",2
+"""blackcurrants""]",2
+"""green chutney""",2
+"[""prunes""]",2
+"""vegetable stir-fry""]",2
+"""hazelnut cream""]",2
+"""white chocolate""]",2
+"[""dal""",2
+"[""sweet buns""",2
+"[""buckwheat flour""",2
+"[""mangosteen""",2
+"""calcium""",2
+"[""purple sweet potato""]",2
+"[""fried pork cutlet""",2
+"""sweet and sour pork""",2
+"""hamburger steak""",2
+"[""egg tart""",2
+"""pink bun""",2
+"[""spicy broth""",2
+"""lime filling""",2
+"""patties""",2
+"[""turnips""]",2
+"""flower garnish""",2
+"[""radishes""",2
+"[""mayonnaise""",2
+"[""dried jujubes""]",2
+"[""bread rolls""",2
+"[""youtiao""",2
+"[""pickled radish""",2
+"[""basil""",2
+"[""fish flavoring""",2
+"""agar-agar""]",2
+"""dried meat""]",2
+"[""graham cracker crust""",2
+"[""crickets""",2
+"[""abalone""]",2
+"[""scallions""",2
+"""yam""]",2
+"""fruit bits""]",2
+"[""mint""",2
+"[""green cake""",2
+"tofu or meat)""]",2
+"""apple slices""]",2
+"[""vegetable strips""]",2
+"""cocktail sauce""",2
+"""rice cake""",2
+"""hamburger bun""",2
+"[""nut""",2
+"""cake pieces""",2
+"""pounded yam""",2
+"[""morel mushrooms""",2
+"[""fresh herbs""]",2
+"[""snickers""",2
+"""vegetable chips""",2
+"""fruit jam""]",2
+"""sweet bread""]",2
+"""sweet and spicy sauce""",2
+"[""chili flakes""",2
+"""herbal extracts""]",2
+"""cookie crust""",2
+"""spring roll wrapper""",2
+"""collard greens""]",2
+"""nuggets""]",2
+"""curly fries""",2
+"""raspberry filling""",2
+"[""egg tarts""",2
+"""spring roll""",2
+"""jicama""",2
+"[""plum extract""",2
+"""crushed cookies""",2
+"""meat/vegetable filling""]",2
+"""muffin""]",2
+"[""poultry""]",2
+"[""canned meat""]",2
+"""cream dip""]",2
+"""grilled lemon""]",2
+"""crispy skin""]",2
+"""banana leaves""",2
+"[""braised pork""",2
+"[""spaghetti squash""",2
+"""protein (possibly chicken or tofu)""]",2
+"[""dried mango""",2
+"[""blueberry flavor""",2
+"""hash brown""]",2
+"""beef broth""",2
+"""vegetable patty""",2
+"""minced meat""]",2
+"""green food coloring""",2
+"[""taro""]",2
+"[""fish fillets""",2
+"""white chocolate""",2
+"""protein slices""]",2
+"""imitation crab""",2
+"""gummy candies""]",2
+"""chocolate cookie crumbs""]",2
+"""leaf""",2
+"""dumpling""]",2
+"""pork floss""]",2
+"[""nut butter""",2
+"""green curry paste""",2
+"[""pork chop""]",2
+"""decorative food items""]",2
+"""dried fish""",2
+"""crushed nuts""]",2
+"[""coconut cream""",2
+"""sugars""",2
+"""marinade""",2
+"""purple potatoes""",2
+"""hot dog bun""]",2
+"""oreo crust""",2
+"""chicken breast""",2
+"[""black dough""",2
+"""condensed milk""",2
+"""milk foam""]",2
+"[""pie""",2
+"""stewed meat""",2
+"""starchy side""",2
+"""pie crust""",2
+"""orange drink""]",2
+"""strawberry pieces""]",2
+"[""buttermilk""",2
+"""strawberry filling""]",2
+"[""macaroni""",2
+"[""yellow cherries""]",2
+"[""red tomatoes""",2
+"""dessert items""]",2
+"""red sauce""]",2
+"[""brussels sprouts""]",2
+"""green tea extract""",2
+"""chicken drumstick""]",2
+"""strawberry cream""]",2
+"[""dried cranberries""]",2
+"""spicy cake""]",2
+"""stuffed peppers""",2
+"[""milo powder""",2
+"""carbohydrates""",2
+"""seafood topping""",2
+"""meat patties""]",2
+"""sushi""]",2
+"""onion powder""]",2
+"[""chili powder""",2
+"""guava""]",2
+"[""yellow plums""",2
+"""coffee extract""",2
+"[""plantain""",2
+"""star anise""",2
+"""teriyaki sauce""]",2
+"""chocolate ice cream""]",2
+"""milk chocolate""]",2
+"""honeydew""]",2
+"[""fried meatballs""",2
+"[""cashew fruit""]",2
+"""sauce base""]",2
+"""mixed grains""",2
+"""sugar substitute""",2
+"""green vegetable""]",2
+"""vanilla gelato""",2
+"""roses""]",2
+"[""pomelo""",2
+"[""scones""",2
+"[""vegetable oil""]",2
+"""sugar syrup""",2
+"""fried dough balls""]",2
+"[""potato flour""",2
+"[""pea shoots""]",2
+"[""processed food""",2
+"""fish or chicken""",2
+"""palm sugar""",2
+"""snapper""",2
+"""artichokes""]",2
+"""protein powder""",2
+"[""mung bean""",2
+"""fried chicken patty""",2
+"""dried fish""]",2
+"[""salt""",2
+"[""macarons""",2
+"[""duck eggs""]",2
+"[""bergamot""]",2
+"""fried plantain""]",2
+"""dessert base""",2
+"""chocolate spread""",2
+"""cocktail sauce""]",2
+"""roasted pumpkin""",2
+"spices)""]",2
+"[""roasted chicken""]",2
+"[""red apples""",2
+"""espresso""",2
+"""marinade sauce""]",2
+"""lemon zest""]",2
+"""fried dumplings""]",2
+"""burrata""]",2
+"[""low fat milk""]",2
+"[""chia seeds""]",2
+"[""shishito peppers""",2
+"""sesame ball""",2
+"[""cheddar""",2
+"""salted egg yolk""",2
+"""roast chicken""",2
+"""pea shoots""]",2
+"[""green citrus fruit""]",2
+"[""lotus seed pod""]",2
+"""brie""",2
+"""gouda""]",2
+"[""quesadilla""",2
+"""braised meat""]",2
+"""paprika""]",2
+"""fried pork""]",2
+"""fried patties""",2
+"""gourd""",2
+"[""fried snack balls""",2
+"""mint ice cream""]",2
+"""lotus biscuit""]",2
+"[""sauce""]",2
+"""pickled onions""",2
+"""pickled peppers""",2
+"""spaghetti""]",2
+"""liquid""]",2
+"""sugar glaze""]",2
+"[""beef liver""]",2
+"[""orchid beans""",2
+"[""espresso""]",2
+"""condiment""]",2
+"[""english muffin""",2
+"[""red date""]",2
+"""cheese curds""]",2
+"""mint frosting""",2
+"[""smoothie base""",2
+"""various other vegetables""]",2
+"[""dried dates""]",2
+"[""leaves""",2
+"[""yellow fruit""",2
+"""macarons""]",2
+"""mango flavoring""",2
+"[""black sesame""]",2
+"""instant noodles""",2
+"""orange peel""]",2
+"""root vegetables""",2
+"""cassava""",2
+"[""dried red chilies""",2
+"[""various fish""",2
+"[""eel""]",2
+"""candied fruit""]",2
+"""candied fruits""]",2
+"[""apple flavor""",2
+"[""various seafood""",2
+"[""various spices""]",2
+"""spice mix""",2
+"""curry""]",2
+"""meat skewers""]",2
+"""chicken or beef""",2
+"""purple lettuce""",2
+"""chicken salad""",2
+"""string""]",2
+"""crispy snacks""]",2
+"""other fruits""",2
+"""dried meat""",2
+"""filling (vegetables or meat)""]",2
+"""cashew nuts""]",2
+"""gherkin relish""]",2
+"""bone marrow""",2
+"""black bean sauce""]",2
+"[""duck egg""]",2
+"[""rose flour""]",2
+"[""protein powder""",2
+"[""taco shells""",2
+"""curly fries""]",2
+"[""salt""]",2
+"""melon seeds""]",2
+"""mint flavoring""]",2
+"""omelette""]",2
+"[""green dough""",2
+"""chicken/shrimp""",2
+"""wheat flour""]",2
+"""macaron""]",2
+"""red grapes""]",2
+"[""fatty tuna""",2
+"""vanilla flavor""]",2
+"""fresh herbs""]",2
+"""satay skewers""",2
+"[""blood sausage""",2
+"""wine""]",2
+"""guacamole""]",2
+"""corn flour""",2
+"""buttercream frosting""]",2
+"[""pudding""",2
+"[""sesame buns""",2
+"""dumpling filling""]",2
+"""chicken sausage""]",2
+"[""coconut flakes""]",1
+"""baked goods""",1
+"[""instant porridge powder""]",1
+"""yakult""",1
+"""dessert soup""]",1
+"[""broccoli rabe""",1
+"[""vanilla cream""",1
+"[""long beans""]",1
+"""ayran""]",1
+"[""chocolate cookie base""",1
+"""decorative cookie""]",1
+"""pistachio filling""]",1
+"""dessert cubes""",1
+"""shrimp dumplings""",1
+"[""whole bird""",1
+"""starchy food""]",1
+"""white chocolate drizzle""]",1
+"[""chinese sausage""]",1
+"""grain powder""]",1
+"""snack rings""]",1
+"""dashi""]",1
+"[""spelt flour""",1
+"[""small fruit""]",1
+"""tartar sauce""]",1
+"""plum extract""",1
+"""snack strips""]",1
+"""dessert toppings""",1
+"[""dried flower buds""]",1
+"""nut butter""",1
+"[""animal skin""",1
+"""baguette""",1
+"""meat patty""]",1
+"""steamed bun dough""]",1
+"[""oreo cookie""]",1
+"[""chrysanthemum buds""]",1
+"""béchamel sauce""]",1
+"[""flavored drink""",1
+"[""galette""",1
+"""gyoza""",1
+"[""taro balls""",1
+"""mixed meat and vegetables""",1
+"[""tubers""]",1
+"[""striped squash""]",1
+"[""green olives""",1
+"""mung bean soup""]",1
+"""chicken or fish""",1
+"[""vinegar""]",1
+"""fish broth""",1
+"""green cake""]",1
+"[""hot dog buns""",1
+"""saffron sauce""]",1
+"[""red wine""",1
+"""noodles or similar starch""]",1
+"""spring roll wrappers""]",1
+"""snack curls""",1
+"[""snacks""",1
+"[""nacho chips""",1
+"[""vegetable powder""",1
+"""dessert topping""]",1
+"[""quail""]",1
+"""kimbap""",1
+"""potato croquettes""]",1
+"[""manuka honey""]",1
+"""snack mix""",1
+"""yogurt flavoring""",1
+"[""animal meat""",1
+"[""red kidney beans""",1
+"[""black pasta""",1
+"""green noodles""",1
+"""sweet beans""]",1
+"""sugars""]",1
+"""chicken filling""]",1
+"""fruit powder""",1
+"[""wafer cone""",1
+"""cornmeal batter""]",1
+"""hot pot ingredients""",1
+"[""bowtie pasta""]",1
+"""coca-cola""]",1
+"[""sauerkraut""",1
+"""mango puree""]",1
+"[""fried legumes""",1
+"""dried bananas""]",1
+"[""kataifi dough""",1
+"""crunchy bits""]",1
+"""yams""]",1
+"""candy coating""",1
+"[""vegetable strips""",1
+spinach,1
+"""baked item""",1
+"""soppressata""",1
+"[""cornbread""",1
+"""tempura scraps""",1
+"[""salted caramel""",1
+"""tamago""",1
+"""savory item""]",1
+"[""peanut oil""]",1
+"[""cheese flavor""",1
+"[""sweet item""",1
+"[""artificial sweeteners""",1
+"""pickled plum""",1
+"[""starchy snack""",1
+"""starch wrapper""",1
+"[""almond milk""]",1
+"[""whole animal meat""]",1
+"[""corn dough""",1
+"""buckwheat flour""]",1
+"[""green layers""",1
+"[""regular fries""",1
+"[""stuffed protein""",1
+"""mango sauce""",1
+"""shrimp or chicken""]",1
+"""fried crackers""]",1
+"[""red pepper""]",1
+"""baby potatoes""",1
+"""filling (vegetable or meat)""",1
+"""strawberry frosting""",1
+"""corn flakes""",1
+"""ginger sauce""]",1
+"[""protein (fish or meat)""",1
+"""wonton soup""]",1
+"""pork skin""",1
+"""shredded onion""]",1
+"""matcha gelato""]",1
+"""pomegranate seeds""",1
+"[""fried base""",1
+"""cereal toppings""]",1
+"""savory topping""",1
+"[""grain""]",1
+"[""energy drink""",1
+"[""pistachio gelato""",1
+"""bakery item""]",1
+"""biscuit dough""]",1
+"[""duck leg""",1
+"""chocolate cookie""]",1
+"""fried herbs""",1
+"[""main dish""",1
+"[""sour curd""]",1
+"""black topping""]",1
+"""sweetened condensed milk""",1
+"[""green dumplings""",1
+"""cheese dressing""]",1
+"[""grape extract""",1
+"""fried pastries""]",1
+"""fermented soybeans""",1
+"""gingerbread cookie""]",1
+"""red food coloring""]",1
+"""silver leaf""]",1
+"""pork skewers""",1
+"""star fruit""",1
+"[""yellow dumplings""",1
+"""gummy rings""",1
+"""chocolate biscuit""",1
+"[""green fruits""",1
+"[""bean powder""]",1
+"""caramel topping""]",1
+"""baked pasta""",1
+"[""whole bird""]",1
+"[""seasoning""]",1
+"[""tomato puree""",1
+"[""porridge base""",1
+"""guavas""]",1
+"""strawberry mochi""",1
+"""vegetable greens""]",1
+"""sweet jelly""",1
+"[""calamansi""",1
+"[""frosting""",1
+"[""sour cream""",1
+"""coffee syrup""]",1
+"[""sliced fish""",1
+"[""duck skin""",1
+"[""ham""]",1
+"[""caffeine""",1
+"""other small fruits""]",1
+"""yellow cherries""",1
+"""fish flavoring""",1
+"[""hojicha powder""",1
+"[""meat balls""",1
+"[""layered cake""",1
+"""chocolate snack bar""]",1
+"""sports drink""]",1
+"""creamy soup""",1
+"""dumpling dough""]",1
+"""rice rolls""",1
+"""fried eggs""]",1
+"""green cream filling""]",1
+"""breaded nuggets""]",1
+"[""roasted nuts""",1
+"""pineapple flavor""]",1
+"""wontons""]",1
+"[""chocolate brownie""",1
+"""whole wheat tortilla""",1
+"""cupcake batter""",1
+"[""roasted grains""]",1
+"[""fried nuggets""",1
+"""juice""",1
+"""red date""]",1
+"""fried cauliflower""",1
+"""biscuit base""]",1
+"""flavoring agents""",1
+"[""shallots""",1
+"""mango jelly""",1
+"""shredded crab""]",1
+"[""flaxseeds""",1
+"[""natsuna""]",1
+"""various small fruits""]",1
+"""rye bread""",1
+"""samosa pastry""",1
+"""red tomatoes""]",1
+"[""fried cake""",1
+"[""white radish""]",1
+"""lotus leaves""",1
+"""pumpkin topping""]",1
+"""fried pastry""]",1
+"[""waffle base""",1
+"[""stuffed roll""",1
+"""rice wine""]",1
+"""scones""",1
+"[""sweetened rice flour""",1
+"""soup balls""]",1
+"""starch (possibly yam or cassava)""",1
+"[""cereal""]",1
+"[""arabica coffee beans""]",1
+"[""chicken protein""",1
+"[""roasted chestnuts""]",1
+"[""biscuit sticks""]",1
+"""wax""]",1
+"[""chicken muffin""",1
+"""shredded fish""]",1
+"""colored rice""",1
+"[""coca-cola""]",1
+"""matcha frosting""]",1
+"""okras""",1
+"[""beer""",1
+"""duck meat""",1
+"""savory bread""",1
+"""wafers""]",1
+"[""dried plums""",1
+"[""crab sticks""]",1
+"""pork or beef""]",1
+"""bottled drinks""]",1
+"""green tea cake""]",1
+"[""melon flavor""",1
+"[""fiddlehead ferns""",1
+"""taco shell""]",1
+"[""green vegetable""]",1
+"[""tapioca balls""",1
+"[""snack rings""",1
+"[""various herbs""",1
+"[""prime beef""]",1
+"""barfi""]",1
+"[""gulab jamun""",1
+"""fried dumpling""",1
+"""chocolate milk""]",1
+"""vegetables or seafood""]",1
+"""raita""",1
+"""chapati""",1
+"""savory pastry""",1
+"[""pork hindquarters""]",1
+"[""white corn""",1
+"[""sweet pastry""",1
+"""tandoori chicken""",1
+"""chhena (cottage cheese)""",1
+"""garlic flavor""]",1
+"[""spice mix""]",1
+"""chocolate pastry""]",1
+"""puffed grains""",1
+"[""snack sausages""]",1
+"[""soy protein""]",1
+"""bean paste drink""]",1
+"""cooked crab meat""",1
+"""lemon filling""",1
+"[""preserved vegetables""",1
+"[""fried vegetable balls""",1
+"""yogurt dressing""]",1
+"""mini cakes""",1
+"[""ikan bolu""",1
+"[""sweetened drinks""",1
+"[""whole animal""]",1
+"""coffee flavoring""]",1
+"""fried fish or meat""",1
+"[""coca-cola""",1
+"[""sliced fruits""",1
+"[""purple rice bread""",1
+"""tea leaves or coffee grounds""]",1
+"""applesauce""]",1
+"""red bean filling""",1
+"[""moutai""",1
+"[""iodized salt""]",1
+"""fruit pearls""]",1
+"""diced ham""",1
+"""shredded vegetables""",1
+"""cocktails""]",1
+"[""pork head""]",1
+"[""lemons""]",1
+"[""whole lamb""",1
+"""sambar""]",1
+"""orange pepper""]",1
+"[""stuffed bread""",1
+"""wrapped snacks""]",1
+"[""purple yam""]",1
+"""other_fruit""]",1
+"""dried shrimp""",1
+"""sweetened syrup""",1
+"""vegetable dumplings""",1
+"[""main ingredient""]",1
+"""dip""",1
+"[""sweets""",1
+"""meat block""]",1
+"""blueberry flavor""]",1
+"[""savory bread""",1
+"""watercress""",1
+"""green dumplings""]",1
+"""bean stew""",1
+"""soup vegetables""]",1
+"""plant extracts""]",1
+"[""orange balls""",1
+"[""grilled seafood""",1
+"""fried buns""",1
+"[""muffins""",1
+"[""pandan extract""",1
+"""rice or bread""]",1
+"""green leafy vegetables""",1
+"[""pani puri""",1
+"[""a2 milk""]",1
+"[""protein_source""",1
+"""carbohydrate_source""]",1
+"fish or meat)""]",1
+"[""braided bread""",1
+"""red sauce""",1
+"""crispy lentils""]",1
+"""spinach wrap""",1
+"[""blackcurrants""",1
+"[""soda""]",1
+"""snack fruit""]",1
+"""grilled steak""",1
+"[""daikon""]",1
+"""protein (meat/tofu)""]",1
+"[""fruit balls""",1
+"""fried coating""]",1
+"""shredded pink material""]",1
+"""chocolate cookie""",1
+"[""cream filling""",1
+"""plantain chips""",1
+"""soybean curd""",1
+"""prune""",1
+"""red apples""]",1
+"""streptococcus""]",1
+"[""sweetened beans""",1
+"[""enchilada""",1
+"[""full cream milk""]",1
+"[""licorice extract""",1
+"""stewed potatoes""",1
+"""vegetable patties""]",1
+"""lactobacillus""",1
+"""cake roll""",1
+"[""gummy candies""]",1
+"""konjac""]",1
+"""egg pudding""]",1
+"[""wafers""",1
+"[""sour plums""",1
+"[""mulberry""",1
+"""hawthorn""",1
+"[""dried chilies""]",1
+"[""wafer""]",1
+"[""barnacles""",1
+"""crispy wonton""",1
+"""vegetable powder""]",1
+"[""flattened rice""",1
+"[""pink gelatin pieces""",1
+"[""brinza cheese""]",1
+"""honeycomb""",1
+"""pork rinds""",1
+"[""various shellfish""",1
+"[""t-bone steak""",1
+"[""soy sauce""]",1
+"[""a5 wagyu beef""]",1
+"[""shredded fish""",1
+"""tzatziki""",1
+"""injera""",1
+"[""meat or legumes""",1
+"[""sugar-coated snacks""",1
+"[""rice crisps""",1
+"""various fillings""]",1
+"[""chayote""]",1
+"""mixed meats""",1
+"""lotus cookies""",1
+"[""wasabi peas""",1
+"""cream or sauce""",1
+"""gelatinous dessert""]",1
+"[""buddha's hand""]",1
+"[""kaymak""]",1
+"[""red kidney beans""]",1
+"""shallots""",1
+"[""red chilies""]",1
+"""prawn flavoring""",1
+"""pickled cucumber""",1
+"[""fruit water""]",1
+"[""broad beans""]",1
+"""cacao""]",1
+"""custard tarts""]",1
+"""apple juice""]",1
+"""chocolate wafer""]",1
+"[""pineapple cake""",1
+"""filling (vegetable/meat)""]",1
+"[""high protein ice cream""",1
+"[""ridge gourd""]",1
+"""mature cheese""",1
+"[""purple mousse""",1
+"""onion flavor""",1
+"""devil's schnitzel""",1
+"""beef patties""",1
+"""red pepper powder""",1
+"[""smoked sausage""",1
+"[""solid beverage mix""]",1
+"""kefir""]",1
+"""green cream""",1
+"[""vanilla""",1
+"""herbal broth""]",1
+"[""vegetable fibers""",1
+"[""sweet base""",1
+"""spicy beef""",1
+"""carbon dioxide""]",1
+"""various seafood""]",1
+"[""waffle cone""",1
+"""meat skewer""",1
+"""grilled meat skewers""",1
+"[""dried mulberries""]",1
+"""scallop""]",1
+"[""lychee flavor""",1
+"[""green flour""",1
+"""fried cheese""",1
+"""black sesame filling""]",1
+"""roasted squash""",1
+"""meat (if present)""]",1
+"""fried sides""]",1
+"[""chili pepper""",1
+"""grain mixture""",1
+potatoes,1
+"meat)""]",1
+"[""dumplings""]",1
+"[""mandarin oranges""",1
+"[""curry soup""",1
+"""side items""]",1
+"""iced coffee""",1
+"[""duck wing""",1
+"[""seasoned seaweed""",1
+"""passion fruit drink""]",1
+"[""creamy sauce""",1
+"[""processed snack""",1
+"""shredded carrots""",1
+"""egg rolls""",1
+"""cassava""]",1
+"""sweet spread""",1
+"""diced chicken""",1
+"""carbohydrate base""]",1
+"[""pork or chicken""]",1
+"[""imitation crab""",1
+"""spicy soup""",1
+"[""hamburger steak""",1
+"""steamed bread""]",1
+"""egg or liquid protein""]",1
+"[""hot dogs""]",1
+"[""stir-fried meat""",1
+"[""green onion""",1
+"""meat dumplings""]",1
+"[""water apple""]",1
+"[""yellow berries""]",1
+"""spiced dip""]",1
+"""red bun""]",1
+"[""morning glory""",1
+"""yakult""]",1
+"[""anglerfish""]",1
+"[""sweet bean curd""]",1
+"[""shredded greens""",1
+"""honey or syrup""]",1
+"""cranberry sauce""]",1
+"""apple pie filling""]",1
+"""stevia""]",1
+"""yellow bell peppers""]",1
+"[""red bell peppers""",1
+"[""blueberry juice""",1
+"[""tomato sauce""",1
+"[""turmeric""",1
+"[""huang hua cai""]",1
+"[""luncheon meat""",1
+"""snake meat""",1
+"""bread dough""",1
+"[""sliced pork""",1
+"""fruit/vegetable""]",1
+"""fruit cocktail""",1
+"""skewered protein""]",1
+"[""soft tofu""",1
+"[""snack ingredients as per packaging""]",1
+"""salt (optional)""]",1
+"""ice cream filling""",1
+"[""egg roll wrapper""",1
+"""bird's nest""",1
+"[""black buckwheat""]",1
+"""chicken thighs""]",1
+"""yellow cabbage""",1
+"[""dried blueberries""]",1
+"""idli""]",1
+"""pineapple filling""",1
+"""apple flavor""",1
+"""burger patty""]",1
+"[""fried sweet potatoes""",1
+"""ikura""",1
+"""breaded snacks""",1
+"[""waffle cone""]",1
+"""white egg""",1
+"""nectarine""]",1
+"""vegetable chutney""",1
+"""cream egg""]",1
+"""clam soup""]",1
+"""oreo cookie""",1
+"""red velvet cake""",1
+"""dried squid""]",1
+"[""roasted bird""",1
+"""ube (purple yam)""",1
+"""brussels sprouts""]",1
+"""purple basil""]",1
+"""chicken essence""",1
+"[""green sauce""",1
+"""popsicle""]",1
+"[""green ingredients""",1
+"[""dried chili pepper""]",1
+"[""bay leaves""",1
+"[""hot chocolate powder""",1
+"[""kachori""",1
+"""water/milk""",1
+"""cornmeal""]",1
+"""strawberry ice cream""]",1
+"""decorative pearls""]",1
+"[""snow fungus""]",1
+"[""macadamias""",1
+"[""rice or noodles""",1
+"""other herbs""]",1
+"[""processed ingredients""",1
+"[""fried protein""",1
+"[""edible bird's nest""]",1
+"""romaine lettuce""",1
+"""gelatinous base""]",1
+"[""egg balls""",1
+"[""ground pork""",1
+"[""yellow bell pepper""]",1
+"""meat stew""]",1
+"[""chicken wing""]",1
+"""bao dough""",1
+"""red pepper paste""",1
+"[""battered fried food""]",1
+"""blackberry""",1
+"""egg or tofu""]",1
+"""honeydew melon""]",1
+"""chicken flavoring""]",1
+"[""catfish""",1
+"""ginger sauce""",1
+"""sage""",1
+"""yellow peas""",1
+"""mint ice cream""",1
+"""cake flour""",1
+"""flower decoration""]",1
+"""oil for frying""]",1
+"[""skewered balls""",1
+"[""yuzu""",1
+"""sodium metabisulfite""]",1
+"""fruit-flavored candies""]",1
+"""crushed peanuts""]",1
+"""flower buds""]",1
+"""almond milk""]",1
+"""quality street candies""]",1
+"""crispy rice paper""]",1
+"""fried dough stick""]",1
+"[""gouda cheese""]",1
+"""hot dog sausage""",1
+"[""green herbs""",1
+"""dough balls""]",1
+"""chocolate pretzel""",1
+"""eggplants""",1
+"""other fruit""]",1
+"""jelly dessert""",1
+"[""spicy vegetables""",1
+"""breaded cutlet""",1
+"""mixed protein dish""]",1
+"""puffed rice""",1
+"""mac and cheese""]",1
+"""pork sausages""]",1
+"[""fried ball""",1
+"""bone broth""",1
+"""watermelon flavoring""",1
+"[""bird's nest""]",1
+"""chicken or beef""]",1
+"[""rice wrapper""",1
+"""fried snack""]",1
+"[""carrot juice""]",1
+"""pretzel""]",1
+"""sundried tomatoes""]",1
+"""roasted peppers""]",1
+"""citron""]",1
+"[""floral extract""",1
+"[""round fruits""",1
+"[""pancake wrap""",1
+"tofu or meat)""",1
+"[""yellow substance""]",1
+"""fish filling""]",1
+"""pork or chicken""",1
+"""caramelized apples""",1
+"""fresh basil""",1
+"[""battered fish""",1
+"[""bean flour""",1
+"[""bun dough""",1
+"""shredded pork""",1
+"""gyoza""]",1
+"""blueberry juice""]",1
+"""soba""",1
+"[""long gourd""]",1
+"[""savory topping""",1
+"""turkey""]",1
+"""citrus juice""",1
+"[""tilapia""]",1
+"[""spiced meat""",1
+"""grain dish""",1
+"""green tea cake""",1
+"[""black sesame seeds""",1
+"""pork patties""",1
+"""tart crust""",1
+"[""cranberries""]",1
+"[""spam""]",1
+"""orange segments""",1
+"""soufflé""]",1
+"[""tart shell""",1
+"""eel sauce""",1
+"""tart shell""",1
+"""rice or grain dish""]",1
+"[""black tea""]",1
+"""frozen berries""",1
+"""dried tomatoes""]",1
+"meat or vegetables)""]",1
+"""starchy cake""]",1
+"[""rice crispies""",1
+"""crispy crackers""",1
+"""preserved egg""",1
+"""pork bits""",1
+"[""injera""",1
+"[""unknown fruit or candy""]",1
+"""purple radish""]",1
+"""truffle""]",1
+"[""pork bones""",1
+"""milk or yogurt drink""]",1
+"[""areca nut""",1
+"[""strawberry puree""",1
+"""sweet rolls""]",1
+"[""various pastries""",1
+"""white bread""",1
+"[""chicken ribs""",1
+"[""noni fruit""",1
+"""sugar (if added)""]",1
+"""whole grain bun""]",1
+"""nectarines""]",1
+"[""cake sponge""",1
+"[""poached eggs""",1
+"""chicken or pork""]",1
+"""smiley cookies""",1
+"""chestnut""]",1
+"""sev""]",1
+"""mcspicy wings""]",1
+"[""daikon radish""",1
+"[""dried vegetable""]",1
+"""strawberry coating""",1
+"""mixed snacks""]",1
+"""sweet pastry""",1
+"[""sesame seed bread""",1
+"""dhal""]",1
+"[""preserved fish""",1
+"""beef jerky""]",1
+"""pickling spices""]",1
+"""braised chicken""",1
+"[""you tiao""",1
+"""oreo flavoring""]",1
+"""baked pastries""]",1
+"""straws""]",1
+"""cheese tart""]",1
+"""hydrogenated oil""",1
+"""wonton""",1
+"""sodium caseinate""]",1
+"[""yakisoba noodles""",1
+"""multigrains""]",1
+"[""macaroni""]",1
+"[""parboiled rice""]",1
+"[""takoyaki balls""",1
+"[""gelatinous meat""",1
+"""mint chutney""]",1
+"[""dried herbs""",1
+"[""snack sticks""]",1
+"""chocolate snack""",1
+"[""vine leaves""",1
+"[""butter cookies""",1
+"[""orzo""]",1
+"[""dioscorea opposita""",1
+"""dried vegetables""",1
+"""various meats and vegetables for hot pot""]",1
+"[""roll cake""",1
+"[""squid ink pasta""",1
+"""spinach powder""",1
+"""nachos""",1
+"[""biscuit stick""",1
+"[""pickle""]",1
+"""tomato chutney""",1
+"[""fish roe""]",1
+"""beverage base""]",1
+"[""duck neck""",1
+"""potato flakes""]",1
+"[""dried citrus peel""]",1
+"[""knafeh dough""",1
+"""red lettuce""",1
+"[""french bread""",1
+"""dried berries""]",1
+"[""dried grapes""",1
+"[""pearl barley""]",1
+"[""stir-fried vegetables""",1
+"[""fried insects""]",1
+"""sardine""",1
+"""fried eggplant""",1
+"[""pistachio flavoring""",1
+"[""mooncake""",1
+"[""tapioca flour""",1
+"""assorted vegetables""",1
+"""blood cake""]",1
+"[""chopped greens""",1
+"""wasabi flavoring""",1
+"[""brownie base""",1
+"[""roasted birds""",1
+"""donuts""",1
+"""filling (meat/vegetable)""]",1
+"""fritters""",1
+"""pumpkin puree""",1
+"[""fried spring roll""",1
+"""shredded chicken""]",1
+"""dried scallops""]",1
+"[""dried legumes""]",1
+"[""breadsticks""",1
+"""creamy soup""]",1
+"""agar jelly""",1
+"""mint garnish""]",1
+"[""sandwich""",1
+"[""peanut sauce""",1
+"[""salted cheese""",1
+"""garnishes""",1
+"""sauce mix""",1
+"[""fruit juice blend""]",1
+"""agar-agar""",1
+"""evaporated milk""",1
+"""skim milk""]",1
+"""sweetened fruits""",1
+"[""wonton wrappers""",1
+"[""green dough wrapper""",1
+"""potato skewers""",1
+"[""nutritional ingredients""",1
+"""lobsters""",1
+"""pralines""",1
+"[""sausage meat""",1
+"""barbecue meat""",1
+"""butterbeer""]",1
+"""mushroom flavoring""",1
+"[""basil""]",1
+"""okras""]",1
+"""dried blueberries""]",1
+"[""grapefruit juice""",1
+"""potato salad""]",1
+"""unknown vegetables""]",1
+"[""fried lentils""",1
+"""fried cake""",1
+"""blueberry ice cream""]",1
+"""fish fillets""",1
+"""protein (possibly meat or tofu)""]",1
+"""shredded cheese""",1
+"""base ingredient""]",1
+"""mousse""",1
+"""soybean flour""]",1
+"[""red chili peppers""",1
+"""green chili peppers""]",1
+"""quinoa rice""]",1
+"[""vegetable batter""",1
+"""ice cream cone""]",1
+"""blue rice""",1
+"[""cassava""]",1
+"""sauce base""",1
+"""chilies""",1
+"""flour wrap""",1
+"[""transparent noodles""]",1
+"[""cooked birds""",1
+"""fried chicken or similar item""]",1
+"[""pork shoulder""]",1
+"""skewered sausages""]",1
+"""korean rolls""",1
+"""duck eggs""",1
+"""chicken parts""]",1
+"""vinegar or lemon juice""]",1
+"""fried chicken pieces""",1
+"[""curry base""",1
+"""dried bananas""",1
+"[""dried starfruit""",1
+"""cheeses""",1
+"""seafood or vegetables""]",1
+"""beef sausage""",1
+"[""grated cheese""]",1
+"""crushed nuts""",1
+"[""ginseng""",1
+"""pork chops""]",1
+"""crispy shells""",1
+"""seasoned vegetables""]",1
+"[""eclair""",1
+"""dried herbs""]",1
+"[""candied fruit""]",1
+"""cumin""",1
+"[""cocoa butter""",1
+"[""yellow noodles""",1
+"""green syrup""]",1
+"""icing""",1
+"[""wrapped snacks""",1
+"[""animal brain""]",1
+"[""wafer rolls""",1
+"[""sliced meats""",1
+"""wagyu beef""]",1
+"[""chicken or tofu""",1
+"[""split peas""]",1
+"""leaf wrap""]",1
+"""milk solids""",1
+"[""inari""",1
+"tofu)""",1
+chicken,1
+"""breaded fish""]",1
+"""walnut flavoring""]",1
+"""orchid garnish""]",1
+"""fried elements""",1
+"[""dried flowers""",1
+"""orange flavor""]",1
+"""meat extract""",1
+"[""pork loin""",1
+"""dark purple fruit""]",1
+"""hamburger buns""",1
+"""creme brulee""",1
+"[""colored rice""",1
+"""hot dog""]",1
+"chicken or fish)""",1
+"[""jaggery""",1
+"""dried apricots""]",1
+"[""crab flavoring""",1
+"""corn starch""",1
+"""green tea beverage""]",1
+"""cheddar cheese flavoring""]",1
+"""rye bread""]",1
+"""chocolate beverage""",1
+"""chocolate garnish""]",1
+"""chocolate topping""",1
+"""various curries""",1
+"""blue food coloring""",1
+"""cereal flakes""]",1
+"""dairy""]",1
+"""lingonberry sauce""",1
+"""hickory nut flavoring""]",1
+"""fruit cocktail""]",1
+"[""juice""]",1
+"[""frozen dessert""",1
+"""cornbread""",1
+"[""pancake wraps""",1
+"[""gyoza""",1
+"[""flat noodles""",1
+"""tteok""",1
+"""bbq pork""",1
+"[""lechon""",1
+"""meat rolls""",1
+"""starch (potato or similar)""]",1
+"""sinigang""",1
+"[""sprouts""",1
+"[""milk tea""",1
+"[""eucalyptus honey""]",1
+"[""wafer flour""",1
+"[""hash browns""",1
+"[""unagi (grilled eel)""",1
+"[""potato balls""",1
+"[""sliced food item""",1
+"""chocolate balls""",1
+"""fried dough stick""",1
+"""dessert with jelly and fruits""]",1
+"[""yellow corn""",1
+"""white substance""]",1
+"""purple corn""]",1
+"""chocolate crumbs""",1
+"[""chili oil""",1
+"[""yellow substance""",1
+"[""beef or pork""",1
+"""spicy topping""]",1
+"""yellow fruit""",1
+"""protein (chicken or tofu)""",1
+"""pancit""",1
+"""cheeseburger""",1
+"""decorative leaves""]",1
+"[""mushroom""]",1
+"""pork or beef""",1
+"""fried chicken strips""]",1
+"""buttercream frosting""",1
+"""diced avocado""]",1
+"[""wholemeal flour""",1
+"[""various organ meats""]",1
+"""raisin filling""",1
+"[""black olives""",1
+"[""spam""",1
+"[""animal brain""",1
+"""chocolate chip ice cream""",1
+"""wonton wrappers""",1
+"""turkey ham""",1
+"""cheddar cheese""]",1
+"""bear-shaped cookie""]",1
+"""creamy dish""",1
+"[""sweeteners""",1
+"[""baagu cake""",1
+"[""buttercream""",1
+"[""double chicken burger""",1
+"""corn flour""]",1
+"""blueberry flavor""",1
+"""drink with tapioca""]",1
+"""sweetened beans""",1
+"[""pistachio cream""",1
+"""pastry layers""",1
+"""muffin bread""",1
+"""filling (cheese",1
+"""purple spread""]",1
+meat,1
+"[""whole grain wrap""",1
+"or vegetables)""]",1
+"""tomato broth""",1
+"""blueberry ice cream""",1
+"""other ingredients""]",1
+"""carrot filling""]",1
+"""protein balls""",1
+"""tomato flavoring""]",1
+"""sweet powder""]",1
+"""seasoning packet""",1
+"""candy bar""",1
+"mangosteen)""]",1
+"""fruits (peach",1
+"""orange rice""",1
+"""canned drink""]",1
+"[""marbled beef""",1
+"[""insect larvae""",1
+"""marinade spices""]",1
+"""buttered bread""]",1
+"[""almond milk""",1
+"""green tea cream""]",1
+"""hemp seeds""]",1
+"""jelly-like dish""]",1
+"""sugar substitute""]",1
+"""macaroni""",1
+"[""beef flavoring""",1
+"""oil or butter""]",1
+"[""crickets""]",1
+"""seaweed snacks""",1
+"""green rice""",1
+"""sorbet""]",1
+"[""beverage""",1
+"[""dark bread""]",1
+"""flatbreads""]",1
+"""tea/coffee""",1
+"[""shredded raw papaya""",1
+"[""milk flavor""",1
+"[""soymilk powder""]",1
+"[""turnip""]",1
+"""orange slices""",1
+"""gram flour""",1
+"[""tahini""",1
+"""pomelo""",1
+"""dry red chili""]",1
+"""sardines""",1
+"[""lychees""",1
+"""fried sweet potato""]",1
+"""crispy shell""",1
+"""black currants""]",1
+"""potato balls""",1
+"[""fish paste""",1
+"""steamed cakes""",1
+"""white radish""",1
+"[""bulgur""]",1
+"""steamed vegetables""",1
+"""tamarind""]",1
+"""spicy stew""",1
+"[""fried octopus""",1
+"[""graham crackers""",1
+"""chocolate candy""]",1
+"[""cappuccino mix""",1
+"[""fruit slices""",1
+"""fried crab""",1
+"""brown sugar""]",1
+"""dehydrated vegetables""]",1
+"""chai""",1
+"""lavender""]",1
+"""chocolate roll""",1
+"""sunflower oil""",1
+"""shrimp flavoring""]",1
+"""macaroni and cheese""",1
+"""chocolate decorations""]",1
+"""side_dish""]",1
+"[""fish heads""",1
+"""durian""",1
+"""pie""",1
+"[""processed sausage""]",1
+"[""lamb chop""",1
+"[""peking duck""",1
+"""pumpkin puree""]",1
+"[""raspberry""]",1
+"""vegetable ball""",1
+"[""lime juice""",1
+"""golden syrup""]",1
+"[""stuffed meat""",1
+"""chocolate swirl""]",1
+"[""powdered tea""",1
+"""pretzel""",1
+"[""fine noodles""",1
+"[""plant-based ingredients""",1
+"""beef or chicken""]",1
+"""cooked greens""]",1
+"""soy protein""]",1
+"[""bone""",1
+"[""chicken bones""",1
+"[""green chili""]",1
+"[""beef flavor""",1
+"""custard filling""",1
+"""fried side""",1
+"""syrup or sweet sauce""]",1
+"""cucumber salad""]",1
+"""fried anchovies""]",1
+"""flower petal""]",1
+"""spicy chicken patty""",1
+"""lychees""",1
+"[""various cuts of meat""]",1
+"""eel""]",1
+"[""dried herbs""]",1
+"""banana flavoring""]",1
+"""date""",1
+"""pandan flavoring""]",1
+"""rose syrup""",1
+"""rice roll""",1
+"[""catfish""]",1
+"""papad""]",1
+"[""various seeds""]",1
+"""crispy wontons""]",1
+"[""shortbread""",1
+"[""cinnamon""]",1
+"[""dried berries""]",1
+"""beef patty""]",1
+"[""sauces""",1
+"""fried patty""",1
+"""egg tarts""",1
+"""crunchy base""]",1
+"[""luffa""]",1
+"""packaging""]",1
+"[""morel mushroom""]",1
+"[""whole roasted pig""",1
+"[""crab claw""]",1
+"[""green waffles""",1
+"[""spicy mix""",1
+"""herb spread""]",1
+"[""raw meat""]",1
+"[""macaron shells""",1
+"""chashu pork""",1
+"[""yellowfin tuna""",1
+"""snack1""",1
+"""tangerines""",1
+"""batter (flour",1
+"""cinnamon roll dough""",1
+"[""zucchini flowers""",1
+"""fish fillets""]",1
+"seasoning)""]",1
+water,1
+"[""fried dough stick""",1
+"""yogurt dip""",1
+"""crispy coating""]",1
+"""filling (varies)""]",1
+"[""hawthorn berries""]",1
+"""protein blend""",1
+"""chocolate stick""",1
+"""frog legs""",1
+"""rolled item""]",1
+"[""corn snacks""",1
+"""wheat snacks""]",1
+"""milk flavor""",1
+"""blue rice""]",1
+"[""crispy item""",1
+"""miso paste""]",1
+"""ground chicken""",1
+"[""yambean""]",1
+"[""kyoho grapes""]",1
+"[""gram flour""",1
+"""orange sauce""]",1
+"""decorative sweets""]",1
+"[""pineapple flavor""",1
+"[""minced meat or lentils""",1
+"""strawberry ice""",1
+"""sugar toppings""]",1
+"""kiwifruit""]",1
+"""beef jerky""",1
+"""meat rolls""]",1
+"[""various cuts of meat""",1
+"""saffron or turmeric""",1
+"""grated daikon""]",1
+"[""chicken leg""]",1
+"[""银耳""",1
+"""white fungus""]",1
+"""spiced potato filling""",1
+"""green gelatin""]",1
+"[""persimmons""",1
+"""red gelatin""",1
+"[""chicken foot""]",1
+"""meat or egg""]",1
+"[""chocolate chips""]",1
+"[""mint flavor""",1
+"""powdered soybean""]",1
+"""sriracha flavoring""]",1
+"""green puree""]",1
+"""tempura coating""]",1
+"[""dried figs""]",1
+"[""beef floss""",1
+"""filler""]",1
+"""mashed sweet potato""",1
+"[""crunchy beans""",1
+"""薏米""",1
+"""roasted brussels sprouts""]",1
+"""dried grapes""]",1
+"[""sesame sauce""",1
+"[""wakame""]",1
+"""collagen""",1
+"[""green rice paper""",1
+"""rose""]",1
+"[""poppadom""",1
+"[""soymilk""]",1
+"[""oat flour""]",1
+"""cranberry filling""",1
+"""山药""",1
+"""枸杞""]",1
+"""baked pastries""",1
+"[""peanut""",1
+"""dulce de leche""]",1
+"""dried plums""",1
+"""dried oranges""",1
+"""百合""",1
+"""preserved fruits""]",1
+"""tomato garnish""]",1
+"""roasted squash""]",1
+"""gyoza wrappers""",1
+"""savory toast""",1
+"""milk or cream""]",1
+"[""mashed potato""",1
+"""fruit acid""",1
+"[""croissants""",1
+"[""hash brown""",1
+"""dough sticks""",1
+"[""boiled meat""",1
+"""rock sugar""]",1
+"""various fried snacks""]",1
+"""eggplants""]",1
+"""wild rice""",1
+"[""tea""]",1
+"""light soup""]",1
+"""chopped herbs""]",1
+"""decorative food items""",1
+"""truffle""",1
+"[""various nuts""]",1
+"""meat or vegetable filling""]",1
+"""fish2""]",1
+"[""brown sugar""]",1
+"[""seedless grapes""]",1
+"""green topping""]",1
+"""gum base""]",1
+"""vegetable patties""",1
+"""seaweed salad""",1
+"[""dough""]",1
+"""green squash""]",1
+"[""breaded coating""",1
+"[""fish1""",1
+"""filling (assumed protein)""]",1
+"[""yeast""]",1
+"[""amla""",1
+"[""ube (purple yam)""",1
+"""cheese spread""]",1
+"""flaky bread""]",1
+"""gel balls""]",1
+"[""lobster tails""",1
+"""snack packages""]",1
+"""gourd""]",1
+"""yellow soup""]",1
+"""cocktail""",1
+"[""roti canai""",1
+"""lactic acid bacteria""",1
+"""meat flavoring""",1
+"""natto""",1
+"[""pork liver""",1
+"[""dried milk skin""]",1
+"""apple flavoring""",1
+"""red chili flakes""",1
+"""broccoli sprouts""]",1
+"""lemon slice""",1
+"[""cantaloupe""",1
+"[""wheat flour""]",1
+"""acai""",1
+"[""mixed berry flavor""",1
+"""corn fritters""]",1
+"[""guava juice""",1
+"""blackberry sauce""",1
+"""wrappers""]",1
+"[""fudge""",1
+"""gold dust""]",1
+"""rose flavoring""",1
+"[""sesame flatbread""",1
+"""aluminum foil""]",1
+"[""multigrain rice""",1
+"[""dried longan""]",1
+"[""aloe vera""",1
+"""raisin""]",1
+"[""corn dog""",1
+"""pulled chicken""",1
+"[""probiotic powder""]",1
+"""potato pancake""",1
+"""meat or eggs""]",1
+"[""duck meat""]",1
+"[""various flavored snack sticks""]",1
+"""fried mushrooms""",1
+"""roasted duck""",1
+"""juice infusion""]",1
+"[""dried blueberries""",1
+"[""filet mignon""",1
+"[""edible seeds""]",1
+"""passion fruit sauce""",1
+"""chicken skewers""]",1
+"[""animal head""",1
+"""sparkling drink""]",1
+"[""oreo cookies""]",1
+"[""egg custard""",1
+"""mango topping""",1
+"[""mint flavoring""",1
+"""water spinach""",1
+"[""shiitake mushrooms""",1
+"[""nut paste""",1
+"[""chestnuts""",1
+"[""sugar cane""",1
+"""meat roll""]",1
+"[""pork brain""",1
+"[""pork fat""]",1
+"[""coconut flour""",1
+"""chopped nuts""]",1
+"[""chocolate pudding""",1
+"""samosa""",1
+"""sliced fish""",1
+"""roll""",1
+"""tomato soup""]",1
+"""vanilla sauce""",1
+"""coffee beans""]",1
+"[""fried oysters""",1
+"""baked egg dish""",1
+"""freeze-dried raspberries""]",1
+"""mashed vegetables""]",1
+"""pandan extract""",1
+"""foie gras""",1
+"""yellow mustard""]",1
+"[""churro""",1
+"[""various flavored snack balls""]",1
+"""spicy noodles""",1
+"""umeboshi""",1
+"""baked beans""]",1
+"""rolled pancake""]",1
+"""vegetable omelet""]",1
+"[""tonkatsu""",1
+"[""beef ribeye""",1
+"""meat or paneer""]",1
+"[""yellow bell pepper""",1
+"""green crust""",1
+"""rye""",1
+"""garlic sauce""",1
+"""various other fruits""]",1
+"[""beef bone""",1
+"[""raisin""]",1
+"""tea leaves/coffee""",1
+"""takoyaki""",1
+"[""tomato juice""]",1
+"""strawberry mousse""",1
+"[""pork knuckles""",1
+"[""lamb/beef""",1
+"[""dried qiuyue pear""]",1
+"""chicken strips""]",1
+"[""blood""",1
+"""black bun""]",1
+"""purple cauliflower""",1
+"[""pasta shells""",1
+"""starch balls""",1
+"[""dried chili""]",1
+"""garlic powder""",1
+"""balsamic reduction""]",1
+"""sauce packet""",1
+"""white bread""]",1
+"[""long beans""",1
+"[""cheese pastry""",1
+"""meat pastry""",1
+"""stick""]",1
+"""sides (vegetables)""]",1
+"[""black ice cream""",1
+"[""chili oil""]",1
+"""pumpkin soup""",1
+"""roasted garlic""",1
+"""fruit extracts""]",1
+"""preserved meat""]",1
+"""chocolate powder""]",1
+"""binders""]",1
+"""sesame wrap""",1
+"[""unknown ingredients based on packaging""]",1
+"""meat or tofu stuffing""",1
+"""sugar-coated nuts""]",1
+"[""cheese cream""",1
+"""purple sauce""",1
+"[""green herbs""]",1
+"[""rice flour""]",1
+"""whole grains""]",1
+"""pork chop""]",1
+"[""savory snack base""",1
+"[""scallion""]",1
+"[""almond""]",1
+"[""legumes""]",1
+"[""lentils""]",1
+"""pakoras""",1
+"""chili seasoning""]",1
+"""tortilla strips""",1
+"""cornmeal batter""",1
+"""ground sausage""",1
+"""vegetable leaves""]",1
+"[""seasoned nuts""",1
+"""soda water""]",1
+"""avocado sauce""",1
+"""green tea mousse""",1
+"[""chocolate mousse""",1
+"""fried chicken burger""",1
+"[""sesame pastry""",1
+"""flavor enhancers""]",1
+"[""chicken extract""",1
+"[""wasabi powder""",1
+"[""snack pack""",1
+"""protein (possibly meat or tofu)""",1
+"""meat or shrimp""",1
+"""osmanthus""]",1
+"""flatbreads""",1
+"""ganache""",1
+"""lo mein""",1
+lentils,1
+"shrimp or chicken)""",1
+"""crumbs""",1
+"[""fried fish fillet""",1
+"[""fish heads""]",1
+"""side salad""",1
+"""tater tots""]",1
+"[""butterfly pea flower""]",1
+"shellfish or meat)""",1
+"[""crab roe""",1
+"""mixed salad greens""]",1
+"""fruit assortment""",1
+"""pizza base""",1
+"[""chicken mcnuggets""",1
+"""blood cake""",1
+"""scorpions""",1
+"pickled plum)""]",1
+tuna,1
+"""starchy vegetable""]",1
+"""menthol""",1
+"[""jalapeño""]",1
+"""perilla leaves""]",1
+"""shallots""]",1
+"""coconut meat""",1
+"[""snack item""]",1
+"""whole pomegranate""]",1
+"[""green leaves""]",1
+"""flavored beverage""]",1
+"[""rose extract""",1
+"""yellow mustard""",1
+"""japchae""]",1
+"""colorful noodles""]",1
+"[""cherry tomato""]",1
+"""century egg""]",1
+"""cream/yogurt""",1
+"[""brioche""",1
+"[""olive bread""",1
+"[""pork hocks""]",1
+"[""green noodles""]",1
+"[""sweet and sour chicken""",1
+"[""oat milk""]",1
+"""calamari""",1
+"""artichoke""]",1
+"""wrapped rice dish""]",1
+"""burger wrappers""]",1
+"[""crispy pastry""",1
+"""snack dough""]",1
+"[""green pancake""",1
+"[""black sausage""",1
+"[""durian flavor""",1
+"""naan bread""",1
+"""green frosting""]",1
+"""red bean""]",1
+"[""burgers""",1
+"[""canned food""]",1
+"""grilled tomato""",1
+"[""poached egg""",1
+"[""corndog""",1
+"""black tea extract""",1
+"[""liver""]",1
+"""grilled squash""",1
+"""hard-boiled egg""",1
+"[""teff flour""",1
+"[""blue curaçao""",1
+"""various small dishes""]",1
+"[""stinky tofu""",1
+"[""jelly cubes""",1
+"[""purple sweet potatoes""",1
+"""ginseng extract""",1
+"[""dried seaweed""]",1
+"[""animal head""]",1
+"""vodka""",1
+"""red syrup""]",1
+"[""snack mix ingredients""]",1
+"""luncheon meat""",1
+"""grilling sauce""]",1
+"[""leaf wraps""",1
+"[""herbal leaves""]",1
+"[""coffee grounds""]",1
+"""poppy seeds""]",1
+"[""pike""]",1
+"""seafood salad""",1
+"""radicchio""]",1
+"""chopped green onions""",1
+"[""pomegranate""",1
+"""fried apples""",1
+"[""flounder""]",1
+"""sweet fillings""",1
+"""mashed vegetables""",1
+"""rabri""",1
+"""toppings (fried shallots",1
+"green onions)""]",1
+"""protein (meat or tofu)""",1
+"""menma""]",1
+"[""edible flowers""",1
+"""gelatinous substance""",1
+"""chicken drumstick""",1
+"[""crispy dough""",1
+"[""shredded coconut""",1
+"""mango popsicles""]",1
+"""iced cappuccino""]",1
+"[""timbits""",1
+"""gel beads""]",1
+"""orchid flower""]",1
+"""mushroom soup""",1
+"""protein_source""]",1
+"""orange vegetables""]",1
+"""filling (vegetables)""]",1
+"[""dessert drink""",1
+"""meat spread""",1
+"""grain""",1
+"[""fried lentil balls""",1
+"""side vegetables""",1
+"[""chicken eggs""]",1
+"""fried onion""",1
+"[""gluten""",1
+"[""chocolate roll cake""",1
+"""colorful rice cakes""]",1
+"""cream soup""",1
+"""spicy soup""]",1
+"""glazed protein""",1
+"[""tater tots""",1
+"""beet""",1
+"""sushi ginger""",1
+"""pastry crust""",1
+"""crispy wafer""]",1
+"[""sweetened bean paste""",1
+"[""base""",1
+"[""candies""",1
+"""dried dates""",1
+"""purple soup""",1
+"""alcohol""",1
+"[""lamb kebab""",1
+"[""rolled dough""",1
+"[""black fungus""]",1
+"""melons""]",1
+"""tofu skewers""",1
+"[""sandwiches""",1
+"""pappad""",1
+"""powdered ingredients""]",1
+"""blackcurrant juice""",1
+"[""pecans""]",1
+"""seitan""",1
+"""purple yam filling""]",1
+"""sweet potato filling""",1
+"""yellow apples""]",1
+"""casserole ingredients""]",1
+"""sweet""",1
+"""seaweed salad""]",1
+"[""popcorn""]",1
+"""crispy pork skin""",1
+"""sashimi fish""",1
+"""green filling (possibly made from nuts or herbs)""]",1
+"""grilled shrimp""",1
+"""pickled eggs""",1
+"""green seaweed""]",1
+"""brownies""",1
+"""corn salad""",1
+"""black tofu""",1
+"""dip""]",1
+"""ricotta""",1
+"""chicken curry""]",1
+"""rye flour""",1
+"""white flour""",1
+"[""black bean cake""",1
+"[""grilled vegetables""",1
+"""grape flavoring""]",1
+"""crispy noodles""",1
+"""heavy cream""",1
+"[""shortcrust pastry""",1
+"""grilled fish""]",1
+"""cooked cabbage""",1
+"""crumbs""]",1
+"[""mixed herbs""",1
+"""dried meat or toppings""]",1
+"""pork skewers""]",1
+"[""green vegetable paste""",1
+"""plum filling""",1
+"[""fried insects""",1
+"""grass jelly drink""]",1
+"""sev""",1
+"""muffins""]",1
+"""potato cakes""]",1
+"""purple grapes""",1
+"""canned fruits""",1
+"""sweet bean sauce""]",1
+"""duck egg""]",1
+"""dosa""",1
+"[""starchy vegetables""",1
+"[""pulled beef""",1
+"""chili paste""",1
+"""brown sugar""",1
+"""orange glaze""",1
+"[""mixed fruits""]",1
+"""gummy bears""",1
+"""grated vegetables""]",1
+"[""dried strawberries""]",1
+"[""yellow raspberries""]",1
+"""mandarin oranges""]",1
+"""green filling (possibly made from nuts or legumes)""]",1
+"[""piglet""]",1
+"[""bottle gourd""",1
+"[""fermented fish""",1
+"""dessert with mango and tapioca""]",1
+"[""cheesecake filling""",1
+"[""dried red dates""]",1
+"""fruit snacks""",1
+"""other snacks""]",1
+"""garlic flavoring""",1
+"""flax seeds""",1
+"""dirt-like topping""]",1
+"""scallop flavoring""",1
+"""spicy meat topping""",1
+"""corn salad""]",1
+"""meat toppings""]",1
+"""snack rolls""",1
+"[""cheddar cheese""",1
+"""green spread""]",1
+"""sweet sauce chicken""",1
+"[""beef rib fingers""]",1
+"""roasted sweet potatoes""",1
+"""blueberry filling""]",1
+"""mango ice cream""]",1
+"""yellow tomatoes""]",1
+"""chocolate dessert""]",1
+"[""liver pâté""",1
+"[""butternut squash""",1
+"""vegetable coloring""",1
+"""iced drink""",1
+"""honey oat bread""]",1
+"""wheat bread""",1
+"[""red cabbage""",1
+"[""soy protein""",1
+"""mandarin oranges""",1
+"[""black truffle""",1
+"""jellies""",1
+"[""seasoned fish""]",1
+"""mango sorbet""",1
+"""pistachio ice cream""",1
+"[""tartary buckwheat""]",1
+"""green dough""",1
+"""mashed pumpkin""",1
+"""pastry shells""",1
+"""sponge cake""]",1
+"""salad vegetables""",1
+"[""baked good""",1
+"""soybean""]",1
+"""flatfish""",1
+"""cocoa filling""]",1
+"[""red dough""",1
+"[""lemon flavoring""",1
+"""ground meat or tofu""",1
+"[""sprouted beans""]",1
+"[""raspberry""",1
+"""red berries""]",1
+"[""fried patty""",1
+"[""crispy layers""",1
+[],1
+"""various shellfish""",1
+"[""tamarind""",1
+"""cheesy bake""",1
+"""lo mein""]",1
+"[""parsley""]",1
+"[""orange chicken""",1
+"""macaroni and cheese""]",1
+"""fried cracker""]",1
+"[""crayfish""]",1
+"""fried seaweed""",1
+"""mayo""",1
+"""protein isolate""",1
+"""pickle""]",1
+"""low-gluten flour""",1
+"[""spicy paste""",1
+"""starchy component""",1
+"[""dough stick""",1
+"""purple topping""]",1
+"""breadsticks""",1
+"[""various legumes""",1
+"[""lychee juice""",1
+"""crushed cornflakes""",1
+"""various fish""]",1
+"""vegetable side""]",1
+"""filling (meat or vegetable)""",1
+"""sweet jelly""]",1
+"[""litti (wheat flour",1
+"[""cutlet""",1
+"[""toddy palm seeds""",1
+"[""yellow beans""]",1
+"[""cocktail mix""",1
+"""prunes""",1
+"""crispy rice""",1
+"[""offal""]",1
+"""chokha (mashed vegetables",1
+ghee,1
+"""cocoa flavoring""]",1
+"stuffed with sattu)""",1
+"[""meat floss""",1
+"[""noni fruit""]",1
+"[""breaded nuggets""",1
+"[""shredded coconut""]",1
+"""decorative hearts""]",1
+"[""freeze-dried coffee""]",1
+"""mushroom soup""]",1
+"[""starchy fruit""]",1
+"[""cupcakes""",1
+"[""vegetable extract""",1
+"""sweet tea""",1
+"""fried ribs""",1
+"""beef sauce""",1
+"[""fried snack sticks""",1
+"""butter sauce""",1
+"[""starchy food""",1
+"""snack beans""]",1
+"[""soft drink""",1
+"""orange slice""]",1
+"""blue cheese""]",1
+"""cream puffs""",1
+"""jam or fruit filling""",1
+"""decorative fruits""]",1
+"[""lemon cream""",1
+"[""fried fish or chicken""",1
+"[""peach flavoring""",1
+"""root vegetable""]",1
+"""pickled plum""]",1
+"""sweet""]",1
+"[""black soybeans""",1
+"[""mango filling""",1
+"""drink2""]",1
+"""beef flavoring""]",1
+"""peanut cream""]",1
+"[""cracker""",1
+"""curry broth""]",1
+"""green tea paste""]",1
+"""fried lentil balls""",1
+"""sambal sauce""]",1
+"""sauce ingredients""]",1
+"""seafood broth""",1
+"""cultures""]",1
+"""ice cubes""]",1
+"""wet ingredient""]",1
+"[""pickled fruits""]",1
+"""cookie cup""",1
+"[""sweetened dough""",1
+"""peanut spread""]",1
+"[""black tea""",1
+"[""olive oil""",1
+"""drink1""",1
+"""soursop""",1
+"""snack3""]",1
+"""vegetable juice""",1
+"""flour coating""",1
+"""wafer cones""",1
+"""grits""",1
+"""cheese sticks""]",1
+"[""doughnut""",1
+"""paneer""]",1
+"[""wasabi peas""]",1
+"""flavored chips""]",1
+"[""ovaltine powder""]",1
+"""dessert ingredients""]",1
+"[""corn starch""",1
+"[""grilled wrap""",1
+"[""chili sauce""",1
+"""cream frosting""]",1
+"""mousse""]",1
+"""pudding""",1
+"""beef or chicken""",1
+"""crab roe flavoring""]",1
+"""kumquat""]",1
+"""fried chips""",1
+"""uni""]",1
+"""dried pineapple""",1
+"[""blackened batter""",1
+"""kung pao sauce""]",1
+"""longan""",1
+"[""roll""",1
+"""fruit jam""",1
+"[""yams""",1
+"""soup vegetables""",1
+"""fried sausage""]",1
+"[""rice water""]",1
+"[""frozen fruit""",1
+"""herbal tea""]",1
+"[""hawthorn fruit""",1
+"""snack chips""",1
+"[""fruit juices""",1
+"[""watermelon flavor""",1
+"""purple frosting""]",1
+"""wings""]",1
+"""bread base""",1
+"""other berries""]",1
+"""yellow vegetable""]",1
+"""mealworms""",1
+"""grasshoppers""]",1
+"[""venison""",1
+"""brie cheese""",1
+"""chorizo""",1
+"""seitan""]",1
+"""gummy candy""]",1
+"[""small seafood""",1
+"""skewered chicken""",1
+"""stir-fry sauce""]",1
+"[""melon pan""",1
+"[""shells""",1
+"[""barnacles""]",1
+"[""linguine""",1
+"[""spirits""",1
+"""binding agent""]",1
+"""wagyu beef""",1
+"""sriracha""]",1
+"[""beef extract""",1
+"""winter melon""]",1
+"""rolls""",1
+"[""kidney beans""",1
+"[""durian pulp""]",1
+"""oyster""",1
+"""tea oil""",1
+"""grilled chicken skewers""",1
+"[""duck gizzards""",1
+"""squid or similar protein""]",1
+"[""grilled beef patties""",1
+"""various nuts""]",1
+"[""processed cheese""",1
+"[""puffed corn""",1
+"[""black peanuts""]",1
+"""peanut dressing""",1
+"""lemon slice""]",1
+"[""ricotta cheese""",1
+"[""lactic acid bacteria""",1
+"[""pecans""",1
+"""seafood flavoring""",1
+"""lactic acid bacteria""]",1
+"""wrapped item""]",1
+"""bait""]",1
+"""dried apple""",1
+"""dried banana""]",1
+"""dessert pastry""]",1
+"""cannoli shell""",1
+"""sweet cream""",1
+"""sweetened grains""",1
+"""green bun""",1
+"""decorative bun""]",1
+"[""bread cubes""",1
+"""crispy coating for chicken""]",1
+"""chocolate cereal""",1
+"""green wrapper""]",1
+"""sliced ham""",1
+"[""snack bar""",1
+"""sesame chicken""]",1
+"""baked dough""]",1
+"""pork fat""]",1
+"[""green toast""",1
+"""cheddar""]",1
+"""parmesan""",1
+"""various sausages""",1
+"""egg filling""",1
+"""lavender""",1
+"""pepper seasoning""",1
+"""green cakes""",1
+"[""yellow lentils""",1
+"""green lentils""]",1
+"[""starfruit""",1
+"""poppy seeds""",1
+"""botanical extracts""]",1
+"""mangosteens""]",1
+"[""cherry juice""]",1
+"""soft drinks""",1
+"[""nut milk""",1
+"""meat/vegetables""",1
+"""savory snack""]",1
+"""croquettes""",1
+"[""skewered fish cakes""",1
+"[""mixed ingredients""",1
+"[""chicken cutlet""",1
+"""green items""]",1
+"[""scallion pancake""",1
+"[""chocolate tart crust""",1
+"""colored candies""]",1
+"""rice crisps""",1
+"[""shredded pork""",1
+"""assorted fruits""]",1
+"""spicy rice cakes""",1
+"[""cinnamon rolls""",1
+"""strawberry puree""",1
+"""cornflakes""]",1
+"[""codfish""]",1
+"[""duck blood""",1
+"""garlic sprouts""",1
+"[""fried eggplant""",1
+"[""pretzels""",1
+"""leavening agents""",1
+"""soy lecithin""",1
+"""cocoa cream""",1
+"""candy pieces""]",1
+"""wheat starch""",1
+"[""shredded beef""",1
+"[""tea bag""",1
+"""creamer""",1
+"""black pepper sauce""",1
+"""grilled seafood""",1
+"""yellow split peas""",1
+"""black bean soup""]",1
+"""sweet liquid""]",1
+"[""various ingredients as per package""]",1
+"""other greens""]",1
+"""dark fruit""]",1
+"""sweetened red beans""",1
+"[""battered seafood""",1
+"""vegetable mix""]",1
+"""beef flavor seasoning""]",1
+"""peach earl grey tea""]",1
+"[""yam""]",1
+"""cocoa solids""",1
+"""fish paste""]",1
+"[""whole dog""",1
+"[""wheat""]",1
+"""semolina""]",1
+"[""quinoa""]",1
+"""shrimp flakes""]",1
+"""fruit tart""]",1
+"""pistachio gelato""]",1
+"[""fried pastries""",1
+"[""black fruits""",1
+"""yellow sauce""",1
+"[""smoked chicken""",1
+"[""protein isolate""",1
+"[""potato wedges""",1
+"""balsamic dressing""]",1
+"[""waffle crisps""",1
+"""filling (potato",1
+"etc.)""",1
+"""sweet rice balls""",1
+"[""rambutan""",1
+"""cooked meats""",1
+"[""chickpeas""]",1
+"""stuffed eggplant""",1
+"[""preserved meat""]",1
+"""sambal sauce""",1
+"[""minced beef""",1
+"""satay""",1
+"""palm leaves""]",1
+"""potato wedge""]",1
+"""sweet corn""",1
+"[""pickled mustard greens""",1
+"""cookie crumbles""",1
+"[""egg white""",1
+"[""hot pot broth""",1
+"[""sushi fish""",1
+"[""prune juice""",1
+"""yellow chili""]",1
+"[""saltine crackers""",1
+"[""dried scallops""]",1
+"""protein (chicken or tofu)""]",1
+"""mixed seafood""]",1
+"""dried fruit""",1
+"""raw meat""",1
+"""oreo""",1
+"[""chocolate sauce""",1
+"""frozen berries""]",1
+"""watermelon candy""]",1
+"[""beets""]",1
+"[""thinly sliced meat""]",1
+"""grilled onions""]",1
+"""hazelnut""]",1
+"""sliced chili""",1
+"""pumpkin pie""",1
+"[""baked apples""",1
+"""yellowtail""]",1
+"""broad beans""]",1
+"""vanilla gelato""]",1
+"""soy lecithin""]",1
+"[""stir-fried greens""",1
+"""green drink""",1
+"[""waffle batter""",1
+"""chicken or shrimp""]",1
+"[""fried spring rolls""",1
+"""protein (possibly fish or tofu)""]",1
+"""blood pudding""]",1
+"[""pea flour""",1
+"""carbonated drink""",1
+"""coffee drink""]",1
+"[""appetizers""",1
+"sweet paste)""",1
+"[""red currants""]",1
+"""bone marrow""]",1
+"""nougat""",1
+"""quail egg""]",1
+"[""mixed vegetables""]",1
+"""sea snails""",1
+"""ginkgo nuts""]",1
+"[""dried insects""]",1
+"""dim sum wrapper""",1
+"""cranberry flavor""]",1
+"""herbal extracts""",1
+"""skewered vegetables""",1
+"[""animal protein""",1
+"[""chicken curry""",1
+"[""flaxseeds""]",1
+"""potato croquettes""",1
+"""galangal""]",1
+"""shrimp flakes""",1
+"""char siu (roasted pork)""",1
+"[""purple dough""",1
+"""insects""",1
+"""oreo crumbs""",1
+"""beet juice""",1
+"[""pickled peppers""",1
+"""aspartame""",1
+"""poached egg""]",1
+"""rose essence""",1
+"[""fried filling""",1
+"""vegetable garnish""",1
+"[""red jujube""]",1
+"""freeze-dried raw ingredients""]",1
+"""chocolate toppings""",1
+"""polenta""]",1
+"""seasoning cubes""]",1
+"""chocolate mousse""]",1
+"""fruit drinks""]",1
+"""meat slices""]",1
+"""pork buns""",1
+"""curry paste""",1
+"[""ground beef""]",1
+"[""pig's trotter""",1
+"""tea leaves or broth ingredients""]",1
+"""biscuit base""",1
+"""burrito""",1
+"""fried rolls""]",1
+"[""meat/tofu""",1
+"""egg roll wrappers""",1
+"""cured meat""]",1
+"""sushi fish""",1
+"""dough balls""",1
+"""sautéed vegetables""]",1
+"[""small birds""",1
+"[""red chili""",1
+"""filling (assumed)""]",1
+"""meat in sauce""",1
+"""mango sauce""]",1
+"[""jasmine tea leaves""",1
+"""savory sauce""]",1
+"[""almond cream""",1
+"[""schnitzel""",1
+"[""black sesame paste""",1
+"""bean paste""]",1
+"""rice noodles""]",1
+"[""honeycomb""]",1
+"""green coloring""]",1
+"[""tea/coffee""",1
+"[""blood tofu""",1
+"""long beans""]",1
+"""fried pork cutlet""]",1
+"""accompaniments""]",1
+"[""black egg""",1
+"""coffee flavor""",1
+"[""char siu pork""",1
+"[""purple potatoes""",1
+"""yellow fruits""",1
+"""citrus fruit""]",1
+"""prune extract""]",1
+"[""lemongrass""",1
+"""spicy snacks""",1
+"""fritters""]",1
+"""scorpions""]",1
+"""silkworms""",1
+"[""mealworms""",1
+"""smoothie base""]",1
+"""steamed broccoli""]",1
+"[""grilled steak""",1
+"""chocolate cookies""]",1
+"[""beef jerky""",1
+"""shallot""]",1
+"""galangal""",1
+"[""imitation crab sticks""]",1
+"""pork sausage""]",1
+"""stir-fry sauce""",1
+"""fried skin""",1
+"[""unknown fruit""]",1
+"""papad""",1
+"""cup""]",1
+"[""indian gooseberries""]",1
+"""cookie stick""]",1
+"""nuggets""",1
+"""fried seafood""",1
+"""seafood mix""",1
+"[""red bayberry""",1
+"""red wine""]",1
+"[""small lobster""",1
+"[""fried wontons""",1
+"[""rice or tapioca""",1
+"""almond white chocolate""",1
+"""potato sides""",1
+"""roll cake""",1
+"[""oat flakes""]",1
+"[""marshmallow""]",1
+"""green jelly""]",1
+"""melting salt""]",1
+"[""cow milk""",1
+"[""olive oil""]",1
+"""salmon flavoring""",1
+"""pickled fish""]",1
+"[""unknown ingredient""]",1
+"[""red fruit""",1
+"[""green rice flour""",1
+"""palm oil""]",1
+"""beef or pork""",1
+"""shrimp fritter""]",1
+"""vegetable puree""]",1
+"""crab flavor""]",1
+"[""burger patties""",1
+"""orange roe""",1
+"""paprika seasoning""]",1
+"""snack balls""",1
+"""egg cake""]",1
+"""eyes (decorative)""]",1
+"""baked pastry""]",1
+"""frozen treat""]",1
+"[""processed fruit""",1
+"""assorted fruits""",1
+"[""sweet rice balls""",1
+"""meat/vegetable filling""",1
+"""shredded cheese""]",1
+"[""green mangoes""]",1
+"""cream topping""]",1
+"[""mushroom""",1
+"""milk filling""]",1
+"""snapper""]",1
+"""shredded beef""]",1
+"""guanciale""",1
+"""starch base""]",1
+"[""fava beans""",1
+"""mint extract""",1
+"""chocolate drink""]",1
+"""sugar snap peas""",1
+"""bread or pancake""",1
+"""mung bean filling""",1
+"""tea or coffee""]",1
+"""blackberry""]",1
+"""dark soy sauce""",1
+"""kinako""]",1
+"""sweet soy sauce""",1
+"[""dango""",1
+"""chestnut cream""",1
+"""jelly balls""",1
+"[""prime rib""",1
+"""toppings (nuts",1
+"seeds)""]",1
+"[""coconuts""]",1
+"[""mandarin""]",1
+"""oatmeal""]",1
+"""red rice""]",1
+"[""shallots""]",1
+"[""shredded carrots""",1
+"""red kidney beans""",1
+"""brioche bun""",1
+"""fatty meat""]",1
+"""cracklings""",1
+"""cooked protein""]",1
+"""mandarins""",1
+"""ground pork""",1
+"""green tea cream""",1
+"""grilled potato""]",1
+"""grilled zucchini""",1
+"""flavored drink""]",1
+"""blood pudding""",1
+"""blackcurrants""",1
+"[""snails""]",1
+"""chicken or seafood""",1
+"""vegetable fritter""]",1
+"""crunchy toppings""",1
+"""tempura scraps""]",1
+"[""pakoras""",1
+"""dried mango""",1
+"""lemon peel""",1
+"""oyster""]",1
+"""starchy topping""]",1
+"""seasoned meat""]",1
+"[""stachyose""",1
+"[""curly fries""",1
+"""crab claws""]",1
+"""candied nuts""]",1
+"[""skim milk""]",1
+"[""rice puffs""",1
+"""vegetable stir-fry""",1
+"""matcha syrup""",1
+"""quail egg""",1
+"[""various appetizers""",1
+"[""marinated meat""]",1
+"[""tempura batter""",1
+"""gelatinous substance""]",1
+"[""samosa pastry""",1
+"""mint leaf""]",1
+"""probiotic cultures""]",1
+"""various sides""]",1
+"[""sugarcane""",1
+"[""fish or chicken""",1
+"""dried fish or meat""]",1
+"""tempura bits""]",1
+"[""fried leaves""",1
+"[""red plums""]",1
+"[""fried strips""]",1
+"""grilled bread""]",1
+"""honey or sugar""]",1
+"[""plum flavoring""",1
+"""seaweed soup""]",1
+"""flowers""",1
+"[""protein (chicken or fish)""",1
+"""chocolate dessert""",1
+"""chicken burger""",1
+"[""chasiu (barbecued pork)""",1
+"""grilled green onions""",1
+"""syrups""]",1
+"[""couscous""]",1
+"""character pasta""]",1
+"""fruit compote""]",1
+"[""coffee beans""",1
+"""fufu (cassava or yam)""]",1
+"""baked condensed milk""]",1
+"""tobiko""]",1
+"""vanilla dessert drink""",1
+"[""chocolate dessert drink""",1
+"[""beef brisket""",1
+"[""mixed fruit""",1
+"""coconut water""]",1
+"[""char siu (barbecue pork)""",1
+"[""various cheeses""",1
+"[""fresh milk""]",1
+"""snack sticks""",1
+"""sweet bun""",1
+"[""hamburger""",1
+"""barbecue ribs""",1
+"""rose extract""",1
+"""savory fillings""]",1
+"""sweet buns""",1
+"[""pretzel sticks""",1
+"""yellow lettuce""",1
+"""goat meat""]",1
+"""protein item""]",1
+"""persimmons""",1
+"[""chocolate bar""",1
+"[""soup broth""",1
+"""flaxseeds""]",1
+"[""salak""]",1
+"[""julienned vegetables""",1
+"[""pork skewers""",1
+"[""soup mix""",1
+"""congee""]",1
+"""sweet balls""]",1
+"""semolina""",1
+"""crispy pancake""",1
+"""meat/vegetables""]",1
+"[""fruit mix""",1
+"""vegetable mix""",1
+"""decorative figurine""]",1
+"""artificial colors""]",1
+"""whole wheat bun""",1
+"[""shrimp flavoring""",1
+"""powdered topping""]",1
+"[""mackerel""]",1
+"[""peas""]",1
+"""crepe""",1
+"[""preserved eggs""]",1
+"[""sweet and sour sauce""",1
+"[""gummy candies""",1
+"[""roasted chicken/duck""",1
+"[""whole grain""",1
+"""pork bones""",1
+"""grilled corn""]",1
+"[""dried red chilies""]",1
+"""dessert cream""]",1
+"""yellow drink""]",1
+"[""breaded chicken or fish""",1
+"[""fish head""",1
+"""chicken thigh""]",1
+"""jackfruit seeds""]",1
+"""croissants""",1
+"""wafer stick""]",1
+"""chinese sausage""]",1
+"""filling (possibly fish or meat)""",1
+"[""unknown ingredients based on package""]",1
+"""bread crust""",1
+"""chicken/fish""",1
+"[""butterscotch chips""",1
+"[""rye""",1
+"""fruit preserves""]",1
+"""cooked egg""]",1
+"[""red potato""]",1
+"""sliced vegetables""]",1
+"[""blue crabs""]",1
+"[""chocolate-coated cereal""]",1
+"""yellow flowers""",1
+"""macaron pieces""]",1
+"""gummy bears""]",1
+"""green condiment""]",1
+"[""oyster extract""",1
+"""steamed meat""",1
+"""pickled greens""]",1
+"[""duck legs""",1
+"""pastry base""]",1
+"[""sweet red bean paste""",1
+"""mandarin""",1
+"[""soft-boiled egg""",1
+"""decorative marshmallows""",1
+"[""chocolate sponge cake""",1
+"""okura""",1
+"[""snack beans""]",1
+"""red pork""]",1
+"[""seasoned soy protein""",1
+"meat or tofu)""]",1
+"[""pudding base""",1
+"[""citrus juice""",1
+"""dried lotus root""",1
+"""dried mushrooms""",1
+"""dried snow pear""]",1
+"[""dried jujube""",1
+"""cherry sauce""]",1
+"[""pig's ears""]",1
+"[""vegetable curry""",1
+"[""minced turkey""",1
+"[""yellow striped fruits""]",1
+"[""rhubarb""]",1
+"[""guinea pig""",1
+"[""battered meat""",1
+"[""creamy dish""",1
+"""cookie pieces""]",1
+"""lotus leaf juice""]",1
+"""black pudding""",1
+"""cereal toppings""",1
+"[""duck breast""]",1
+"[""vermicelli""]",1
+"[""maqui powder""]",1
+"[""artichoke""",1
+"[""poppy seeds""",1
+"[""black mulberries""]",1
+"""base layer""]",1
+"[""shredded cheese""",1
+"[""lavender ice cream""",1
+"[""soft shell shrimp""",1
+"""natural flavoring""]",1
+"""muffin bread""]",1
+"[""sweet bean paste""",1
+"""herbal leaves""]",1
+"[""jalapeños""",1
+"""lemon tea""",1
+"[""sweetened milk drink""",1
+"""snack crackers""]",1
+"""mixed beans""]",1
+"[""various grains""",1
+"""spiced meat""]",1
+"""cinnamon rolls""",1
+"""sweet base""",1
+"""oil or butter""",1
+"""truffle oil""]",1
+"[""fig""",1
+"[""chicken/fish""",1
+"""crunchy toppings""]",1
+"""lemonade""]",1
+"[""sorbet""",1
+"""wafer sticks""",1
+"[""hazelnut""",1
+"""protein (chicken or fish)""]",1
+"[""shredded dough""",1
+"[""fried bun""",1
+"""beef ribs""",1
+"[""roast pig""",1
+"""dahl""]",1
+"""dark filling""]",1
+"[""black jelly powder""]",1
+"""meat/tofu""]",1
+"""sweet paste""",1
+"[""corn kernels""",1
+"[""panna cotta""",1
+"""perilla leaves""",1
+"""sweet fillings""]",1
+"[""langoustines""]",1
+"""efo riro (vegetable stew)""",1
+"""wheat malt""",1
+"[""barley malt""",1
+"meat or vegetables)""",1
+"[""stew""",1
+"""roasted goose""",1
+"""swiss cheese""",1
+"""sesame cakes""]",1
+"""tea egg""]",1
+"""filling (possibly meat or vegetables)""",1
+"""seasoned nuts""]",1
+"""crinkle fries""",1
+"""other beans""",1
+"[""sorghum""]",1
+"[""fish meat""",1
+"[""pork knuckle""]",1
+"[""split peas""",1
+"[""cereal loops""",1
+"""breaded cutlet""]",1
+"[""lotus stem""]",1
+"""fried bananas""",1
+"[""strawberry juice""",1
+"[""physalis""]",1
+"""bottled water""]",1
+"[""snack items""",1
+"""caramel dessert""",1
+"""sticky rice""]",1
+herbs,1
+"[""various processed meats""",1
+"[""purple leaves""",1
+"""tremella mushroom""]",1
+"[""fish maw""",1
+"chicken or beef)""",1
+"""almond pastry""",1
+"""toppings (e.g.",1
+"glutinous rice balls)""]",1
+goji berries,1
+"[""vegetable slices""",1
+"[""crispy rice""",1
+"""beef chunk""]",1
+"[""oat""",1
+"""coffee powder""]",1
+"[""dried orange peel""]",1
+"[""pork knuckles""]",1
+"[""soba noodles""]",1
+"""fried octopus""",1
+"""grilled squash""]",1
+"""sweetened cream""",1
+"""yogurt culture""",1
+"""pineapple flavoring""",1
+"""snow peas""]",1
+"[""thai tea""",1
+"""strawberry jam""",1
+"[""beer""]",1
+"""fruit decorations""]",1
+"[""pine honey""]",1
+"[""prune extract""",1
+"[""processed cheese""]",1
+"[""toast bread""]",1
+"[""pumpkin flowers""",1
+"[""beef slices""",1
+"""fried zucchini""]",1
+"""potato balls""]",1
+"[""sesame bars""",1
+"""doritos""]",1
+"""jicama""]",1
+"[""powdered drink mix""]",1
+"[""pine nuts""]",1
+"""currants""]",1
+"""cookie dough""",1
+"""glaze/sauce""]",1
+"""snack bar""",1
+"""steamed rice balls""",1
+"""smoothie""",1
+"""multi-grains""]",1
+"[""grape flavor""",1
+"""efo riro""",1
+"""orange dessert""",1
+"""marshmallow""]",1
+"""dried dates""]",1
+"[""dried figs""",1
+"[""fried seafood""]",1
+"[""cooked meat""]",1
+"""dried goji berries""",1
+"""black pudding""]",1
+"""milk drinks""]",1
+"""crispy tofu""]",1
+"""sesame seed buns""",1
+"[""marinated beef""]",1
+"""red jelly""",1
+"[""mango ice cream""",1
+"""purple potatoes""]",1
+"[""organ meat""]",1
+"""yogurt dressing""",1
+"[""cupcake base""",1
+"""decorations""",1
+"[""baked item""",1
+"""protein (fish or meat)""]",1
+"""jaggery""",1
+"[""various mushrooms""]",1
+"""starchy paste""]",1
+fish,1
+"vegetables)""",1
+"""tomato slice""]",1
+"[""cashew nuts""",1
+"""small green fruit""]",1
+"""vegetable pancakes""",1
+"""cured ham""",1
+"""rice or noodles""]",1
+"""chicken flavor""]",1
+"[""dried seafood""",1
+"""black currants""",1
+"""yellow peppers""",1
+"""ice cream filling""]",1
+"""green dip""]",1
+"""red dip""",1
+"[""citrus flavoring""",1
+"""cooked greens""",1
+"[""salted tofu""",1
+"""pectin""",1
+"[""marinated chicken""",1
+"""other beans""]",1
+"""macaroni salad""",1
+"""tart base""",1
+"[""whole grain bun""",1
+"[""smoked meat""]",1
+"""protein (meat)""",1
+"""rose flavor""",1
+"""egusi (melon seeds)""",1
+"""puff pastry""]",1
+"""pomelos""",1
+"[""lamb/goat meat""",1
+"""icing""]",1
+"""sweet potato filling""]",1
+"[""cicadas""",1
+"""pomegranate seeds""]",1
+"""walnut sauce""",1
+"[""poblano pepper""",1
+"""rice snacks""",1
+"""peanut""]",1
+"""szechuan sausage""",1
+"""glutinous rice""]",1
+"""bao bun""",1
+"[""bayberries""]",1
+"[""stuffed peppers""",1
+"""fruit balls""]",1
+"""mint cream""]",1
+"[""horsebeans""",1
+"""chicken broth""]",1
+"""cashew nuts""",1
+"""macadamia nuts""",1
+"[""robusta coffee beans""",1
+"""green bread""",1
+"""small pastry""]",1
+"""hops""]",1
+"""cereal flakes""",1
+"[""dried beans""]",1
+"""winter melon""",1
+"""steamed dough""]",1
+"[""sprouted seeds""]",1
+"[""mixed seeds""]",1
+"[""green tea leaves""",1
+"""carbonated water""]",1
+"[""dumpling pastry""",1
+"""tomato broth""]",1
+"[""preserved egg""",1
+"""kebab""",1
+"""snail meat""",1
+"""vegetable spread""",1
+"""zucchini patties""]",1
+"""sweetened tapioca pearls""]",1
+"[""dried seafood""]",1
+"""seasonal vegetables""",1
+"""beef curry""",1
+"[""old brown sugar""]",1
+"""aloe vera""",1
+"""sweetened liquid""]",1
+"""garlic sauce""]",1
+"""strawberry dessert""]",1
+"""seafood rolls""]",1
+"""broccoli stems""]",1
+"""peach slices""",1
+"""orange berries""]",1
+"[""savory pancake""",1
+"""moutai liquor""",1
+"""cupcake""",1
+"[""sirloin steak""",1
+"""breaded chicken patty""",1
+"[""sundae""",1
+"""breaded pork""",1
+"""sweet soup broth""]",1
+"[""glutinous rice dumplings""",1
+"""sweet potato balls""",1
+"""peach syrup""",1
+"""black tea""",1
+"""fried beef""",1
+"""green papaya""",1
+"""green tea ice cream""]",1
+"[""whole wheat bread""",1
+"[""pork ribs""]",1
+"[""heavy cream""",1
+"""pudding""]",1
+"""vegetable""",1
+"[""quail egg meat""",1
+"""sweet corn""]",1
+"""mixed salad""]",1
+"""granola base""]",1
+"""blue raspberry gelato""",1
+"""green filling""",1
+"[""cake crust""",1
+"[""shallot""]",1
+"""pastry cream""]",1
+"[""dried seeds""]",1
+"""shredded vegetables""]",1
+"[""dried root""]",1
+"""tonkatsu""]",1
+"[""dried date""]",1
+"""mango jelly""]",1
+"""chicken (optional)""]",1
+"""fig jam""",1
+"""sweet topping""",1
+"[""sweet treat""",1
+"""sweet dumplings""",1
+"""mustard seeds""]",1
+"""pickled vegetable""]",1
+"[""urad dal flour""",1
+"""cane sugar""]",1
+"[""marzipan""",1
+"[""coconut milk""]",1
+"""sandwich fillings""",1
+"[""chicken liver""",1
+"""mealworms""]",1
+"""seahorse""",1
+"[""scorpion""",1
+"[""wood ear mushrooms""]",1
+"""dark chocolate""]",1
+"""pork cracklings""]",1
+"[""chicken/beef""",1
+"[""chicken/beef skewers""",1
+"""sprouted beans""",1
+"""dried apples""]",1
+"""dried peaches""",1
+"""fried dough pieces""]",1
+"[""powdered milk""",1
+"[""enoki mushrooms""]",1
+"[""chocolate spread""",1
+"""savory sauce""",1
+"""heart""",1
+"""salted black beans""]",1
+"""top blade""]",1
+"[""fried dace""",1
+"[""orzo""",1
+"""bubble tea""]",1
+"[""hind leg meat""]",1
+"""tart crust""]",1
+"[""cherry filling""",1
+"""milk foam""",1
+"""grilled sausages""",1
+"[""shoulder core""",1
+"""knuckle""",1
+"[""animal parts""]",1
+"""fried corn""",1
+"""dango""",1
+"""red fruit 2""]",1
+"[""red fruit 1""",1
+"""sesame paste""",1
+"[""cream base""",1
+"""chocolate drink""",1
+"[""dove chocolate""",1
+"[""buffalo milk""]",1
+"[""hotdog""",1
+"""clod heart""",1
+"""sichuan pepper""]",1
+"[""wrap bread""",1
+"[""meat powder""",1
+"[""nori""]",1
+"""dried bonito flakes""",1
+"""noodles or rice""]",1
+"[""green bean""",1
+"""chuck tender""",1
+"[""fruit powder""",1

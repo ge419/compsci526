@@ -1,0 +1,3540 @@
+ingredient,count
+vegetables,15138
+spices,12275
+sauce,11828
+noodles,11619
+green onions,11496
+chicken,10568
+meat,9510
+rice,9306
+sugar,8033
+beef,7472
+soy sauce,6929
+broth,6666
+egg,5874
+shrimp,5690
+garlic,5639
+oil,5491
+flour,5302
+pork,4561
+carrots,4288
+seasoning,4094
+bell peppers,3993
+lettuce,3983
+eggs,3931
+onions,3910
+fish,3359
+cheese,3247
+water,3177
+potatoes,2863
+cilantro,2849
+sesame seeds,2726
+butter,2649
+cream,2543
+tofu,2400
+tomato,2311
+tomatoes,2243
+corn,2168
+salt,2164
+bread,2113
+cabbage,2074
+milk,2062
+green peppers,2006
+chili,1856
+mushrooms,1854
+broccoli,1832
+cucumber,1829
+herbs,1770
+fried chicken,1721
+green beans,1709
+ginger,1490
+peanuts,1481
+seaweed,1414
+strawberries,1357
+watermelon,1345
+tomato sauce,1328
+ground meat,1317
+yeast,1288
+onion,1267
+spicy sauce,1267
+chili peppers,1244
+dumplings,1181
+apple,1110
+crawfish,1085
+spinach,1056
+cucumbers,1032
+lemon,1020
+pasta,1013
+bok choy,1006
+pizza dough,958
+fries,937
+salmon,892
+crab,879
+mango,870
+red peppers,842
+chicken wings,808
+blueberries,804
+red chili,803
+mixed vegetables,779
+grapes,758
+dough,757
+bean sprouts,754
+sausage,741
+steak,734
+chocolate,725
+pork belly,686
+lychee,670
+ham,668
+lime,668
+olive oil,645
+nuts,632
+flavoring,632
+pastry,617
+meatballs,605
+beef patty,595
+cake,573
+pineapple,572
+zucchini,570
+seafood,565
+green vegetables,561
+soup,559
+greens,556
+clams,553
+cherry tomatoes,551
+bell pepper,550
+avocado,541
+dumpling wrappers,540
+orange,538
+green onion,534
+bun,528
+meat filling,522
+mayonnaise,517
+coffee,511
+peas,506
+banana,497
+ketchup,491
+oysters,487
+eggplant,475
+peach,475
+green bell pepper,447
+ice cream,446
+parsley,439
+yogurt,438
+breading,437
+carrot,431
+potato,430
+squid,428
+basil,423
+beans,421
+sauces,417
+dipping sauce,408
+chicken feet,406
+duck,405
+salad,398
+leafy greens,395
+cauliflower,394
+durian,394
+lobster,392
+fruit,390
+pork ribs,390
+cherries,380
+spaghetti,377
+pepperoni,375
+syrup,374
+grilled meat,369
+tuna,366
+batter,361
+asparagus,358
+dressing,356
+white rice,354
+bacon,354
+mint,349
+sausages,347
+celery,346
+apples,345
+bananas,344
+lotus root,324
+gelatin,321
+burger bun,321
+kimchi,317
+wasabi,315
+sushi rice,308
+instant noodles,307
+whipped cream,304
+fried dough,302
+salad greens,299
+rice noodles,299
+pumpkin,294
+sweet sauce,294
+coconut milk,292
+scallions,292
+kiwi,286
+rosemary,285
+melon,276
+dried chili,272
+sweet potato,271
+red bell pepper,268
+raspberries,267
+flatbread,264
+coriander,262
+pickles,262
+rice flour,251
+frosting,249
+dragon fruit,248
+almonds,247
+green pepper,247
+cheddar cheese,245
+black fungus,242
+cake base,239
+filling,227
+honey,226
+curry sauce,219
+grilled chicken,218
+pancakes,216
+pickled vegetables,215
+bread crumbs,213
+seasonings,213
+peppers,207
+chives,207
+strawberry,207
+cream cheese,206
+red pepper,205
+pepper,200
+vinegar,195
+coconut,194
+radish,193
+sesame bun,187
+sweet and sour sauce,185
+vegetable oil,180
+edamame,178
+olives,175
+tapioca pearls,173
+fruits,173
+red beans,173
+snap peas,170
+french fries,169
+dessert,169
+octopus,168
+ice,166
+goji berries,165
+sour cream,165
+arugula,164
+tea,163
+scallops,162
+mozzarella cheese,158
+sesame oil,158
+oranges,157
+fried onions,156
+pear,153
+vanilla,153
+burger patty,152
+cocoa powder,150
+fried rice,149
+fried fish,148
+peaches,146
+okra,143
+wrap,143
+dumpling wrapper,143
+bagel,143
+jelly,142
+crabs,142
+dill,142
+wheat flour,140
+roasted chicken,140
+grains,139
+preservatives,138
+soda,138
+tortilla,138
+beef steak,138
+mixed greens,137
+barbecue sauce,137
+snails,137
+food coloring,136
+soup base,135
+cashews,135
+dumpling dough,133
+mussels,133
+dried fruits,133
+decorations,133
+rice paper,129
+various meats,127
+black beans,127
+wafer,123
+berries,123
+chickpeas,122
+fried tofu,121
+nori,121
+plums,119
+cookies,117
+fried egg,116
+green chili,116
+baking powder,116
+garnish,116
+fruit juice,114
+chili sauce,114
+sushi,112
+sliced meat,111
+oats,111
+dates,111
+glaze,110
+wafer cone,108
+lentils,108
+spring rolls,107
+pork trotters,106
+shellfish,106
+crackers,106
+breadcrumbs,106
+fat,106
+processed meat,105
+chocolate chips,105
+croissant,104
+dried red chilies,103
+green bell peppers,102
+soup broth,102
+mustard,102
+parmesan cheese,101
+boiled eggs,101
+raisins,101
+bitter melon,99
+dried chili peppers,99
+coloring,98
+sprinkles,96
+fish roe,96
+various vegetables,95
+pistachios,94
+ground beef,94
+rice cakes,94
+daikon,92
+blackberries,91
+fried meat,91
+black pepper,91
+bamboo shoots,90
+skewered meat,90
+lamb,89
+glutinous rice flour,88
+hot dog,88
+sunflower seeds,87
+green tea,86
+egg yolk,85
+mangosteen,85
+walnuts,83
+burger,82
+milk powder,82
+whole grain bread,81
+sesame,81
+pastry dough,81
+green chilies,81
+cake layers,80
+chestnuts,80
+green peas,80
+cheese sauce,80
+quinoa,80
+mashed potatoes,79
+short ribs,79
+toast,79
+sweet glaze,79
+pomegranate,79
+black rice,78
+buns,78
+red chili peppers,77
+chili oil,77
+green apple,76
+peanut sauce,75
+grilled fish,75
+pizza crust,75
+waffle cone,74
+soft serve ice cream,71
+matcha,71
+toppings,70
+steamed buns,70
+fried items,70
+soybeans,69
+glutinous rice,68
+onion rings,68
+fruit puree,66
+dried chilies,66
+cream filling,66
+spicy broth,66
+fried snacks,66
+squash,65
+papaya,65
+sweet potatoes,65
+red bean paste,65
+dried red peppers,65
+chocolate sauce,64
+enoki mushrooms,64
+bamboo leaves,64
+dried meat,63
+pizza,63
+green grapes,63
+meat optional,62
+chocolate cake,61
+fruit flavoring,61
+salsa,61
+dried fruit,61
+protein,61
+feta cheese,61
+sticky rice,60
+quail eggs,59
+puff pastry,59
+cocoa,59
+fruit filling,59
+granola,58
+croutons,58
+cornmeal,58
+plantains,58
+sambal,58
+meat sauce,57
+whole chicken,57
+starch,57
+custard,57
+fish balls,57
+cream sauce,56
+meat skewers,56
+apricots,56
+fried potatoes,56
+sweetener,56
+filling meat/vegetables,56
+fried shallots,56
+jam,55
+chocolate syrup,55
+coconut water,55
+soft drink,55
+grilled eel,54
+napa cabbage,54
+green apples,54
+dumpling skin,54
+grapefruit,54
+lemongrass,53
+carbonated water,53
+pancake,53
+plum,53
+pumpkin seeds,53
+seeds,53
+spring roll wrapper,52
+orange juice,52
+thyme,52
+boiled egg,52
+kale,51
+sea urchin,51
+whole grain flour,51
+vegetable filling,50
+minced meat,50
+fruit toppings,50
+cantaloupe,50
+corn syrup,50
+caramel,50
+jackfruit,50
+salad dressing,49
+abalone,49
+pears,49
+drink,48
+graham cracker crust,48
+black sesame seeds,48
+chili flakes,48
+salami,48
+liver,48
+fried vegetables,47
+passion fruit,47
+whole fish,47
+snacks,47
+lotus seed paste,47
+ladyfingers,46
+stir-fried vegetables,46
+spring roll wrappers,46
+shaved ice,46
+mixed fruits,46
+eel,46
+cinnamon,45
+edible flowers,45
+roast duck,45
+figs,45
+sashimi,45
+pork hock,45
+chicken skewers,45
+dried red chili,44
+mascarpone cheese,44
+braised meat,44
+gravy,44
+beets,43
+espresso,43
+crayfish,43
+chocolate coating,43
+prosciutto,43
+black olives,42
+fried item,42
+mung beans,42
+naan,42
+bay leaves,42
+chicken nuggets,42
+curry,42
+porridge,42
+baby corn,42
+soba noodles,41
+radishes,41
+purple cabbage,40
+longan,40
+chips,40
+dried fish,40
+red dates,40
+hoisin sauce,40
+sesame seed bun,40
+oyster,39
+crust,39
+wood ear mushrooms,39
+chicken patty,39
+strawberry flavor,39
+cereal,39
+potato chips,38
+oatmeal,38
+chocolate ice cream,38
+filling meat or vegetables,38
+shiitake mushrooms,37
+citric acid,37
+beer,37
+chicken breast,37
+cherry,37
+raw fish,36
+ribeye steak,36
+tart crust,36
+vegetable broth,36
+powdered sugar,36
+buckwheat,36
+fufu,36
+caviar,36
+scrambled eggs,36
+stabilizers,35
+green sauce,35
+roast meat,35
+tortilla chips,35
+steamed bun,35
+dumpling,35
+vanilla ice cream,34
+whole milk,34
+waffle,34
+popcorn,34
+fried garlic,34
+glass noodles,34
+turmeric,33
+fried batter,33
+red cabbage,33
+fish cake,33
+black sesame,33
+fried bread,33
+cookie,33
+brown rice,33
+red bell peppers,33
+pesto,32
+beetroot,32
+marinade,32
+leeks,32
+coleslaw,32
+cooking oil,32
+pine nuts,31
+shredded chicken,31
+meatball,31
+snack,31
+pastry crust,31
+glaze sauce,30
+omelette,30
+crab sticks,30
+green tea powder,30
+meat or tofu,29
+cured meat,29
+sweet syrup,29
+soy milk,29
+blueberry,29
+potato fries,29
+glucose syrup,29
+guava,29
+tea leaves,28
+couscous,28
+beef skewers,28
+whole wheat flour,28
+grilled vegetables,28
+mushroom,28
+meat patty,28
+candy,28
+cone,28
+ramen noodles,28
+matcha powder,28
+almond flour,27
+roasted duck,27
+wagyu beef,27
+patty,27
+legumes,27
+shredded meat,27
+insects,27
+corn flour,26
+grilled pork,26
+white bread,26
+roasted meat,26
+guacamole,26
+tapioca,26
+fruit syrup,26
+egg whites,26
+mixed nuts,26
+beef flavoring,26
+smoked salmon,26
+roti,25
+apricot,25
+skewers,25
+decorative icing,25
+spicy seasoning,25
+red onion,25
+century eggs,25
+loquats,25
+tortillas,25
+hazelnuts,25
+bbq sauce,25
+snack ingredients,24
+fried toppings,24
+protein source,24
+purple yam,24
+fried shrimp,24
+fruit topping,24
+mixed salad,24
+cocoa butter,24
+cream frosting,24
+chicken or tofu,24
+microgreens,23
+frog legs,23
+egg tart,23
+beef ribs,23
+ribs,23
+various snacks,23
+whole pig,23
+mochi,23
+yellow bell pepper,23
+pastries,23
+raspberry,23
+lotus seeds,22
+saffron,22
+white flour,22
+banana leaves,22
+dried vegetables,22
+vitamins,22
+cottage cheese,22
+pork hocks,22
+pulled pork,22
+rose petals,22
+decorative elements,22
+fried noodles,22
+cranberries,22
+pie crust,22
+peanut butter,22
+waffles,22
+black bean sauce,21
+snack mix,21
+coconut flakes,21
+dipping sauces,21
+baked beans,21
+potato wedges,21
+tempura,21
+marshmallows,21
+jalape os,21
+taco shell,21
+water spinach,20
+hot dogs,20
+potato starch,20
+chia seeds,20
+black sauce,20
+green herbs,20
+fried rolls,20
+oreo cookies,20
+green plums,20
+fruit extract,20
+sauerkraut,20
+fried plantains,20
+fish cakes,20
+peppercorns,20
+barley,19
+hops,19
+cashew nuts,19
+wontons,19
+pork chop,19
+pork sausage,19
+sweet filling,19
+omelet,19
+cornstarch,19
+instant coffee,19
+bonito flakes,19
+vegetable soup,19
+snack base,19
+pickled ginger,19
+cake flour,19
+lemon juice,18
+small fish,18
+chocolate filling,18
+cooked meat,18
+pulled meat,18
+pomelo,18
+coffee beans,18
+probiotics,18
+gnocchi,18
+juice,18
+sea cucumber,18
+meat or vegetables,18
+green fruits,18
+filling optional,18
+snack sticks,17
+hot sauce,17
+beef patties,17
+spice mix,17
+fried balls,17
+yellow squash,17
+quail,17
+fig,17
+kiwifruit,17
+baguette,17
+puffed rice,17
+sweeteners,17
+anchovies,17
+small fruits,17
+flavorings,17
+kidney beans,17
+pizza base,17
+lime juice,17
+creamer,17
+purple rice,16
+ghee,16
+gourd,16
+jujube,16
+other vegetables,16
+cassava,16
+bread roll,16
+creamy sauce,16
+chocolate frosting,16
+sweet chili sauce,16
+biscuit,16
+milk chocolate,16
+fruit jelly,16
+paneer,16
+miso soup,16
+maple syrup,16
+semolina,16
+olive,16
+lemons,16
+side dish,16
+glutinous rice balls,16
+soup ingredients,16
+preserved egg,15
+vegetable curry,15
+pickled radish,15
+red fruits,15
+dosa,15
+red chilies,15
+tempura batter,15
+desserts,15
+puri,15
+turkey,15
+taro,15
+sweet beans,15
+rice rolls,15
+hummus,15
+century egg,15
+pancake batter,15
+french toast,15
+poached egg,15
+crab meat,15
+grape,15
+bulgur,15
+breaded chicken,15
+mozzarella,15
+candies,14
+crispy topping,14
+rice cake,14
+grape leaves,14
+cheese powder,14
+donut,14
+pistachio,14
+lemon flavor,14
+yellow fruits,14
+purple sweet potato,14
+caramel sauce,14
+mango puree,14
+fried protein,14
+starfruit,14
+fresh herbs,14
+decorative toppings,14
+drinks,14
+crispy toppings,14
+sandwich,14
+sago,14
+white fish,14
+phyllo dough,14
+spring onions,13
+sides,13
+fried dough sticks,13
+vegetable,13
+leaves,13
+pork cutlet,13
+sweet bean paste,13
+pretzels,13
+dried cranberries,13
+strawberry ice cream,13
+sponge cake,13
+caffeine,13
+natural flavors,13
+green cake,13
+pita bread,13
+crepes,13
+green chili peppers,13
+green noodles,13
+coloring agents,13
+lamb chops,13
+other fruits,13
+red grapes,13
+fruit flavor,13
+citrus,13
+nectarine,13
+roast pork,13
+fried dough balls,13
+tea extract,13
+miso,12
+udon noodles,12
+hot dog sausage,12
+scallop,12
+preserved eggs,12
+wheat,12
+pomegranate seeds,12
+various sauces,12
+sambar,12
+macadamia nuts,12
+meat floss,12
+soft-boiled eggs,12
+braised pork,12
+coconut cream,12
+limes,12
+roe,12
+white beans,12
+mixed beans,12
+tempeh,12
+fondant,12
+garlic bread,12
+yam,12
+fried seafood,12
+dal,12
+millet,12
+root vegetables,12
+fried pork,12
+yellow tomatoes,12
+black grapes,12
+black mushrooms,11
+dried apples,11
+cheesecake,11
+minerals,11
+fried dumplings,11
+iced tea,11
+star anise,11
+root vegetable,11
+yogurt sauce,11
+black garlic,11
+brussels sprouts,11
+pounded yam,11
+bay leaf,11
+red pepper flakes,11
+mint ice cream,11
+sauce base,11
+chocolate shavings,11
+rambutan,11
+hollandaise sauce,11
+fried eggs,11
+cardamom,11
+snack2,11
+hot dog bun,11
+snack1,11
+chocolate sprinkles,11
+pecans,11
+pork knuckle,11
+vegetable sauce,11
+sweets,11
+oreo cookie,11
+crepe,11
+rice porridge,11
+flat rice noodles,11
+polenta,11
+side item,11
+fermented milk,11
+seasoning packet,11
+flavoring agents,11
+shredded vegetables,11
+bread dough,10
+meringue,10
+roast chicken,10
+jalape o,10
+five-spice powder,10
+green tea ice cream,10
+soft-boiled egg,10
+green jelly,10
+pandan extract,10
+chocolate crust,10
+pork filling,10
+berry sauce,10
+mustard sauce,10
+crushed cookies,10
+sweet toppings,10
+crab flavoring,10
+citrus fruits,10
+meat toppings,10
+mint leaves,10
+meat patties,10
+mulberries,10
+almond,10
+crispy noodles,10
+coconut chutney,10
+clam,10
+bean curd,10
+green leaves,10
+dessert base,10
+taco shells,10
+chutney,10
+glucose,10
+steamed milk,10
+chili pepper,10
+cherry tomato,10
+green papaya,10
+green melon,10
+dark chocolate,9
+black sesame paste,9
+dried apricots,9
+bone,9
+tartar sauce,9
+milk solids,9
+tempura vegetables,9
+birds,9
+condiments,9
+chili powder,9
+penne pasta,9
+egg custard,9
+cookie crumbs,9
+sesame bread,9
+sugar optional,9
+dried mushrooms,9
+uni,9
+fruit pieces,9
+brisket,9
+chocolate bar,9
+sprouts,9
+crispy snacks,9
+side vegetables,9
+shiso leaves,9
+duck feet,9
+red currants,9
+seasoning mix,9
+leavening agents,9
+sandwich bun,9
+snow peas,9
+snack items,9
+protein powder,9
+citrus fruit,9
+fried wontons,9
+pandan leaves,9
+chicken drumsticks,9
+sun-dried tomatoes,9
+bean paste,9
+pectin,9
+red onions,9
+sesame filling,9
+chicken leg,9
+romaine lettuce,9
+curry leaves,9
+red bean,9
+whole animal,9
+mackerel,8
+sweet potato fries,8
+macarons,8
+green tomatoes,8
+white chocolate,8
+walnut,8
+egg yolks,8
+sweetened milk,8
+apple juice,8
+spring onion,8
+dried shrimp,8
+patties,8
+oreos,8
+red berries,8
+onion powder,8
+popcorn kernels,8
+yellowtail,8
+crustaceans,8
+hash browns,8
+sweet bun,8
+various fruits,8
+crab stick,8
+cucumber flavoring,8
+brownie,8
+peach flavor,8
+bread rolls,8
+tahini,8
+potato filling,8
+orange slices,8
+various fish,8
+wraps,8
+calamari,8
+grain,8
+agar,8
+gochujang,8
+baked potato,8
+char siu,8
+breaded meat,8
+burrata,8
+mixed salad greens,8
+tteokbokki,8
+capers,8
+chocolate spread,8
+hamburger bun,8
+chinese sausage,8
+cherimoya,8
+biscuits,8
+baking soda,8
+stew,8
+dairy,8
+roast beef,8
+chicken curry,8
+main ingredient,8
+samosas,7
+grilled beef,7
+macaron,7
+dried figs,7
+green chutney,7
+blackcurrants,7
+jollof rice,7
+muffin,7
+green filling,7
+spice,7
+flowers,7
+fettuccine,7
+sliced beef,7
+fried chicken patty,7
+fermented soybeans,7
+jalapenos,7
+spicy mayo,7
+pig s feet,7
+preserved meat,7
+daikon radish,7
+tapioca balls,7
+flower garnish,7
+salmon roe,7
+sugarcane,7
+stuffing,7
+chickpea flour,7
+strawberry cream,7
+red apple,7
+watermelon flavor,7
+sweet balls,7
+scallion,7
+green fruit,7
+pesto sauce,7
+preserved vegetables,7
+roasted pork,7
+waffle fries,7
+grape juice,7
+fish sauce,7
+flaxseeds,7
+meat topping,7
+caesar dressing,7
+cookie base,7
+shiso leaf,7
+pancake mix,7
+yellow rice,7
+decorative flowers,7
+green food coloring,7
+coconut meat,7
+spread,7
+sliced vegetables,7
+beef meatballs,7
+mustard seeds,7
+persimmons,7
+malt,7
+custard filling,7
+cheese flavoring,7
+tomato concentrate,7
+fruit salad,7
+leaf,7
+hawthorn,7
+fritters,7
+hash brown,7
+beverage,7
+black sesame filling,7
+sweet dessert,7
+coconut jelly,7
+red velvet cake,7
+kebabs,7
+artichokes,6
+lime flavoring,6
+savory filling,6
+soft drinks,6
+cured meats,6
+teriyaki sauce,6
+dried plums,6
+fish skin,6
+dried tomatoes,6
+sorbet,6
+pickling spices,6
+b vitamins,6
+egg wash,6
+cupcake,6
+melon seeds,6
+shrimp flavoring,6
+sugar syrup,6
+baked goods,6
+croquettes,6
+prunes,6
+duck eggs,6
+sweet dumplings,6
+chicken flavoring,6
+vermicelli,6
+crab legs,6
+artificial sweeteners,6
+hot pot broth,6
+corn starch,6
+almond milk,6
+taurine,6
+morel mushrooms,6
+vegetable fritters,6
+beef tripe,6
+stir-fried meat,6
+tofu or chicken,6
+fish flakes,6
+crisps,6
+breadsticks,6
+snack balls,6
+plantain,6
+flatbreads,6
+palm oil,6
+mint flavor,6
+strawberry filling,6
+fiber,6
+pickle,6
+jicama,6
+poached eggs,6
+gummy candies,6
+dessert balls,6
+nut,6
+fried wonton,6
+black bun,6
+yellow plums,6
+dried mango,6
+fats,6
+sesame balls,6
+cream cheese frosting,6
+soft-serve ice cream,6
+bone marrow,6
+vegetable oils,6
+crispy skin,6
+cookie crust,6
+artificial flavors,6
+green tea leaves,6
+orange flavor,6
+wrapper,6
+spring roll,6
+blue cheese,6
+sesame sauce,6
+candied fruit,6
+seasoned meat,6
+strawberry sauce,6
+leek,6
+beef brisket,6
+starchy side,6
+white egg,5
+sweet rolls,5
+orange segments,5
+chicken thighs,5
+black seeds,5
+brown egg,5
+mung bean,5
+char siu bbq pork,5
+brine,5
+black currants,5
+spicy dipping sauce,5
+beef liver,5
+sweetened condensed milk,5
+agar-agar,5
+grass jelly,5
+tofu or meat,5
+mandarins,5
+congee,5
+bulgur wheat,5
+toasted bread,5
+strawberry syrup,5
+seasoning sauce,5
+sweet dough,5
+crispy onions,5
+green chili pepper,5
+gum base,5
+tempura shrimp,5
+grilled tomatoes,5
+black jelly,5
+calcium,5
+lychees,5
+potato sticks,5
+sweet soup,5
+cake roll,5
+enchiladas,5
+strawberry flavoring,5
+relish,5
+mixed grains,5
+cheese filling,5
+sweet bread,5
+crickets,5
+fried spring rolls,5
+creamy dressing,5
+bao bun,5
+lime leaves,5
+meat or seafood,5
+barbecue seasoning,5
+duck meat,5
+fried pastry,5
+bones,5
+garnishes,5
+herbal leaves,5
+shredded cheese,5
+pineapple flavor,5
+mixed fruit,5
+side dishes,5
+black pasta,5
+miso paste,5
+strawberry jam,5
+broad beans,5
+dried apple,5
+mascarpone,5
+chocolate crumbs,5
+sweet corn,5
+crispy pork,5
+vegetable skewers,5
+yellow fruit,5
+crispy chips,5
+shredded daikon,5
+palm sugar,5
+broccolini,5
+tempura flakes,5
+shredded beef,5
+langsat,5
+flan,5
+graham crackers,5
+gochujang sauce,5
+edible insects,5
+high fructose corn syrup,5
+bacon bits,5
+nougat,5
+soybean,5
+egg tarts,5
+sour cream powder,5
+red apples,5
+chopped vegetables,5
+sweet rice flour,5
+edible flower,5
+green tea extract,5
+strawberry topping,5
+curly fries,5
+fruit sauce,5
+orange flavoring,5
+roasted pig,5
+small round fruits,5
+fish or meat,5
+carbohydrates,5
+sweet topping,5
+honeydew,5
+roasted nuts,5
+dried strawberries,5
+offal,5
+rasgulla,5
+strawberry coating,5
+vegetable salad,5
+falafel,5
+spam,5
+nectarines,5
+pudding,4
+chocolate toppings,4
+various nuts,4
+ricotta cheese,4
+hazelnut cream,4
+fried filling,4
+stuffed vegetables,4
+yellow sauce,4
+chicken wing,4
+green plum,4
+asian pear,4
+protein fish or meat,4
+hard-boiled eggs,4
+blueberry flavor,4
+dough balls,4
+sweet soup base,4
+lasagna noodles,4
+gold leaf,4
+dried grapes,4
+savory topping,4
+hydrogenated palm kernel oil,4
+squid ink,4
+organ meat,4
+chicken or fish,4
+english muffin,4
+pork or chicken,4
+marshmallow,4
+kefir,4
+custard tarts,4
+biscuit stick,4
+whole grain bun,4
+tomato flavoring,4
+rice crackers,4
+purple potatoes,4
+sweet paste,4
+bird,4
+sucrose,4
+chocolate cookies,4
+vegetable patty,4
+yak meat,4
+chicken broth,4
+hamburger patty,4
+chocolate cereal,4
+prune extract,4
+fried elements,4
+marbled beef,4
+crab roe flavoring,4
+smoothie,4
+pork rinds,4
+lemon cream,4
+ube,4
+stir-fried greens,4
+green peppercorns,4
+breaded fish,4
+chocolate cream,4
+narutomaki,4
+other assorted fruits,4
+beet,4
+sweet potato noodles,4
+blood sausage,4
+skewered vegetables,4
+fried onion,4
+snack cakes,4
+base,4
+idli,4
+fried snack,4
+tonkatsu,4
+organic milk,4
+skewered meats,4
+ravioli,4
+foie gras,4
+honeycomb,4
+vegetable side dish,4
+rice roll,4
+sausage meat,4
+masa,4
+candied fruits,4
+dashi,4
+matcha cream,4
+beverages,4
+fish fillets,4
+vegetable stock,4
+fried herbs,4
+macaroni,4
+fried topping,4
+cocktail sauce,4
+chocolate pieces,4
+konjac,4
+meat slices,4
+various herbs,4
+butternut squash,4
+artificial flavoring,4
+protein meat or tofu,4
+shallots,4
+crispy cups,4
+tangerine,4
+date,4
+pea shoots,4
+raw meat,4
+dim sum,4
+fried potato,4
+durian flavor,4
+meat or cheese,4
+ginkgo nuts,4
+roasted vegetables,4
+red rice,4
+fried cutlet,4
+crepe batter,4
+vegetable patties,4
+stir-fried noodles,4
+chocolate cookie,4
+quince,4
+vanilla extract,4
+kelp,4
+dried dates,4
+peanut,4
+green squash,4
+kebab,4
+iced coffee,4
+creamy dish,4
+tripe,4
+tart base,4
+chestnut,4
+peanut powder,4
+grilled skewers,4
+condensed milk,4
+pickled onions,4
+mandarin,4
+cured ham,4
+mango flavor,4
+emulsifier,4
+cocoa solids,4
+duck breast,4
+green leafy vegetables,4
+fried plantain,4
+green mango,4
+catfish,4
+tteok rice cakes,4
+cheeseburger,4
+decorative candies,4
+starchy base,4
+salted egg yolk,4
+raw beef,4
+sweet and sour chicken,4
+pineapple filling,4
+green bean paste,4
+sweet beverage,4
+meat rolls,4
+salad vegetables,4
+filling vegetable or meat,4
+chicken fillet,4
+cooked vegetables,3
+dried flowers,3
+gochujang korean chili paste,3
+pie,3
+fried sticks,3
+beef bones,3
+flower buds,3
+red date,3
+mandarin oranges,3
+cured sausage,3
+persimmon,3
+cheese dip,3
+snack item,3
+crushed nuts,3
+sliced sausage,3
+potato flakes,3
+thinly sliced meat,3
+buttercream frosting,3
+soy protein,3
+fried nuggets,3
+chicken gizzards,3
+milk foam,3
+pork chops,3
+decorative food items,3
+lemon flavoring,3
+sweet rice,3
+chocolate decoration,3
+pork skin,3
+sesame paste,3
+green dough,3
+potato salad,3
+sweet biscuits,3
+ginseng,3
+vanilla cream,3
+vegetable garnish,3
+fried coating,3
+mint flavoring,3
+beeswax,3
+pork bits,3
+chocolate drizzle,3
+almond flakes,3
+prawns,3
+lactic acid bacteria,3
+chocolate powder,3
+snack bars,3
+nori seaweed,3
+gelato,3
+vegetable strips,3
+shrimp dumplings,3
+truffle oil,3
+plum extract,3
+grilled protein,3
+green olives,3
+chrysanthemum,3
+sweetened beverage,3
+topping,3
+milk protein,3
+spicy dressing,3
+chicken drumstick,3
+fruit2,3
+fruit1,3
+orchid,3
+long beans,3
+coconut sauce,3
+meat ribs,3
+potato sides,3
+grilled ribs,3
+caramel color,3
+chicken eggs,3
+phosphoric acid,3
+sea salt,3
+sauce ingredients,3
+duck egg,3
+black tea,3
+diced meat,3
+wrappers,3
+peach flavoring,3
+corn dog,3
+vegetable sticks,3
+dried noodles,3
+poppy seeds,3
+vitamin c,3
+various toppings,3
+oolong tea,3
+green vegetable,3
+red chili flakes,3
+leaf garnish,3
+chicken or shrimp,3
+herbal extract,3
+pickled peppers,3
+fruit drink,3
+smoothie base,3
+refried beans,3
+matcha ice cream,3
+sichuan peppercorns,3
+fruit fillings,3
+raw milk,3
+gyoza,3
+snapper,3
+protein possibly tofu or meat,3
+boiled chicken,3
+dried prunes,3
+big mac,3
+danish pastry,3
+fried tofu skin,3
+vegetable flour,3
+yellow bell peppers,3
+chili paste,3
+brown sugar,3
+fried dough stick,3
+cupcakes,3
+blueberry filling,3
+shrimp or chicken,3
+rye flour,3
+various beans,3
+grape flavoring,3
+vegetable scraps,3
+fish or chicken,3
+candy toppings,3
+fried onion rings,3
+ikura,3
+cracker,3
+roasted seeds,3
+fish flavoring,3
+fried skewers,3
+caramel syrup,3
+coca-cola,3
+pork skewers,3
+buckwheat flour,3
+beef jerky,3
+cream puffs,3
+basmati rice,3
+croissant dough,3
+cocktail,3
+fried chicken wings,3
+dried chicken,3
+donuts,3
+sweet treat,3
+codfish,3
+cream dressing,3
+dried blueberries,3
+wrapping dough,3
+potato cakes,3
+buttercream,3
+yogurt base,3
+starchy vegetables,3
+marinara sauce,3
+yellow melon,3
+nachos,3
+bean soup,3
+brown sauce,3
+chicken skin,3
+red kidney beans,3
+fruit slices,3
+milkshake,3
+whole wheat wrap,3
+various seafood,3
+sugars,3
+black-eyed peas,3
+smoking wood,3
+snow pear,3
+snack crackers,3
+balsamic glaze,3
+cookie pieces,3
+dips,3
+scones,3
+tilapia,3
+fruit jam,3
+dashi broth,3
+egusi melon seeds,3
+regular fries,3
+rose petal,3
+sweet buns,3
+green bananas,3
+strawberry bits,3
+coating,3
+starchy component,3
+fish maw,3
+yellow beans,3
+snack chips,3
+crispy wontons,3
+fried greens,3
+soybean curd,3
+tartness,3
+dried herbs,3
+sugar substitute,3
+potato balls,3
+chocolate topping,3
+tiramisu,3
+blue food coloring,3
+oregano,3
+cookie dough,3
+chicken or beef,3
+risotto,3
+imitation crab,3
+nut butter,3
+vegetable stir-fry,3
+dried red chili peppers,3
+sugar decorations,3
+unagi,3
+sweetened cream,3
+pork ears,3
+burger buns,3
+apple flavor,3
+casings,3
+low-fat milk,3
+mandarin orange,3
+mealworms,3
+yellow cherries,3
+pizza sauce,3
+vanilla gelato,3
+rolls,3
+sea snails,3
+spicy topping,3
+nuggets,3
+kibble,3
+mozzarella sticks,3
+chocolate gelato,3
+multigrain flour,3
+fruit tea,3
+fried pork cutlet,3
+gooseberries,3
+red sauce,3
+meat/vegetable filling,3
+crinkle-cut fries,3
+honey mustard,3
+jujubes,3
+crumb topping,3
+roasted beans,3
+herbal extracts,3
+cabbage salad,3
+dried jujube,3
+stuffed peppers,3
+hamburger steak,3
+vegetable rolls,3
+dried peppers,3
+buffalo sauce,3
+rose apple,3
+sweet red beans,3
+rock sugar,3
+red tomatoes,3
+cheddar,3
+chopped chives,3
+crispy shell,3
+sweet bean soup,2
+plant protein,2
+orzo,2
+spicy condiment,2
+sev,2
+fried cakes,2
+decorative figure,2
+gelatin topping,2
+galangal,2
+lemon grass,2
+sandwich bread,2
+gram flour,2
+orange fruits,2
+spiced meat,2
+foam,2
+muffins,2
+goat milk powder,2
+grilled steak,2
+lemon zest,2
+spicy side dish,2
+dried raisins,2
+fried insects,2
+blue rice,2
+icing,2
+seaweed salad,2
+whole bird,2
+sweet dumpling,2
+various greens,2
+sweet potato filling,2
+special sauce,2
+green garnish,2
+citrus juice,2
+arepa,2
+escargot,2
+cornbread,2
+orange peel,2
+pretzel,2
+pretzel bun,2
+tea/coffee,2
+lotus biscuit,2
+yellow substance,2
+fish/meat,2
+egg salad,2
+nutella,2
+fried patties,2
+creamy soup,2
+dried berries,2
+orange zest,2
+fried snack balls,2
+eggplants,2
+green raisins,2
+gouda,2
+phyllo pastry,2
+egg protein,2
+fried lentil balls,2
+cereal toppings,2
+chocolate liquor,2
+split peas,2
+spicy soup,2
+blueberry ice cream,2
+sambal sauce,2
+low-fat flour,2
+chicken/shrimp,2
+various cuts of meat,2
+white radish,2
+papad,2
+butter optional,2
+mango jelly,2
+acorn squash,2
+savory sauce,2
+crispy rice,2
+saut ed greens,2
+muffin bread,2
+bergamot,2
+diced vegetables,2
+shredded coconut,2
+filling vegetables/meat,2
+greek yogurt,2
+shallot,2
+eels,2
+pork or beef,2
+thickener,2
+jaggery,2
+dried bananas,2
+lavash,2
+beef short ribs,2
+wine,2
+hazelnut,2
+meat/tofu,2
+sweet base,2
+dairy product,2
+chicken katsu,2
+sweet pastry,2
+bird s nest,2
+bagels,2
+dried leaves,2
+sweet fillings,2
+oil or butter,2
+cheese puffs,2
+margarine,2
+pastry shell,2
+truffle,2
+grilled squash,2
+churros,2
+yellow food coloring,2
+black tea leaves,2
+chicken/fish,2
+yellow peaches,2
+fruit bits,2
+dried chrysanthemum flowers,2
+rose extract,2
+mousse,2
+fried octopus,2
+corned beef,2
+various ingredients typical in canned food,2
+luncheon meat,2
+other beans,2
+fruit powder,2
+cooked greens,2
+filo dough,2
+ice cream filling,2
+croissant pastry,2
+chocolate drink,2
+beef or chicken,2
+noni fruit,2
+brie,2
+nutritional powder,2
+sushi fish,2
+pork dumplings,2
+roasted potatoes,2
+camel milk,2
+baked pastries,2
+rice or noodles,2
+gelatinous substance,2
+truffles,2
+pureed vegetables,2
+starchy item,2
+black sapote,2
+black noodles,2
+dried tangerine peel,2
+egg waffle,2
+blueberry juice,2
+fruit balls,2
+baked item,2
+yakult,2
+wasabi peas,2
+panko breadcrumbs,2
+choux pastry,2
+colors,2
+meat or fish,2
+pierogi,2
+animal brain,2
+heavy cream,2
+bitter gourd,2
+fish fillet,2
+coffee/tea,2
+yellow apple,2
+breaded nuggets,2
+tomato broth,2
+dip,2
+orange bell pepper,2
+frying oil,2
+ube purple yam,2
+dried hawthorn,2
+other seeds,2
+corn masa,2
+spinach curry,2
+tacos,2
+black pudding,2
+colored rice,2
+yogurt dressing,2
+pandan,2
+artichoke,2
+hot chocolate,2
+cereal flakes,2
+other fruit,2
+loquat,2
+crispy base,2
+flower petals,2
+sweet red bean,2
+prawn,2
+potato tots,2
+crunchy toppings,2
+breaded cutlet,2
+perilla leaves,2
+vegetable balls,2
+protein chicken or fish,2
+dango,2
+sweet ingredients,2
+corn dogs,2
+lobster tail,2
+pepper sauce,2
+potato snacks,2
+tart shell,2
+jellyfish,2
+chicken legs,2
+black bread,2
+tomato paste,2
+meatloaf,2
+wonton wrappers,2
+raw liver,2
+diced fruit,2
+dried seafood,2
+rolled oats,2
+lotus seed pod,2
+cake pieces,2
+kiwis,2
+rye bread,2
+fried starch,2
+tonkatsu sauce,2
+dried tea leaves,2
+minced pork,2
+wafers,2
+sweet and spicy sauce,2
+soup vegetables,2
+black dough,2
+oreo crust,2
+vegetable chips,2
+snickers,2
+citrus garnish,2
+spring roll pastry,2
+snack bar,2
+fillings,2
+yams,2
+chocolate icing,2
+lo mein,2
+barnacles,2
+protein isolate,2
+protein possibly chicken or tofu,2
+grilled lemon,2
+macaroni and cheese,2
+creamy dip,2
+pork bones,2
+winter melon,2
+turnips,2
+pink bun,2
+ice cream base,2
+poultry,2
+chicken sandwich,2
+corn salad,2
+roll,2
+biryani rice,2
+pork fat,2
+spicy cake,2
+lavender,2
+soft cheese,2
+beef broth,2
+seafood topping,2
+biscuit base,2
+raisin,2
+injera,2
+collard greens,2
+raspberry filling,2
+pork knuckles,2
+yellow pepper,2
+green tea cake,2
+dessert items,2
+slider bun,2
+bagel bun,2
+cotton candy,2
+coffee extract,2
+cake batter,2
+chocolate cookie crumbs,2
+vegetable stew,2
+milo powder,2
+protein slices,2
+green citrus fruit,2
+processed cheese,2
+seasoned greens,2
+lemon slice,2
+pork floss,2
+chocolate candies,2
+gummy bears,2
+spaghetti squash,2
+wafer cookies,2
+canned meat,2
+cream dip,2
+chhena,2
+potato croquettes,2
+milk flavor,2
+stewed meat,2
+shrimp chips,2
+croissants,2
+stir-fry sauce,2
+bean sticks,2
+meat/vegetables,2
+condiment,2
+wrapped snacks,2
+mint frosting,2
+various shellfish,2
+mango flavoring,2
+fried patty,2
+lactose,2
+cinnamon rolls,2
+tempura scraps,2
+seafood sauce,2
+savory bread,2
+rice crisps,2
+shredded pork,2
+sprouted beans,2
+various spices,2
+samosa pastry,2
+starchy food,2
+low fat milk,2
+chicken sausage,2
+rice balls,2
+strawberry puree,2
+vanilla flavor,2
+urad dal,2
+grilled seafood,2
+unbleached enriched flour,2
+skim milk,2
+lasagna,2
+soy lecithin,2
+assorted fruits,2
+fried eggplant,2
+youtiao,2
+cinnamon roll,2
+roasted pumpkin,2
+red vegetables,2
+green dumplings,2
+protein filling,2
+flavored syrup,2
+marinade sauce,2
+flavored drink,2
+shishito peppers,2
+shrimp flakes,2
+jalebi,2
+pistachio gelato,2
+ground pork,2
+fried pastries,2
+mushroom soup,2
+ramen,2
+fried meatballs,2
+purple lettuce,2
+shredded carrots,2
+birthday cake,2
+seitan,2
+sweetened beans,2
+snack beans,2
+mixed berries,2
+fish paste,2
+tamarind,2
+fatty tuna,2
+rose flour,2
+sweet rice balls,2
+waffle mix,2
+banana leaf,2
+garnish vegetables,2
+blackberry,2
+fruit garnishes,2
+chicken salad,2
+various side dishes,2
+dumpling filling,2
+quesadilla,2
+potato flour,2
+sugar glaze,2
+green tea cream,2
+vegetable mix,2
+green curry paste,2
+fruit cocktail,2
+roll cake,2
+satay skewers,2
+beef or pork,2
+yellow mustard,2
+sesame buns,2
+meat meal,2
+wrapped food,2
+cornmeal batter,2
+rye,2
+mango juice,2
+sweet,2
+black corn,2
+dried jujubes,2
+rice wraps,2
+bread bun,2
+pakoras,2
+blood pudding,2
+pappadum,2
+dried scallops,2
+aloe vera,2
+lime filling,2
+whole roasted animal,2
+protein chicken or tofu,2
+processed food,2
+mashed vegetables,2
+garlic sauce,2
+protein possibly meat or tofu,2
+sweet drink,2
+banana flavor,2
+vegetable powder,2
+string,2
+pineapple juice,2
+shredded fish,2
+siu mai,2
+various other vegetables,2
+quail egg,2
+mango ice cream,2
+chocolate mousse,2
+fried cake,2
+snack rings,2
+whey protein,2
+chicken egg,2
+bamboo,2
+sesame dressing,2
+seasoned nuts,2
+pickled plum,2
+pig trotters,2
+buckwheat noodles,2
+animal head,2
+gherkin relish,2
+cashew fruit,2
+liquid,2
+tater tots,2
+roasted tomatoes,2
+dessert layers,2
+puree,2
+buttermilk,2
+mustard dressing,2
+mango sauce,2
+pork intestines,2
+sesame ball,2
+ginger sauce,2
+vegetable sides,2
+crumbs,2
+cheese curds,2
+orchid beans,2
+jelly noodles,2
+filling vegetables or meat,2
+chocolate dessert,2
+sugar alcohols,2
+fish heads,2
+frozen berries,2
+sweet and sour pork,2
+frog meat,2
+roasted squash,2
+green legumes,2
+red wine,2
+paprika,2
+sweet jelly,2
+apple slices,2
+strawberry pieces,2
+blood cake,2
+roses,2
+scorpions,2
+okras,2
+orange drink,2
+sliced fish,2
+pumpkin puree,2
+grain mixture,1
+solid beverage mix,1
+main dish,1
+plant extracts,1
+stewed potatoes,1
+cocktails,1
+fried legumes,1
+fried buns,1
+silver leaf,1
+licorice extract,1
+lamb chop,1
+chicken filling,1
+pineapple cake,1
+milk tea,1
+filling vegetable/meat,1
+plantain chips,1
+ridge gourd,1
+stuffed bread,1
+sour curd,1
+stuffed meat,1
+purple mousse,1
+chocolate wafer,1
+enchilada,1
+plant-based ingredients,1
+vegetable ball,1
+herbal broth,1
+onion flavor,1
+full cream milk,1
+golden syrup,1
+peking duck,1
+smoked sausage,1
+fine noodles,1
+chayote,1
+gummy rings,1
+moutai,1
+galette,1
+yogurt flavoring,1
+iodized salt,1
+manuka honey,1
+lobster tails,1
+prune juice,1
+unagi grilled eel,1
+snack strips,1
+sweetened drinks,1
+porridge base,1
+chocolate balls,1
+nacho chips,1
+marinated meat,1
+instant porridge powder,1
+various appetizers,1
+dessert with jelly and fruits,1
+matcha syrup,1
+white substance,1
+dessert cubes,1
+candied nuts,1
+dessert soup,1
+crab claws,1
+stachyose,1
+vegetable dumplings,1
+striped squash,1
+broccoli rabe,1
+coffee flavoring,1
+chocolate decorations,1
+spicy stew,1
+red bean filling,1
+chocolate candy,1
+cappuccino mix,1
+applesauce,1
+tea leaves or coffee grounds,1
+purple rice bread,1
+sliced fruits,1
+dehydrated vegetables,1
+ayran,1
+mixed meat and vegetables,1
+chai,1
+whole lamb,1
+chocolate roll,1
+watercress,1
+caramel topping,1
+fried fish or meat,1
+candy bar,1
+baked pasta,1
+meat block,1
+sweet powder,1
+chocolate biscuit,1
+turnip,1
+fried sides,1
+corn dough,1
+black topping,1
+curry soup,1
+fried base,1
+pork head,1
+grape extract,1
+egg or liquid protein,1
+stevia,1
+apple pie filling,1
+energy drink,1
+red food coloring,1
+cranberry sauce,1
+sweet bean curd,1
+gelatinous dessert,1
+red bun,1
+grain powder,1
+yellow berries,1
+meat dumplings,1
+cacao,1
+chocolate milk,1
+kimbap,1
+gulab jamun,1
+barfi,1
+prime beef,1
+fiddlehead ferns,1
+melon flavor,1
+bottled drinks,1
+hot pot ingredients,1
+star fruit,1
+fruit pearls,1
+protein meat/tofu,1
+vegetable greens,1
+mixed meats,1
+egg roll wrapper,1
+soft tofu,1
+lotus cookies,1
+crunchy bits,1
+candy coating,1
+tamago,1
+snake meat,1
+kaymak,1
+yellow cabbage,1
+roasted bird,1
+diced ham,1
+stuffed protein,1
+vegetable chutney,1
+fried crackers,1
+fried sweet potatoes,1
+baby potatoes,1
+savory item,1
+corn flakes,1
+prawn flavoring,1
+sweet item,1
+carbohydrate base,1
+diced chicken,1
+sweet spread,1
+processed snack,1
+duck wing,1
+side items,1
+raita,1
+tzatziki,1
+chapati,1
+puffed grains,1
+arabica coffee beans,1
+orange pepper,1
+parboiled rice,1
+bean stew,1
+sweetened rice flour,1
+strawberry mochi,1
+shredded raw papaya,1
+soymilk powder,1
+sugar-coated snacks,1
+carbon dioxide,1
+grilled meat skewers,1
+chocolate brownie,1
+sardines,1
+green rice,1
+dried mulberries,1
+mini cakes,1
+orange rice,1
+spinach wrap,1
+canned drink,1
+crispy lentils,1
+buttered bread,1
+spicy beef,1
+braided bread,1
+jelly-like dish,1
+steamed cakes,1
+fried cheese,1
+pani puri,1
+pistachio filling,1
+pink gelatin pieces,1
+sports drink,1
+animal meat,1
+tubers,1
+chrysanthemum buds,1
+cooked crab meat,1
+bean paste drink,1
+snack sausages,1
+salted caramel,1
+garlic flavor,1
+steamed bun dough,1
+cheese flavor,1
+starchy snack,1
+chhena cottage cheese,1
+tandoori chicken,1
+white corn,1
+meat balls,1
+pork hindquarters,1
+lotus leaves,1
+sour plums,1
+coffee syrup,1
+various small fruits,1
+shredded crab,1
+fried cauliflower,1
+waffle base,1
+biscuit sticks,1
+matcha frosting,1
+small fruit,1
+wax,1
+spiced dip,1
+roasted chestnuts,1
+hickory nut flavoring,1
+various fillings,1
+crab claw,1
+green waffles,1
+chicken bones,1
+beef flavor,1
+spicy chicken patty,1
+chashu pork,1
+crispy item,1
+ground chicken,1
+decorative sweets,1
+meat or legumes,1
+cinnamon roll dough,1
+crispy coating,1
+whole roasted pig,1
+filling varies,1
+protein blend,1
+black buckwheat,1
+rolled item,1
+various curries,1
+salt optional,1
+snack ingredients as per packaging,1
+fruit/vegetable,1
+souffl,1
+eel sauce,1
+rice or grain dish,1
+cream or sauce,1
+morel mushroom,1
+sliced pork,1
+milk or cream,1
+flattened rice,1
+filling assumed protein,1
+crispy wonton,1
+breaded coating,1
+amla,1
+fish2,1
+mulberry,1
+fish1,1
+pickled cucumber,1
+meat or vegetable filling,1
+savory toast,1
+dough sticks,1
+packaging,1
+boiled meat,1
+various fried snacks,1
+wild rice,1
+light soup,1
+chopped herbs,1
+roasted brussels sprouts,1
+roasted grains,1
+buddha s hand,1
+grated daikon,1
+shortbread,1
+luffa,1
+crispy crackers,1
+fresh basil,1
+soybean flour,1
+passion fruit drink,1
+water/milk,1
+hot chocolate powder,1
+macadamias,1
+other herbs,1
+gelatinous base,1
+rice wrapper,1
+carrot juice,1
+citron,1
+pancake wrap,1
+sodium metabisulfite,1
+fruit-flavored candies,1
+quality street candies,1
+dried chili pepper,1
+chocolate pretzel,1
+multigrains,1
+seasoned seaweed,1
+brownie base,1
+vinegar or lemon juice,1
+fried chicken pieces,1
+curry base,1
+steamed bread,1
+seafood or vegetables,1
+honey or syrup,1
+eclair,1
+egg rolls,1
+egg balls,1
+bun dough,1
+chicken ribs,1
+soba,1
+huang hua cai,1
+purple radish,1
+preserved fish,1
+mixed snacks,1
+you tiao,1
+wonton,1
+yakisoba noodles,1
+oreo flavoring,1
+dried vegetable,1
+areca nut,1
+sugar if added,1
+sage,1
+skewered protein,1
+dried squid,1
+clam soup,1
+cake sponge,1
+cream egg,1
+breaded snacks,1
+chicken or pork,1
+fish filling,1
+lemon peel,1
+red pepper paste,1
+honeydew melon,1
+brinza cheese,1
+t-bone steak,1
+green topping,1
+dark bread,1
+calamansi,1
+mung bean soup,1
+taro balls,1
+green cream filling,1
+hot dog buns,1
+cheese dressing,1
+gingerbread cookie,1
+purple basil,1
+dry red chili,1
+dessert toppings,1
+fried sweet potato,1
+insect larvae,1
+spelt flour,1
+marinade spices,1
+dessert topping,1
+hemp seeds,1
+seaweed snacks,1
+processed sausage,1
+fish broth,1
+chocolate swirl,1
+powdered tea,1
+steamed vegetables,1
+fried crab,1
+sunflower oil,1
+noodles or similar starch,1
+chocolate cookie base,1
+a5 wagyu beef,1
+biscuit dough,1
+soppressata,1
+bowtie pasta,1
+bakery item,1
+matcha gelato,1
+shredded onion,1
+wonton soup,1
+green layers,1
+strawberry frosting,1
+whole animal meat,1
+peanut oil,1
+starch wrapper,1
+duck leg,1
+decorative cookie,1
+kataifi dough,1
+layered cake,1
+duck skin,1
+whole wheat tortilla,1
+chocolate snack bar,1
+other small fruits,1
+yellow dumplings,1
+hojicha powder,1
+bean powder,1
+tomato puree,1
+guavas,1
+b chamel sauce,1
+animal skin,1
+sliced food item,1
+dulce de leche,1
+fried chicken strips,1
+various organ meats,1
+raisin filling,1
+turkey ham,1
+lychee flavor,1
+meat skewer,1
+wakame,1
+green rice paper,1
+poppadom,1
+soymilk,1
+cranberry filling,1
+dried oranges,1
+dried flower buds,1
+crunchy beans,1
+spiced potato filling,1
+meat or egg,1
+fruit water,1
+powdered soybean,1
+green puree,1
+beef floss,1
+filler,1
+tomato garnish,1
+gyoza wrappers,1
+seedless grapes,1
+meat if present,1
+green flour,1
+vegetable fibers,1
+mature cheese,1
+yellow corn,1
+saffron sauce,1
+snack curls,1
+purple corn,1
+wafer flour,1
+lingonberry sauce,1
+white chocolate drizzle,1
+ikan bolu,1
+pancake wraps,1
+sinigang,1
+green cream,1
+pancit,1
+lechon,1
+eucalyptus honey,1
+drink with tapioca,1
+pistachio cream,1
+pastry layers,1
+purple spread,1
+red pepper powder,1
+devil s schnitzel,1
+high protein ice cream,1
+whole grain wrap,1
+protein balls,1
+base ingredient,1
+ice cream cone,1
+frozen dessert,1
+unknown fruit or candy,1
+straws,1
+braised chicken,1
+dhal,1
+sesame seed bread,1
+milk or yogurt drink,1
+grain dish,1
+long gourd,1
+bean flour,1
+battered fish,1
+pork patties,1
+caramelized apples,1
+rice crispies,1
+hydrogenated oil,1
+starchy cake,1
+chocolate garnish,1
+decorative leaves,1
+chocolate stick,1
+hawthorn berries,1
+yogurt dip,1
+zucchini flowers,1
+tangerines,1
+wheat snacks,1
+carbohydrate source,1
+corn snacks,1
+cheese tart,1
+sodium caseinate,1
+strawberry ice,1
+decorative pearls,1
+sundried tomatoes,1
+soup balls,1
+snack fruit,1
+watermelon flavoring,1
+bone broth,1
+fried ball,1
+pork sausages,1
+oil for frying,1
+flower decoration,1
+processed ingredients,1
+snow fungus,1
+kachori,1
+various pastries,1
+green ingredients,1
+popsicle,1
+edible bird s nest,1
+chicken essence,1
+yellow peas,1
+egg or tofu,1
+battered fried food,1
+bao dough,1
+meat stew,1
+mcspicy wings,1
+smiley cookies,1
+sugar toppings,1
+minced meat or lentils,1
+transparent noodles,1
+orange balls,1
+sriracha flavoring,1
+chicken foot,1
+streptococcus,1
+red gelatin,1
+green gelatin,1
+prune,1
+white fungus,1
+oat flour,1
+rose,1
+collagen,1
+bear-shaped cookie,1
+chocolate chip ice cream,1
+mashed sweet potato,1
+wholemeal flour,1
+diced avocado,1
+baagu cake,1
+carrot filling,1
+other ingredients,1
+double chicken burger,1
+starch potato or similar,1
+bbq pork,1
+tteok,1
+flat noodles,1
+shredded pink material,1
+tempura coating,1
+preserved fruits,1
+orange sauce,1
+fried anchovies,1
+a2 milk,1
+kyoho grapes,1
+yambean,1
+rice or bread,1
+lactobacillus,1
+yellowfin tuna,1
+macaron shells,1
+rose syrup,1
+pandan flavoring,1
+banana flavoring,1
+flower petal,1
+cucumber salad,1
+cheese spread,1
+syrup or sweet sauce,1
+fried side,1
+various seeds,1
+herb spread,1
+spicy mix,1
+crunchy base,1
+saffron or turmeric,1
+fruit acid,1
+mashed potato,1
+gel balls,1
+flaky bread,1
+roasted peppers,1
+floral extract,1
+round fruits,1
+vegetables or seafood,1
+green dough wrapper,1
+lobsters,1
+butterbeer,1
+egg pudding,1
+mushroom flavoring,1
+grapefruit juice,1
+unknown vegetables,1
+roasted birds,1
+fried dumpling,1
+fried spring roll,1
+dried legumes,1
+agar jelly,1
+spinach powder,1
+fried vegetable balls,1
+sauce mix,1
+salted cheese,1
+mint garnish,1
+filling meat/vegetable,1
+lemon filling,1
+fruit juice blend,1
+barbecue meat,1
+pralines,1
+chocolate pastry,1
+nutritional ingredients,1
+chopped greens,1
+various meats and vegetables for hot pot,1
+mac and cheese,1
+leaf wrap,1
+cooked birds,1
+shredded greens,1
+anglerfish,1
+meat extract,1
+dark purple fruit,1
+green tea beverage,1
+chocolate beverage,1
+orchid garnish,1
+yellow noodles,1
+wafer rolls,1
+sliced meats,1
+morning glory,1
+vine leaves,1
+skewered sausages,1
+water apple,1
+fried lentils,1
+dried citrus peel,1
+knafeh dough,1
+red lettuce,1
+pearl barley,1
+pistachio flavoring,1
+assorted vegetables,1
+tomato chutney,1
+mint chutney,1
+potato skewers,1
+sweetened fruits,1
+savory pastry,1
+dried starfruit,1
+quinoa rice,1
+fried chicken or similar item,1
+pork shoulder,1
+korean rolls,1
+seasoned vegetables,1
+crispy shells,1
+grated cheese,1
+beef sausage,1
+cheeses,1
+chicken muffin,1
+cupcake batter,1
+chicken parts,1
+evaporated milk,1
+skewered balls,1
+rice wine,1
+spicy vegetables,1
+jelly dessert,1
+chicken protein,1
+gouda cheese,1
+crispy rice paper,1
+starch possibly yam or cassava,1
+crushed peanuts,1
+yuzu,1
+mixed protein dish,1
+stuffed roll,1
+natsuna,1
+vegetable batter,1
+chilies,1
+wasabi flavoring,1
+beverage base,1
+squid ink pasta,1
+dioscorea opposita,1
+chocolate snack,1
+butter cookies,1
+gelatinous meat,1
+takoyaki balls,1
+duck neck,1
+tapioca flour,1
+mooncake,1
+sardine,1
+pumpkin topping,1
+french bread,1
+walnut flavoring,1
+inari,1
+green syrup,1
+cheddar cheese flavoring,1
+creme brulee,1
+hamburger buns,1
+pork loin,1
+cumin,1
+flour wrap,1
+starchy topping,1
+various small dishes,1
+mint leaf,1
+various flavored snack sticks,1
+sesame flatbread,1
+probiotic powder,1
+pulled chicken,1
+dried longan,1
+multigrain rice,1
+aluminum foil,1
+yellow soup,1
+beef bone,1
+wasabi powder,1
+flavor enhancers,1
+chicken extract,1
+sesame pastry,1
+fried chicken burger,1
+green tea mousse,1
+avocado sauce,1
+vegetable leaves,1
+ground sausage,1
+tortilla strips,1
+chili seasoning,1
+snack pack,1
+soda water,1
+potato pancake,1
+fried mushrooms,1
+fruit assortment,1
+juice infusion,1
+freeze-dried raspberries,1
+baked egg dish,1
+passion fruit sauce,1
+blackberry sauce,1
+guava juice,1
+corn fritters,1
+mixed berry flavor,1
+acai,1
+broccoli sprouts,1
+apple flavoring,1
+dried milk skin,1
+pork liver,1
+natto,1
+meat flavoring,1
+roti canai,1
+fudge,1
+gold dust,1
+rose flavoring,1
+meat or eggs,1
+edible seeds,1
+filet mignon,1
+chicken mcnuggets,1
+crab roe,1
+iced cappuccino,1
+sesame wrap,1
+purple sauce,1
+cheese cream,1
+sugar-coated nuts,1
+meat or tofu stuffing,1
+unknown ingredients based on packaging,1
+binders,1
+stick,1
+fruit extracts,1
+roasted garlic,1
+pumpkin soup,1
+black ice cream,1
+sides vegetables,1
+orange glaze,1
+dried pineapple,1
+dried banana,1
+bait,1
+wrapped item,1
+seafood flavoring,1
+grilled chicken skewers,1
+peanut dressing,1
+black peanuts,1
+whole grains,1
+cheese pastry,1
+butterfly pea flower,1
+meat pastry,1
+side salad,1
+osmanthus,1
+fried fish fillet,1
+ganache,1
+meat or shrimp,1
+savory snack base,1
+sauce packet,1
+fried ribs,1
+balsamic reduction,1
+garlic powder,1
+starch balls,1
+pasta shells,1
+purple cauliflower,1
+blood,1
+chicken strips,1
+dried qiuyue pear,1
+lamb/beef,1
+strawberry mousse,1
+tomato juice,1
+takoyaki,1
+tea leaves/coffee,1
+churro,1
+snack packages,1
+various flavored snack balls,1
+black sausage,1
+snack dough,1
+crispy pastry,1
+burger wrappers,1
+wrapped rice dish,1
+orange vegetables,1
+crispy pork skin,1
+shortcrust pastry,1
+black bean cake,1
+ricotta,1
+sashimi fish,1
+black tofu,1
+brownies,1
+green seaweed,1
+pickled eggs,1
+grilled shrimp,1
+green filling possibly made from nuts or herbs,1
+cooked cabbage,1
+purple grapes,1
+pulled beef,1
+sweet bean sauce,1
+canned fruits,1
+green pancake,1
+naan bread,1
+fried oysters,1
+burgers,1
+crispy dough,1
+fried apples,1
+menma,1
+rabri,1
+flounder,1
+teff flour,1
+hard-boiled egg,1
+olive bread,1
+brioche,1
+cream/yogurt,1
+colorful noodles,1
+japchae,1
+flavored beverage,1
+whole pomegranate,1
+menthol,1
+oat milk,1
+green frosting,1
+black tea extract,1
+corndog,1
+grilled tomato,1
+canned food,1
+mixed herbs,1
+grass jelly drink,1
+plum filling,1
+green vegetable paste,1
+purple soup,1
+starchy vegetable,1
+samosa,1
+chopped nuts,1
+chocolate pudding,1
+coconut flour,1
+pork brain,1
+sugar cane,1
+sparkling drink,1
+nut paste,1
+mango topping,1
+tomato soup,1
+meat roll,1
+vanilla sauce,1
+umeboshi,1
+green crust,1
+meat or paneer,1
+beef ribeye,1
+vegetable omelet,1
+rolled pancake,1
+spicy noodles,1
+alcohol,1
+lamb kebab,1
+rolled dough,1
+dessert drink,1
+dried meat or toppings,1
+crispy wafer,1
+sushi ginger,1
+glazed protein,1
+cream soup,1
+chocolate roll cake,1
+filling vegetables,1
+gluten,1
+meat spread,1
+sweetened bean paste,1
+melons,1
+colorful rice cakes,1
+powdered ingredients,1
+casserole ingredients,1
+yellow apples,1
+purple yam filling,1
+blackcurrant juice,1
+pappad,1
+sandwiches,1
+tofu skewers,1
+puffed corn,1
+grilled beef patties,1
+squid or similar protein,1
+mango sorbet,1
+scallop flavoring,1
+dirt-like topping,1
+flax seeds,1
+garlic flavoring,1
+other snacks,1
+fruit snacks,1
+dried red dates,1
+cheesecake filling,1
+dessert with mango and tapioca,1
+fermented fish,1
+bottle gourd,1
+piglet,1
+green filling possibly made from nuts or legumes,1
+yellow raspberries,1
+snack rolls,1
+orange slice,1
+sweet tea,1
+green spread,1
+iced drink,1
+seasoned fish,1
+jellies,1
+spicy meat topping,1
+pistachio ice cream,1
+blackened batter,1
+tartary buckwheat,1
+fried chips,1
+crispy layers,1
+ground meat or tofu,1
+red dough,1
+cocoa filling,1
+flatfish,1
+baked good,1
+pastry shells,1
+mashed pumpkin,1
+cheesy bake,1
+spicy paste,1
+crushed cornflakes,1
+lychee juice,1
+various legumes,1
+purple topping,1
+dough stick,1
+low-gluten flour,1
+mayo,1
+fried seaweed,1
+fried cracker,1
+orange chicken,1
+black truffle,1
+wheat bread,1
+honey oat bread,1
+vegetable coloring,1
+starchy fruit,1
+cutlet,1
+snack3,1
+kumquat,1
+grilled wrap,1
+dessert ingredients,1
+toddy palm seeds,1
+flour coating,1
+ovaltine powder,1
+cocktail mix,1
+flavored chips,1
+doughnut,1
+cheese sticks,1
+grits,1
+wafer cones,1
+vegetable juice,1
+mango filling,1
+decorative hearts,1
+vegetable extract,1
+freeze-dried coffee,1
+black soybeans,1
+ice cubes,1
+cocoa flavoring,1
+soursop,1
+drink2,1
+sweet sauce chicken,1
+liver p t,1
+jam or fruit filling,1
+decorative fruits,1
+roasted sweet potatoes,1
+beef rib fingers,1
+vegetable side,1
+fried fish or chicken,1
+filling meat or vegetable,1
+drink1,1
+peanut cream,1
+peanut spread,1
+sweetened dough,1
+cookie cup,1
+pickled fruits,1
+wet ingredient,1
+cultures,1
+seafood broth,1
+green tea paste,1
+curry broth,1
+grated vegetables,1
+cornflakes,1
+duck gizzards,1
+purple frosting,1
+herbal tea,1
+hawthorn fruit,1
+frozen fruit,1
+rice water,1
+fried sausage,1
+kung pao sauce,1
+grasshoppers,1
+venison,1
+linguine,1
+beef extract,1
+sriracha,1
+binding agent,1
+spirits,1
+brie cheese,1
+shells,1
+melon pan,1
+skewered chicken,1
+small seafood,1
+gummy candy,1
+chorizo,1
+green cakes,1
+fruit juices,1
+wings,1
+duck blood,1
+bread base,1
+dessert pastry,1
+cannoli shell,1
+baked dough,1
+pepper seasoning,1
+egg filling,1
+various sausages,1
+parmesan,1
+green toast,1
+sesame chicken,1
+sweetened grains,1
+sliced ham,1
+green wrapper,1
+crispy coating for chicken,1
+bread cubes,1
+decorative bun,1
+green bun,1
+sweet cream,1
+tea oil,1
+durian pulp,1
+yellow vegetable,1
+other berries,1
+yellow lentils,1
+green lentils,1
+other greens,1
+black fruits,1
+green items,1
+chicken cutlet,1
+mixed ingredients,1
+savory snack,1
+beef sauce,1
+nut milk,1
+cherry juice,1
+mangosteens,1
+botanical extracts,1
+fried snack sticks,1
+spicy rice cakes,1
+skewered fish cakes,1
+candy pieces,1
+black bean soup,1
+yellow split peas,1
+black pepper sauce,1
+butter sauce,1
+tea bag,1
+wheat starch,1
+cocoa cream,1
+garlic sprouts,1
+scallion pancake,1
+chocolate tart crust,1
+colored candies,1
+cookie crumbles,1
+fruit tart,1
+whole dog,1
+dark fruit,1
+peach earl grey tea,1
+beef flavor seasoning,1
+battered seafood,1
+sweetened red beans,1
+smoked chicken,1
+egg white,1
+pickled mustard greens,1
+sweet liquid,1
+potato wedge,1
+palm leaves,1
+satay,1
+minced beef,1
+balsamic dressing,1
+stuffed eggplant,1
+cooked meats,1
+waffle crisps,1
+various ingredients as per package,1
+mango popsicles,1
+timbits,1
+rice puffs,1
+dried insects,1
+coffee drink,1
+appetizers,1
+carbonated drink,1
+pea flour,1
+protein possibly fish or tofu,1
+waffle batter,1
+yellow chili,1
+filling assumed,1
+unknown ingredient,1
+pickled fish,1
+salmon flavoring,1
+melting salt,1
+cow milk,1
+almond white chocolate,1
+rice or tapioca,1
+small lobster,1
+red bayberry,1
+seafood mix,1
+red fruit,1
+oat flakes,1
+green rice flour,1
+green drink,1
+saltine crackers,1
+cream topping,1
+mixed seafood,1
+freeze-dried raw ingredients,1
+animal protein,1
+oreo crumbs,1
+burrito,1
+small birds,1
+saut ed vegetables,1
+egg roll wrappers,1
+seasoning cubes,1
+tea leaves or broth ingredients,1
+pig s trotter,1
+curry paste,1
+pork buns,1
+fruit drinks,1
+cranberry flavor,1
+dim sum wrapper,1
+pumpkin pie,1
+baked apples,1
+sliced chili,1
+grilled onions,1
+watermelon candy,1
+oreo,1
+baked pastry,1
+green mangoes,1
+gel beads,1
+imitation crab sticks,1
+steamed broccoli,1
+silkworms,1
+decorative marshmallows,1
+chocolate sponge cake,1
+small green fruit,1
+zucchini patties,1
+vegetable spread,1
+snail meat,1
+dumpling pastry,1
+mixed seeds,1
+robusta coffee beans,1
+sprouted seeds,1
+steamed dough,1
+dried beans,1
+small pastry,1
+green bread,1
+sweetened tapioca pearls,1
+savory pancake,1
+sweet soup broth,1
+glutinous rice dumplings,1
+breaded pork,1
+spicy snacks,1
+fried skin,1
+processed fruit,1
+unknown fruit,1
+frozen treat,1
+eyes decorative,1
+egg cake,1
+paprika seasoning,1
+orange roe,1
+burger patties,1
+crab flavor,1
+vegetable puree,1
+shrimp fritter,1
+cookie stick,1
+indian gooseberries,1
+char siu pork,1
+coffee flavor,1
+black egg,1
+accompaniments,1
+blood tofu,1
+green coloring,1
+schnitzel,1
+almond cream,1
+jasmine tea leaves,1
+cup,1
+char siu roasted pork,1
+purple dough,1
+beet juice,1
+bread or pancake,1
+mint extract,1
+fava beans,1
+starch base,1
+guanciale,1
+coconuts,1
+vegetable fritter,1
+chicken or seafood,1
+grilled zucchini,1
+grilled potato,1
+cooked protein,1
+cracklings,1
+fatty meat,1
+brioche bun,1
+character pasta,1
+fruit compote,1
+filling possibly fish or meat,1
+wafer stick,1
+jackfruit seeds,1
+chicken thigh,1
+fish head,1
+breaded chicken or fish,1
+sugar snap peas,1
+mung bean filling,1
+aspartame,1
+tea or coffee,1
+probiotic cultures,1
+seaweed soup,1
+syrups,1
+grilled green onions,1
+chasiu barbecued pork,1
+chicken burger,1
+plum flavoring,1
+honey or sugar,1
+grilled bread,1
+fried strips,1
+red plums,1
+fried leaves,1
+tempura bits,1
+dried fish or meat,1
+various sides,1
+prime rib,1
+jelly balls,1
+chestnut cream,1
+sweet soy sauce,1
+kinako,1
+dark soy sauce,1
+dessert cream,1
+grilled corn,1
+whole grain,1
+roasted chicken/duck,1
+various cheeses,1
+fufu cassava or yam,1
+char siu barbecue pork,1
+vanilla dessert drink,1
+chocolate dessert drink,1
+tobiko,1
+baked condensed milk,1
+yellow lettuce,1
+fresh milk,1
+goat meat,1
+whole wheat bun,1
+artificial colors,1
+decorative figurine,1
+fruit mix,1
+crispy pancake,1
+soup mix,1
+julienned vegetables,1
+salak,1
+milk filling,1
+red jujube,1
+rose essence,1
+hamburger,1
+barbecue ribs,1
+savory fillings,1
+green condiment,1
+unknown ingredients based on package,1
+yellow drink,1
+bread crust,1
+sweet red bean paste,1
+pastry base,1
+duck legs,1
+pickled greens,1
+steamed meat,1
+oyster extract,1
+macaron pieces,1
+pretzel sticks,1
+butterscotch chips,1
+yellow flowers,1
+chocolate-coated cereal,1
+blue crabs,1
+red potato,1
+cooked egg,1
+fruit preserves,1
+protein item,1
+powdered topping,1
+sundae,1
+breaded chicken patty,1
+sirloin steak,1
+lotus leaf juice,1
+sweetened milk drink,1
+lemon tea,1
+natural flavoring,1
+lavender ice cream,1
+base layer,1
+black mulberries,1
+maqui powder,1
+cereal loops,1
+fried zucchini,1
+orange dessert,1
+efo riro,1
+grape flavor,1
+multi-grains,1
+glaze/sauce,1
+currants,1
+powdered drink mix,1
+doritos,1
+sesame bars,1
+steamed rice balls,1
+cupcake base,1
+starchy paste,1
+soft shell shrimp,1
+red pork,1
+sorghum,1
+seasoned soy protein,1
+filling possibly meat or vegetables,1
+tea egg,1
+sesame cakes,1
+roasted goose,1
+panna cotta,1
+wheat malt,1
+barley malt,1
+efo riro vegetable stew,1
+langoustines,1
+corn kernels,1
+various grains,1
+battered meat,1
+guinea pig,1
+rhubarb,1
+yellow striped fruits,1
+minced turkey,1
+pig s ears,1
+cherry sauce,1
+dried snow pear,1
+dried lotus root,1
+pudding base,1
+various mushrooms,1
+red jelly,1
+marinated beef,1
+sesame seed buns,1
+dried orange peel,1
+coffee powder,1
+meat in sauce,1
+various other fruits,1
+seafood salad,1
+pike,1
+coffee grounds,1
+leaf wraps,1
+grilling sauce,1
+red syrup,1
+vodka,1
+blue cura ao,1
+dried seaweed,1
+ginseng extract,1
+purple sweet potatoes,1
+jelly cubes,1
+stinky tofu,1
+radicchio,1
+snack mix ingredients,1
+chopped green onions,1
+orchid flower,1
+oat,1
+yogurt culture,1
+pineapple flavoring,1
+caramel dessert,1
+crispy tofu,1
+milk drinks,1
+dried goji berries,1
+beef slices,1
+beef chunk,1
+pumpkin flowers,1
+almond pastry,1
+tremella mushroom,1
+purple leaves,1
+bottled water,1
+thai tea,1
+physalis,1
+strawberry juice,1
+fried bananas,1
+lotus stem,1
+vegetable slices,1
+various processed meats,1
+toast bread,1
+pine honey,1
+fruit decorations,1
+crinkle fries,1
+fish meat,1
+moutai liquor,1
+szechuan sausage,1
+walnut sauce,1
+poblano pepper,1
+cicadas,1
+lamb/goat meat,1
+pomelos,1
+sweet potato balls,1
+peach syrup,1
+chicken/beef skewers,1
+grilled sausages,1
+cherry filling,1
+hind leg meat,1
+bubble tea,1
+salted black beans,1
+fried dace,1
+heart,1
+powdered milk,1
+fried dough pieces,1
+dried peaches,1
+top blade,1
+shoulder core,1
+knuckle,1
+rice snacks,1
+bayberries,1
+swiss cheese,1
+mint cream,1
+orange berries,1
+beef curry,1
+peach slices,1
+broccoli stems,1
+seafood rolls,1
+strawberry dessert,1
+sweetened liquid,1
+old brown sugar,1
+seasonal vegetables,1
+smoked meat,1
+macaroni salad,1
+marinated chicken,1
+salted tofu,1
+citrus flavoring,1
+red dip,1
+green dip,1
+yellow peppers,1
+chicken flavor,1
+protein meat,1
+rose flavor,1
+horsebeans,1
+clod heart,1
+chuck tender,1
+green bean,1
+noodles or rice,1
+marzipan,1
+seahorse,1
+scorpion,1
+chicken liver,1
+sandwich fillings,1
+cane sugar,1
+urad dal flour,1
+pickled vegetable,1
+fig jam,1
+chicken optional,1
+vegetable pancakes,1
+okura,1
+tomato slice,1
+black jelly powder,1
+dark filling,1
+dahl,1
+roast pig,1
+fried bun,1
+shredded dough,1
+wafer sticks,1
+lemonade,1
+dried root,1
+whole wheat bread,1
+quail egg meat,1
+red fruit 2,1
+dried bonito flakes,1
+meat powder,1
+wrap bread,1
+sichuan pepper,1
+hotdog,1
+fried corn,1
+buffalo milk,1
+dove chocolate,1
+cream base,1
+red fruit 1,1
+fried beef,1
+animal parts,1
+chicken/beef,1
+dried date,1
+pork cracklings,1
+dried seeds,1
+pastry cream,1
+cake crust,1
+blue raspberry gelato,1
+granola base,1
+sweetened syrup,1
